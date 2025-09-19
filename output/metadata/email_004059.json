@@ -1,0 +1,56 @@
+{
+  "id": "email_004059",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:11.396908",
+  "subject": "RE: 09477 | 1 | 430 | Póliza no. 46745 | Reexpedición / SOLICITUD 2511257",
+  "sender_name": "Sonia Gabriela  Piña Pérez",
+  "delivery_time": "2025-08-04T16:10:21.630396",
+  "creation_time": "2025-08-04T22:31:22.443977",
+  "modification_time": "2025-08-04T22:36:36.555577",
+  "attachment_count": 8,
+  "eml_file": "emails/email_004059.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 853685,
+      "path": "attachments/email_004059/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 11427,
+      "path": "attachments/email_004059/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 3958,
+      "path": "attachments/email_004059/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 22106,
+      "path": "attachments/email_004059/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 60179,
+      "path": "attachments/email_004059/attachment_4"
+    },
+    {
+      "filename": "attachment_5",
+      "size": 116850,
+      "path": "attachments/email_004059/attachment_5"
+    },
+    {
+      "filename": "attachment_6",
+      "size": 27570,
+      "path": "attachments/email_004059/attachment_6"
+    },
+    {
+      "filename": "attachment_7",
+      "size": 22106,
+      "path": "attachments/email_004059/attachment_7"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 143620
+}

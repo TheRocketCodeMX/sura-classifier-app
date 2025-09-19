@@ -1,0 +1,31 @@
+{
+  "id": "email_007996",
+  "folder": "Principio del archivo de datos de Outlook/DEPURADOS",
+  "extraction_date": "2025-09-19T12:27:46.141165",
+  "subject": "TRANSPORTES MORANA | COTIZACION TRACTOR 2015 LEGALIZADA AGRUPADOR 0444300001",
+  "sender_name": "Larissa Somera",
+  "delivery_time": "2025-08-04T15:53:11.822306",
+  "creation_time": "2025-08-11T20:19:44.148923",
+  "modification_time": "2025-08-11T20:19:48.502620",
+  "attachment_count": 3,
+  "eml_file": "emails/email_007996.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 34127,
+      "path": "attachments/email_007996/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 3958,
+      "path": "attachments/email_007996/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 853685,
+      "path": "attachments/email_007996/attachment_2"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 48793
+}

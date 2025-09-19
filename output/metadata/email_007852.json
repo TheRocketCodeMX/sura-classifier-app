@@ -1,0 +1,21 @@
+{
+  "id": "email_007852",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:42.893434",
+  "subject": "RENOVACION 1-501-11696-1 / CAMINANTE AEROPUERTO",
+  "sender_name": "danos@cpsseguros.com",
+  "delivery_time": "2025-08-18T17:07:36.267315",
+  "creation_time": "2025-08-18T23:30:59.775922",
+  "modification_time": "2025-08-18T23:31:02.542603",
+  "attachment_count": 1,
+  "eml_file": "emails/email_007852.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 51478,
+      "path": "attachments/email_007852/attachment_0"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 3696
+}

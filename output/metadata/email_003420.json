@@ -1,0 +1,36 @@
+{
+  "id": "email_003420",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:57.116094",
+  "subject": "RE: SOL. 2533467",
+  "sender_name": "MXCalidadCEC",
+  "delivery_time": "2025-08-19T18:20:29.110533",
+  "creation_time": "2025-08-19T23:26:57.247272",
+  "modification_time": "2025-08-19T23:27:01.605790",
+  "attachment_count": 4,
+  "eml_file": "emails/email_003420.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 853685,
+      "path": "attachments/email_003420/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 29177,
+      "path": "attachments/email_003420/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 49762,
+      "path": "attachments/email_003420/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 40947,
+      "path": "attachments/email_003420/attachment_3"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 28708
+}

@@ -1,0 +1,26 @@
+{
+  "id": "email_000977",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:24:59.044033",
+  "subject": "606/ALA AZUL/RENOVACIÓN JULIO-AGOSTO/CALDERON ALCARAZ XAVIER/3/30001948/007239 // AA566",
+  "sender_name": "arodriguez@bessonseguros.com",
+  "delivery_time": "2025-08-04T22:10:31.426241",
+  "creation_time": "2025-08-06T13:46:24.931041",
+  "modification_time": "2025-08-05T14:31:56.851660",
+  "attachment_count": 2,
+  "eml_file": "emails/email_000977.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 128954,
+      "path": "attachments/email_000977/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 64776,
+      "path": "attachments/email_000977/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 4102
+}

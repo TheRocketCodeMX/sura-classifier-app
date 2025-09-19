@@ -1,0 +1,31 @@
+{
+  "id": "email_008474",
+  "folder": "Principio del archivo de datos de Outlook/DEPURADOS",
+  "extraction_date": "2025-09-19T12:27:52.208429",
+  "subject": "RE: CONDOMINIO CAMIONO A SANTA TERESA 1064//COTIZAR POLIZA EMPRESARIAL// AGENTE OPCION SEGUROS SURA 7628 / SOLICITUD 2529989",
+  "sender_name": "MXsuscripcion danos",
+  "delivery_time": "2025-08-08T14:43:26.868709",
+  "creation_time": "2025-08-08T14:43:26.168665",
+  "modification_time": "2025-08-08T14:43:44.543863",
+  "attachment_count": 3,
+  "eml_file": "emails/email_008474.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 1007479,
+      "path": "attachments/email_008474/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 13747,
+      "path": "attachments/email_008474/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 9978,
+      "path": "attachments/email_008474/attachment_2"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 11372
+}

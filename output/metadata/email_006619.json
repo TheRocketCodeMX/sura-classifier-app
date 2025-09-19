@@ -1,0 +1,31 @@
+{
+  "id": "email_006619",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:15.165559",
+  "subject": "RE: CASO AUTORIZADO POR AREA TECNICA // COTIZACIÓN TRANSPORTES CARGA // MOTO AVANZADA // AGENTE 7065 JORGE OBREGON - SURA",
+  "sender_name": "Zamora Velazquez Alejandra",
+  "delivery_time": "2025-08-14T17:42:14.983025",
+  "creation_time": "2025-08-15T14:01:44.679680",
+  "modification_time": "2025-08-15T14:01:48.086746",
+  "attachment_count": 3,
+  "eml_file": "emails/email_006619.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 853685,
+      "path": "attachments/email_006619/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 3958,
+      "path": "attachments/email_006619/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 823,
+      "path": "attachments/email_006619/attachment_2"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 38057
+}

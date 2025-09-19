@@ -1,0 +1,51 @@
+{
+  "id": "email_001021",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:00.116803",
+  "subject": "RE: URGENTE ¡¡SERVICIOS DE SALUD ZAPOPAN // VIDA 2025-2026 S-",
+  "sender_name": "Ruelas Castellanos Melissa Anahi",
+  "delivery_time": "2025-08-05T05:35:29.188368",
+  "creation_time": "2025-08-06T13:44:15.996192",
+  "modification_time": "2025-08-05T15:53:22.550304",
+  "attachment_count": 7,
+  "eml_file": "emails/email_001021.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 1453,
+      "path": "attachments/email_001021/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 3958,
+      "path": "attachments/email_001021/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 853685,
+      "path": "attachments/email_001021/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 25600,
+      "path": "attachments/email_001021/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 13747,
+      "path": "attachments/email_001021/attachment_4"
+    },
+    {
+      "filename": "attachment_5",
+      "size": 151510,
+      "path": "attachments/email_001021/attachment_5"
+    },
+    {
+      "filename": "attachment_6",
+      "size": 13920,
+      "path": "attachments/email_001021/attachment_6"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 69080
+}

@@ -1,0 +1,81 @@
+{
+  "id": "email_003830",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:26:06.394184",
+  "subject": "RV: RAQUEL CHAVIRA CORTES POLIZA NO. 11 201 15957",
+  "sender_name": "Mesa Hermosillo",
+  "delivery_time": "2025-08-18T17:52:00.448313",
+  "creation_time": "2025-08-19T00:17:05.990198",
+  "modification_time": "2025-08-19T00:17:42.168666",
+  "attachment_count": 13,
+  "eml_file": "emails/email_003830.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 853685,
+      "path": "attachments/email_003830/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 17728,
+      "path": "attachments/email_003830/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 222,
+      "path": "attachments/email_003830/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 720,
+      "path": "attachments/email_003830/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 559,
+      "path": "attachments/email_003830/attachment_4"
+    },
+    {
+      "filename": "attachment_5",
+      "size": 700,
+      "path": "attachments/email_003830/attachment_5"
+    },
+    {
+      "filename": "attachment_6",
+      "size": 700,
+      "path": "attachments/email_003830/attachment_6"
+    },
+    {
+      "filename": "attachment_7",
+      "size": 526,
+      "path": "attachments/email_003830/attachment_7"
+    },
+    {
+      "filename": "attachment_8",
+      "size": 678,
+      "path": "attachments/email_003830/attachment_8"
+    },
+    {
+      "filename": "attachment_9",
+      "size": 592,
+      "path": "attachments/email_003830/attachment_9"
+    },
+    {
+      "filename": "attachment_10",
+      "size": 157809,
+      "path": "attachments/email_003830/attachment_10"
+    },
+    {
+      "filename": "attachment_11",
+      "size": 53939,
+      "path": "attachments/email_003830/attachment_11"
+    },
+    {
+      "filename": "attachment_12",
+      "size": 3958,
+      "path": "attachments/email_003830/attachment_12"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 47372
+}

@@ -1,0 +1,26 @@
+{
+  "id": "email_000114",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:24:38.073869",
+  "subject": "RV: CO610DR ||RE: Renovación de póliza Daños  Sunmi LIMITED S de RL de CV / Sura 1-501-12421",
+  "sender_name": "cobranzaseguros@socasesores.com",
+  "delivery_time": "2025-08-05T21:42:50.636737",
+  "creation_time": "2025-08-05T23:02:00.420539",
+  "modification_time": "2025-08-05T23:10:39.148273",
+  "attachment_count": 2,
+  "eml_file": "emails/email_000114.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 14450,
+      "path": "attachments/email_000114/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 176709,
+      "path": "attachments/email_000114/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 4696
+}

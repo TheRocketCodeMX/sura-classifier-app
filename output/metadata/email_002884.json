@@ -1,0 +1,31 @@
+{
+  "id": "email_002884",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:44.987336",
+  "subject": "KALIDA 7834: SULO | COTIZACIÓN SEGURO DE VIDA GRUPO Y GMM",
+  "sender_name": "Salazar Espinoza Julian",
+  "delivery_time": "2025-08-14T23:02:12.649027",
+  "creation_time": "2025-08-18T15:03:47.584159",
+  "modification_time": "2025-08-18T15:05:21.381740",
+  "attachment_count": 3,
+  "eml_file": "emails/email_002884.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 1651896,
+      "path": "attachments/email_002884/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 36522,
+      "path": "attachments/email_002884/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 853685,
+      "path": "attachments/email_002884/attachment_2"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 24246
+}

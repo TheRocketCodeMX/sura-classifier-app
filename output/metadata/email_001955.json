@@ -1,0 +1,156 @@
+{
+  "id": "email_001955",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:22.258582",
+  "subject": "RE: 202/FLOTILLA/COTIZACIÓN/ MEAT ME MEXICO/1/COTIZACIÓN/2619",
+  "sender_name": "JAVIER  MAXIMILIANO",
+  "delivery_time": "2025-08-06T03:39:08.182494",
+  "creation_time": "2025-08-20T19:59:26.518329",
+  "modification_time": "2025-08-20T20:17:16.833892",
+  "attachment_count": 28,
+  "eml_file": "emails/email_001955.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 853685,
+      "path": "attachments/email_001955/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 116850,
+      "path": "attachments/email_001955/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 27570,
+      "path": "attachments/email_001955/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 3958,
+      "path": "attachments/email_001955/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 88069,
+      "path": "attachments/email_001955/attachment_4"
+    },
+    {
+      "filename": "attachment_5",
+      "size": 7591,
+      "path": "attachments/email_001955/attachment_5"
+    },
+    {
+      "filename": "attachment_6",
+      "size": 114,
+      "path": "attachments/email_001955/attachment_6"
+    },
+    {
+      "filename": "attachment_7",
+      "size": 306,
+      "path": "attachments/email_001955/attachment_7"
+    },
+    {
+      "filename": "attachment_8",
+      "size": 360,
+      "path": "attachments/email_001955/attachment_8"
+    },
+    {
+      "filename": "attachment_9",
+      "size": 298,
+      "path": "attachments/email_001955/attachment_9"
+    },
+    {
+      "filename": "attachment_10",
+      "size": 323,
+      "path": "attachments/email_001955/attachment_10"
+    },
+    {
+      "filename": "attachment_11",
+      "size": 714,
+      "path": "attachments/email_001955/attachment_11"
+    },
+    {
+      "filename": "attachment_12",
+      "size": 1053,
+      "path": "attachments/email_001955/attachment_12"
+    },
+    {
+      "filename": "attachment_13",
+      "size": 699,
+      "path": "attachments/email_001955/attachment_13"
+    },
+    {
+      "filename": "attachment_14",
+      "size": 2605,
+      "path": "attachments/email_001955/attachment_14"
+    },
+    {
+      "filename": "attachment_15",
+      "size": 15520,
+      "path": "attachments/email_001955/attachment_15"
+    },
+    {
+      "filename": "attachment_16",
+      "size": 15600,
+      "path": "attachments/email_001955/attachment_16"
+    },
+    {
+      "filename": "attachment_17",
+      "size": 15538,
+      "path": "attachments/email_001955/attachment_17"
+    },
+    {
+      "filename": "attachment_18",
+      "size": 48148,
+      "path": "attachments/email_001955/attachment_18"
+    },
+    {
+      "filename": "attachment_19",
+      "size": 16952,
+      "path": "attachments/email_001955/attachment_19"
+    },
+    {
+      "filename": "attachment_20",
+      "size": 48922,
+      "path": "attachments/email_001955/attachment_20"
+    },
+    {
+      "filename": "attachment_21",
+      "size": 100209,
+      "path": "attachments/email_001955/attachment_21"
+    },
+    {
+      "filename": "attachment_22",
+      "size": 67479,
+      "path": "attachments/email_001955/attachment_22"
+    },
+    {
+      "filename": "attachment_23",
+      "size": 15585,
+      "path": "attachments/email_001955/attachment_23"
+    },
+    {
+      "filename": "attachment_24",
+      "size": 15520,
+      "path": "attachments/email_001955/attachment_24"
+    },
+    {
+      "filename": "attachment_25",
+      "size": 15574,
+      "path": "attachments/email_001955/attachment_25"
+    },
+    {
+      "filename": "attachment_26",
+      "size": 15512,
+      "path": "attachments/email_001955/attachment_26"
+    },
+    {
+      "filename": "attachment_27",
+      "size": 15593,
+      "path": "attachments/email_001955/attachment_27"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 63575
+}

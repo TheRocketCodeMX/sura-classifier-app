@@ -1,0 +1,31 @@
+{
+  "id": "email_000868",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:24:56.249041",
+  "subject": "COTIZACIÓN FLOTILLA ROSDEL LOGISTIC SA CV | OT-0000012916 | SURA",
+  "sender_name": "Murguia Davalos Nayeli Carolina",
+  "delivery_time": "2025-08-03T23:10:14.569927",
+  "creation_time": "2025-08-04T22:37:24.805175",
+  "modification_time": "2025-08-04T22:37:45.952242",
+  "attachment_count": 3,
+  "eml_file": "emails/email_000868.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 340887,
+      "path": "attachments/email_000868/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 34077,
+      "path": "attachments/email_000868/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 138540,
+      "path": "attachments/email_000868/attachment_2"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 3691
+}

@@ -1,0 +1,21 @@
+{
+  "id": "email_008066",
+  "folder": "Principio del archivo de datos de Outlook/DEPURADOS",
+  "extraction_date": "2025-09-19T12:27:46.734797",
+  "subject": "Re: RENOVACIÓN ANTICIPADA 420 | MULTIPLE FAMILIAR (430 Y 501) | SEPTIEMBRE 2025 | OFICINA CIUDAD DE MEXICO(GERENCIA SELENE) | 002259 AARON JUAN LIVERANT GOLDBERG",
+  "sender_name": "Armando Garro",
+  "delivery_time": "2025-08-05T16:01:10.246523",
+  "creation_time": "2025-08-11T20:17:41.574894",
+  "modification_time": "2025-08-11T20:17:43.796859",
+  "attachment_count": 1,
+  "eml_file": "emails/email_008066.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 60934,
+      "path": "attachments/email_008066/attachment_0"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 42394
+}

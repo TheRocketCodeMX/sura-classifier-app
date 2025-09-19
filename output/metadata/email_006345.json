@@ -1,0 +1,21 @@
+{
+  "id": "email_006345",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:07.209072",
+  "subject": "ENDOSO POLIZA 7/201/27832 MARY THELMA RUBIO MAYORGA",
+  "sender_name": "VERONICA BAEZA",
+  "delivery_time": "2025-08-15T19:36:00.815769",
+  "creation_time": "2025-08-19T15:21:12.215063",
+  "modification_time": "2025-08-19T15:21:37.547973",
+  "attachment_count": 1,
+  "eml_file": "emails/email_006345.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 357555,
+      "path": "attachments/email_006345/attachment_0"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 2251
+}

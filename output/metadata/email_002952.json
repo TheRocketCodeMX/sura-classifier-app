@@ -1,0 +1,26 @@
+{
+  "id": "email_002952",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:47.214536",
+  "subject": "RV: SURA VIDA DEUDOR Financiera SENDAI S.A. DE C.V. SOFOM ENR.",
+  "sender_name": "Animas Guerrero Hector Alfonso",
+  "delivery_time": "2025-08-15T06:04:16.777350",
+  "creation_time": "2025-08-15T20:09:39.298826",
+  "modification_time": "2025-08-15T20:11:23.729026",
+  "attachment_count": 2,
+  "eml_file": "emails/email_002952.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 440391,
+      "path": "attachments/email_002952/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 853685,
+      "path": "attachments/email_002952/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 20614
+}

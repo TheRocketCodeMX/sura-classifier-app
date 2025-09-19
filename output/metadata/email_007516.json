@@ -1,0 +1,26 @@
+{
+  "id": "email_007516",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:35.030811",
+  "subject": "AGENTE 4610 (COSTA VICTORIA) LES SOLICITO DE LA MANERA MAS ATENTA Y URGENTE COTIZAR AL MEJOR PRECIO Y CONDICIONES POSIBLES SEGURO PARA CASA HABITACION SEGUN INFORMACION QUE ENVIO ADJUNTO",
+  "sender_name": "albertosacal@segurosnacionales.com.mx",
+  "delivery_time": "2025-08-19T15:22:44.340057",
+  "creation_time": "2025-08-20T13:34:34.033773",
+  "modification_time": "2025-08-20T13:36:28.715765",
+  "attachment_count": 2,
+  "eml_file": "emails/email_007516.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 36877,
+      "path": "attachments/email_007516/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 151393,
+      "path": "attachments/email_007516/attachment_1"
+    }
+  ],
+  "plain_text_length": 572,
+  "html_content_length": 0
+}

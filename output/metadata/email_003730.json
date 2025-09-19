@@ -1,0 +1,31 @@
+{
+  "id": "email_003730",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:26:04.311612",
+  "subject": "RV: COTIZACION FLOTILLA || ALBERTO RUBEN ELIZONDO GORENA || AGTE. OSWALDO BARUCH MIER ",
+  "sender_name": "Mesa Puebla",
+  "delivery_time": "2025-08-18T21:28:19.853858",
+  "creation_time": "2025-08-20T13:09:32.982054",
+  "modification_time": "2025-08-20T13:10:44.327043",
+  "attachment_count": 3,
+  "eml_file": "emails/email_003730.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 519583,
+      "path": "attachments/email_003730/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 31965,
+      "path": "attachments/email_003730/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 3958,
+      "path": "attachments/email_003730/attachment_2"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 9833
+}

@@ -1,0 +1,31 @@
+{
+  "id": "email_000289",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:24:42.724129",
+  "subject": "RV: Cotizacion Mercedes 2018 Regularizado",
+  "sender_name": "Mesa Puebla",
+  "delivery_time": "2025-08-05T17:42:34.031595",
+  "creation_time": "2025-08-06T14:10:53.382067",
+  "modification_time": "2025-08-06T14:11:13.606662",
+  "attachment_count": 3,
+  "eml_file": "emails/email_000289.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 88840,
+      "path": "attachments/email_000289/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 366522,
+      "path": "attachments/email_000289/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 3958,
+      "path": "attachments/email_000289/attachment_2"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 14048
+}

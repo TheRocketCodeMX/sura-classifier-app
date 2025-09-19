@@ -1,0 +1,26 @@
+{
+  "id": "email_008043",
+  "folder": "Principio del archivo de datos de Outlook/DEPURADOS",
+  "extraction_date": "2025-09-19T12:27:46.542995",
+  "subject": "EMISIONES SISEGUROS 6284/ot-0710218 sura barona chambon roberto renovacion.pdf",
+  "sender_name": "SISEGUROS",
+  "delivery_time": "2025-08-04T21:57:28.488236",
+  "creation_time": "2025-08-11T20:18:18.391650",
+  "modification_time": "2025-08-11T20:18:35.854521",
+  "attachment_count": 2,
+  "eml_file": "emails/email_008043.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 5040,
+      "path": "attachments/email_008043/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 128217,
+      "path": "attachments/email_008043/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 8907
+}

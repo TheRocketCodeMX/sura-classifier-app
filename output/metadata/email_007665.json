@@ -1,0 +1,36 @@
+{
+  "id": "email_007665",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:39.245032",
+  "subject": "RV: COTIZACION GMM GRUPO / INARI KNOWLEDGE AND TECHNOLOGIES SA DE CV ",
+  "sender_name": "Mesa Monterrey",
+  "delivery_time": "2025-08-18T22:15:21.604574",
+  "creation_time": "2025-08-20T14:34:19.711328",
+  "modification_time": "2025-08-20T14:34:38.503634",
+  "attachment_count": 4,
+  "eml_file": "emails/email_007665.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 14087,
+      "path": "attachments/email_007665/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 42496,
+      "path": "attachments/email_007665/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 10182,
+      "path": "attachments/email_007665/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 3958,
+      "path": "attachments/email_007665/attachment_3"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 8024
+}

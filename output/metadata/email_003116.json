@@ -1,0 +1,21 @@
+{
+  "id": "email_003116",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:50.854205",
+  "subject": "COTIZAR POLIZA RESPONSABILIDAD CIVIL / AGENTE 009052",
+  "sender_name": "Jefatura",
+  "delivery_time": "2025-08-15T19:25:28.992556",
+  "creation_time": "2025-08-19T11:51:34.874445",
+  "modification_time": "2025-08-19T11:51:40.869606",
+  "attachment_count": 1,
+  "eml_file": "emails/email_003116.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 31235,
+      "path": "attachments/email_003116/attachment_0"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 8275
+}

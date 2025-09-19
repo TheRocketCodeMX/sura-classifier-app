@@ -1,0 +1,26 @@
+{
+  "id": "email_006309",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:06.636512",
+  "subject": "Fwd: EMISION DE POLIZA KARLA GUADALUPE ROSALDO OLAN",
+  "sender_name": "Josue Burgos",
+  "delivery_time": "2025-08-14T23:21:11.036106",
+  "creation_time": "2025-08-15T17:57:09.569261",
+  "modification_time": "2025-08-15T17:57:28.040750",
+  "attachment_count": 2,
+  "eml_file": "emails/email_006309.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 84166,
+      "path": "attachments/email_006309/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 88276,
+      "path": "attachments/email_006309/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 3931
+}

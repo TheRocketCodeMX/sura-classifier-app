@@ -1,0 +1,36 @@
+{
+  "id": "email_007106",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:27.490954",
+  "subject": "RE: ROGA // RESPONSABILIDAD CIVIL // Información para cotizar // SURA",
+  "sender_name": "Daños Saga",
+  "delivery_time": "2025-08-15T19:45:49.704985",
+  "creation_time": "2025-08-19T11:51:07.582144",
+  "modification_time": "2025-08-19T11:51:28.571605",
+  "attachment_count": 4,
+  "eml_file": "emails/email_007106.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 17563,
+      "path": "attachments/email_007106/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 853685,
+      "path": "attachments/email_007106/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 16889,
+      "path": "attachments/email_007106/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 5055901,
+      "path": "attachments/email_007106/attachment_3"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 46032
+}

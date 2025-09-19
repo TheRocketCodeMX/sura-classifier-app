@@ -1,0 +1,26 @@
+{
+  "id": "email_004964",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:33.167608",
+  "subject": "606/ALA AZUL/RENOVACIÓN AGOSTO-SEPTIEMBRE/FARIAS TOSCANO RIGOBERTO/3/30001928/007239 // AA565",
+  "sender_name": "arodriguez@bessonseguros.com",
+  "delivery_time": "2025-08-04T21:55:08.716816",
+  "creation_time": "2025-08-06T13:46:29.361635",
+  "modification_time": "2025-08-05T14:29:37.470060",
+  "attachment_count": 2,
+  "eml_file": "emails/email_004964.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 116192,
+      "path": "attachments/email_004964/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 64776,
+      "path": "attachments/email_004964/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 4079
+}

@@ -1,0 +1,41 @@
+{
+  "id": "email_001495",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:12.052303",
+  "subject": "RE: COTIZACION // MOTORAD // VIDA GRUPO /",
+  "sender_name": "Gonzalez Morales Brenda Alejandra",
+  "delivery_time": "2025-08-05T21:09:14.926167",
+  "creation_time": "2025-08-07T09:46:03.530800",
+  "modification_time": "2025-08-07T09:46:23.716396",
+  "attachment_count": 5,
+  "eml_file": "emails/email_001495.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 146432,
+      "path": "attachments/email_001495/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 30661,
+      "path": "attachments/email_001495/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 853685,
+      "path": "attachments/email_001495/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 3958,
+      "path": "attachments/email_001495/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 116693,
+      "path": "attachments/email_001495/attachment_4"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 58903
+}

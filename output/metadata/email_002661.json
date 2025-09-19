@@ -1,0 +1,26 @@
+{
+  "id": "email_002661",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:40.144801",
+  "subject": "OF1/605/ACCIDENTESPERSONALES/ENDOSO/ASOCIACION DE SCOUTS DE MEXICO AC/16222/AGENTE 2322 /OT-0000074663",
+  "sender_name": "svalencia@reune.com",
+  "delivery_time": "2025-08-14T18:25:56.606993",
+  "creation_time": "2025-08-14T23:06:18.320132",
+  "modification_time": "2025-08-14T23:06:39.199559",
+  "attachment_count": 2,
+  "eml_file": "emails/email_002661.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 103796,
+      "path": "attachments/email_002661/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 13566,
+      "path": "attachments/email_002661/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 5700
+}

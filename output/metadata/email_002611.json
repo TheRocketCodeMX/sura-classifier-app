@@ -1,0 +1,41 @@
+{
+  "id": "email_002611",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:38.716345",
+  "subject": "RV: COTIZACION//JORGE IBARRA BAZ",
+  "sender_name": "Juarez Alcantara Carmen Aketzali",
+  "delivery_time": "2025-08-14T17:08:33.759048",
+  "creation_time": "2025-08-15T14:12:56.223835",
+  "modification_time": "2025-08-15T14:32:08.154550",
+  "attachment_count": 5,
+  "eml_file": "emails/email_002611.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 2008724,
+      "path": "attachments/email_002611/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 723574,
+      "path": "attachments/email_002611/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 158275,
+      "path": "attachments/email_002611/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 156714,
+      "path": "attachments/email_002611/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 853685,
+      "path": "attachments/email_002611/attachment_4"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 15714
+}

@@ -1,0 +1,96 @@
+{
+  "id": "email_002153",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:26.709648",
+  "subject": "RV: SURA - COTIZACION FLOTILLA SECRETARIA DE DESARROLLO RURAL/ 5869 KORKOWSKI",
+  "sender_name": "Mesa Guadalajara",
+  "delivery_time": "2025-08-05T19:29:06.204665",
+  "creation_time": "2025-08-20T20:13:19.120071",
+  "modification_time": "2025-08-20T20:13:47.788506",
+  "attachment_count": 16,
+  "eml_file": "emails/email_002153.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 1089,
+      "path": "attachments/email_002153/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 44449,
+      "path": "attachments/email_002153/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 1089,
+      "path": "attachments/email_002153/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 85997,
+      "path": "attachments/email_002153/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 147540,
+      "path": "attachments/email_002153/attachment_4"
+    },
+    {
+      "filename": "attachment_5",
+      "size": 32661,
+      "path": "attachments/email_002153/attachment_5"
+    },
+    {
+      "filename": "attachment_6",
+      "size": 63477,
+      "path": "attachments/email_002153/attachment_6"
+    },
+    {
+      "filename": "attachment_7",
+      "size": 86800,
+      "path": "attachments/email_002153/attachment_7"
+    },
+    {
+      "filename": "attachment_8",
+      "size": 242249,
+      "path": "attachments/email_002153/attachment_8"
+    },
+    {
+      "filename": "attachment_9",
+      "size": 69733,
+      "path": "attachments/email_002153/attachment_9"
+    },
+    {
+      "filename": "attachment_10",
+      "size": 526629,
+      "path": "attachments/email_002153/attachment_10"
+    },
+    {
+      "filename": "attachment_11",
+      "size": 13747,
+      "path": "attachments/email_002153/attachment_11"
+    },
+    {
+      "filename": "attachment_12",
+      "size": 13924,
+      "path": "attachments/email_002153/attachment_12"
+    },
+    {
+      "filename": "attachment_13",
+      "size": 116850,
+      "path": "attachments/email_002153/attachment_13"
+    },
+    {
+      "filename": "attachment_14",
+      "size": 27570,
+      "path": "attachments/email_002153/attachment_14"
+    },
+    {
+      "filename": "attachment_15",
+      "size": 3958,
+      "path": "attachments/email_002153/attachment_15"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 50262
+}

@@ -1,0 +1,31 @@
+{
+  "id": "email_000393",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:24:44.265663",
+  "subject": "CT-31084//RECIPRO Renovación//SURA //SERVICIOS DE TRANSPORTE CERTAIN, S.A. DE C .V.//SURA Agente 9260",
+  "sender_name": "José Antonio Peñaloza Padilla",
+  "delivery_time": "2025-08-05T15:45:09.168736",
+  "creation_time": "2025-08-06T14:18:20.228215",
+  "modification_time": "2025-08-06T14:23:21.188212",
+  "attachment_count": 3,
+  "eml_file": "emails/email_000393.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 105197,
+      "path": "attachments/email_000393/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 22902,
+      "path": "attachments/email_000393/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 30478,
+      "path": "attachments/email_000393/attachment_2"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 2393
+}

@@ -1,0 +1,31 @@
+{
+  "id": "email_005511",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:47.299230",
+  "subject": "RV: Cotización Empresarial - INDUSTRIAS MAQUIN",
+  "sender_name": "Martinez Juarez Cynthia Alejandra",
+  "delivery_time": "2025-08-07T04:28:07.008389",
+  "creation_time": "2025-08-20T19:28:43.974165",
+  "modification_time": "2025-08-20T19:29:03.183401",
+  "attachment_count": 3,
+  "eml_file": "emails/email_005511.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 71411,
+      "path": "attachments/email_005511/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 823,
+      "path": "attachments/email_005511/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 853685,
+      "path": "attachments/email_005511/attachment_2"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 14642
+}

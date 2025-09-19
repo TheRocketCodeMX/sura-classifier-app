@@ -1,0 +1,41 @@
+{
+  "id": "email_007544",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:36.344860",
+  "subject": "RE: AGENTE 007096 PROPUESTA DE COTIZACION SERVICIOS LOGISTICOS INTEGRALES MARCAS // SURA",
+  "sender_name": "Arellano Escamilla Dioney Alueri",
+  "delivery_time": "2025-08-19T14:36:22.819689",
+  "creation_time": "2025-08-20T13:04:59.185513",
+  "modification_time": "2025-08-20T13:06:11.260679",
+  "attachment_count": 5,
+  "eml_file": "emails/email_007544.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 14376,
+      "path": "attachments/email_007544/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 853685,
+      "path": "attachments/email_007544/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 27570,
+      "path": "attachments/email_007544/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 3958,
+      "path": "attachments/email_007544/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 183647,
+      "path": "attachments/email_007544/attachment_4"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 36367
+}

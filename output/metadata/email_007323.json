@@ -1,0 +1,21 @@
+{
+  "id": "email_007323",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:31.144622",
+  "subject": "RV: 2\t605\t20002527\tCENTRO UNIVERSITARIO DE ESPECIALIDADES ALTERNATIVAS",
+  "sender_name": "Del Valle Carpinteiro Alfredo",
+  "delivery_time": "2025-08-19T21:22:42.900869",
+  "creation_time": "2025-08-21T13:42:33.769059",
+  "modification_time": "2025-08-21T13:43:53.387875",
+  "attachment_count": 1,
+  "eml_file": "emails/email_007323.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 853685,
+      "path": "attachments/email_007323/attachment_0"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 10246
+}

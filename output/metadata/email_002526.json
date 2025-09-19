@@ -1,0 +1,21 @@
+{
+  "id": "email_002526",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:36.118576",
+  "subject": "RENOVACIÓN PÓLIZA 19266",
+  "sender_name": "convencionales@lciseguros.com",
+  "delivery_time": "2025-08-14T15:26:36.184816",
+  "creation_time": "2025-08-15T14:08:19.576519",
+  "modification_time": "2025-08-15T14:22:41.722133",
+  "attachment_count": 1,
+  "eml_file": "emails/email_002526.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 4677,
+      "path": "attachments/email_002526/attachment_0"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 11968
+}

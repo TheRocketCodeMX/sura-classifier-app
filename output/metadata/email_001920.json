@@ -1,0 +1,36 @@
+{
+  "id": "email_001920",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:21.308998",
+  "subject": "RE: FLOTILLA FERNANDO REYES HERNANDEZ // JOSE LUIS OCEJO // SURA",
+  "sender_name": "Renovaciones",
+  "delivery_time": "2025-08-06T15:06:30.805399",
+  "creation_time": "2025-08-20T19:56:06.242568",
+  "modification_time": "2025-08-20T20:13:20.190712",
+  "attachment_count": 4,
+  "eml_file": "emails/email_001920.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 19571,
+      "path": "attachments/email_001920/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 3477,
+      "path": "attachments/email_001920/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 13909,
+      "path": "attachments/email_001920/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 139556,
+      "path": "attachments/email_001920/attachment_3"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 54237
+}

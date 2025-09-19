@@ -1,0 +1,46 @@
+{
+  "id": "email_008323",
+  "folder": "Principio del archivo de datos de Outlook/DEPURADOS",
+  "extraction_date": "2025-09-19T12:27:51.009886",
+  "subject": "Re: ARGAZA PRODUCTS, S.A. DE C.V. || PÓLIZA: 44303399 || VIGENCIA: 16/10/2024 - 16/10/2025 || ENDOSO ACTUALIZAR DE DOMICILIO DE RIESGO | 264271-4",
+  "sender_name": "David Carlos Cortez Cazares",
+  "delivery_time": "2025-08-04T14:37:37.652855",
+  "creation_time": "2025-08-04T14:43:52.995572",
+  "modification_time": "2025-08-04T14:43:55.641931",
+  "attachment_count": 6,
+  "eml_file": "emails/email_008323.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 3958,
+      "path": "attachments/email_008323/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 40761,
+      "path": "attachments/email_008323/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 823,
+      "path": "attachments/email_008323/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 131080,
+      "path": "attachments/email_008323/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 116850,
+      "path": "attachments/email_008323/attachment_4"
+    },
+    {
+      "filename": "attachment_5",
+      "size": 27570,
+      "path": "attachments/email_008323/attachment_5"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 127022
+}

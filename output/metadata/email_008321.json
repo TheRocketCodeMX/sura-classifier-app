@@ -1,0 +1,36 @@
+{
+  "id": "email_008321",
+  "folder": "Principio del archivo de datos de Outlook/DEPURADOS",
+  "extraction_date": "2025-09-19T12:27:50.997787",
+  "subject": "RENOVACIONES AGOSTO Y SEPTIEMBRE AGENTE 002451 URGENTE",
+  "sender_name": "atencionaclientes@iprseguros.com",
+  "delivery_time": "2025-08-05T23:31:35.536060",
+  "creation_time": "2025-08-07T16:53:44.024568",
+  "modification_time": "2025-08-07T16:53:46.545387",
+  "attachment_count": 4,
+  "eml_file": "emails/email_008321.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 33438,
+      "path": "attachments/email_008321/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 26906,
+      "path": "attachments/email_008321/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 5997,
+      "path": "attachments/email_008321/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 829,
+      "path": "attachments/email_008321/attachment_3"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 21928
+}

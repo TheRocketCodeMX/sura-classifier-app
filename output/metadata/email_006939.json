@@ -1,0 +1,21 @@
+{
+  "id": "email_006939",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:23.416375",
+  "subject": "1-211-501916958 ... Estimados … RENOVAR póliza por favor ... María Adriana Mireles Contreras ... Gracias",
+  "sender_name": "Fernando Garcia Ortiz",
+  "delivery_time": "2025-08-15T06:13:25.791234",
+  "creation_time": "2025-08-21T15:11:43.413790",
+  "modification_time": "2025-08-21T15:17:40.442644",
+  "attachment_count": 1,
+  "eml_file": "emails/email_006939.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 1277350,
+      "path": "attachments/email_006939/attachment_0"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 7813
+}

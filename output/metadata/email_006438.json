@@ -1,0 +1,36 @@
+{
+  "id": "email_006438",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:09.709714",
+  "subject": "Solicitud de cotización Gasto Médico/Colectivo de SOCIEDAD MEDICA HOSPITAL ANGELES UNIVERSIDAD",
+  "sender_name": "notifications@certus-insurance.com",
+  "delivery_time": "2025-08-15T16:23:13.568442",
+  "creation_time": "2025-08-19T15:02:43.819016",
+  "modification_time": "2025-08-19T15:03:06.685055",
+  "attachment_count": 4,
+  "eml_file": "emails/email_006438.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 35479,
+      "path": "attachments/email_006438/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 495850,
+      "path": "attachments/email_006438/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 351053,
+      "path": "attachments/email_006438/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 43044,
+      "path": "attachments/email_006438/attachment_3"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 25782
+}

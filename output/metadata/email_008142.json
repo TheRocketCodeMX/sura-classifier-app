@@ -1,0 +1,36 @@
+{
+  "id": "email_008142",
+  "folder": "Principio del archivo de datos de Outlook/DEPURADOS",
+  "extraction_date": "2025-09-19T12:27:47.632684",
+  "subject": "Re: REVIRE/ ** URGENTE ** COTIZACION OBRA CIVIL // 12 CAPITAL SAPI DE CV/ 411/ 9064 BASAÑEZ",
+  "sender_name": "Alexa Aceves",
+  "delivery_time": "2025-08-05T22:07:59.882650",
+  "creation_time": "2025-08-07T14:10:11.628035",
+  "modification_time": "2025-08-05T22:40:59.031000",
+  "attachment_count": 4,
+  "eml_file": "emails/email_008142.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 853685,
+      "path": "attachments/email_008142/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 196267,
+      "path": "attachments/email_008142/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 161924,
+      "path": "attachments/email_008142/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 148419,
+      "path": "attachments/email_008142/attachment_3"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 46077
+}

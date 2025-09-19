@@ -1,0 +1,46 @@
+{
+  "id": "email_003010",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:48.576893",
+  "subject": "CIATEC | VIDA GRUPO |  RENOVACIÓN | 902 | ",
+  "sender_name": "Ramirez Franco Roberto",
+  "delivery_time": "2025-08-15T16:18:38.136474",
+  "creation_time": "2025-08-19T15:13:15.588865",
+  "modification_time": "2025-08-19T15:19:41.825034",
+  "attachment_count": 6,
+  "eml_file": "emails/email_003010.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 853685,
+      "path": "attachments/email_003010/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 37378,
+      "path": "attachments/email_003010/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 17714,
+      "path": "attachments/email_003010/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 69682,
+      "path": "attachments/email_003010/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 176583,
+      "path": "attachments/email_003010/attachment_4"
+    },
+    {
+      "filename": "attachment_5",
+      "size": 939712,
+      "path": "attachments/email_003010/attachment_5"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 14248
+}

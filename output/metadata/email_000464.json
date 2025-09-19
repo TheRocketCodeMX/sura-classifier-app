@@ -1,0 +1,41 @@
+{
+  "id": "email_000464",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:24:46.467044",
+  "subject": "RV: Rehabilitación de póliza",
+  "sender_name": "Atencion Cobranza",
+  "delivery_time": "2025-08-05T05:05:17.148308",
+  "creation_time": "2025-08-06T13:33:13.316068",
+  "modification_time": "2025-08-06T13:37:58.130585",
+  "attachment_count": 5,
+  "eml_file": "emails/email_000464.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 264605,
+      "path": "attachments/email_000464/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 1014939,
+      "path": "attachments/email_000464/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 229511,
+      "path": "attachments/email_000464/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 853685,
+      "path": "attachments/email_000464/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 14786,
+      "path": "attachments/email_000464/attachment_4"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 18920
+}

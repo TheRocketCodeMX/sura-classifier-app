@@ -1,0 +1,31 @@
+{
+  "id": "email_003292",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:54.613893",
+  "subject": "Inmobiliaria Terminal de Carga Oriente - Poliza Nueva RC Ambiental. OT-127845.",
+  "sender_name": "Valero Rodriguez Carlos Francisco",
+  "delivery_time": "2025-08-19T22:39:24.464659",
+  "creation_time": "2025-08-20T14:39:27.425939",
+  "modification_time": "2025-08-21T01:41:36.753904",
+  "attachment_count": 3,
+  "eml_file": "emails/email_003292.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 23596,
+      "path": "attachments/email_003292/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 6605,
+      "path": "attachments/email_003292/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 853685,
+      "path": "attachments/email_003292/attachment_2"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 12155
+}

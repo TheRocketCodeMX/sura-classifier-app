@@ -1,0 +1,51 @@
+{
+  "id": "email_007792",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:41.847252",
+  "subject": "RV: SOLICITO EMISIÓN DE PÓLIZA AP-ESCOLAR- EDUCACION Y COMPROMISO SOCIAL LIBERTADORES DE AMERICA",
+  "sender_name": "Mesa Puebla",
+  "delivery_time": "2025-08-18T18:10:38.813923",
+  "creation_time": "2025-08-20T13:09:38.488776",
+  "modification_time": "2025-08-20T13:10:54.746338",
+  "attachment_count": 7,
+  "eml_file": "emails/email_007792.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 22700,
+      "path": "attachments/email_007792/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 68783,
+      "path": "attachments/email_007792/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 311650,
+      "path": "attachments/email_007792/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 117211,
+      "path": "attachments/email_007792/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 735081,
+      "path": "attachments/email_007792/attachment_4"
+    },
+    {
+      "filename": "attachment_5",
+      "size": 19070964,
+      "path": "attachments/email_007792/attachment_5"
+    },
+    {
+      "filename": "attachment_6",
+      "size": 3958,
+      "path": "attachments/email_007792/attachment_6"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 26700
+}

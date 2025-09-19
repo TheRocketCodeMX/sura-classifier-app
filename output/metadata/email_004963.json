@@ -1,0 +1,41 @@
+{
+  "id": "email_004963",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:33.162050",
+  "subject": "RV: 301/ EMBARQUE 27 JULIO/ PÓLIZA EXCEDENTE/LAPP MÉXICO/3/300002890 - 3/ JUAN LARIOS 006883// SOL 2522919",
+  "sender_name": "Alatorre Rivera Sandra Guadalupe",
+  "delivery_time": "2025-08-04T21:49:38.476643",
+  "creation_time": "2025-08-06T13:46:36.030454",
+  "modification_time": "2025-08-06T13:47:50.599446",
+  "attachment_count": 5,
+  "eml_file": "emails/email_004963.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 848584,
+      "path": "attachments/email_004963/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 69527,
+      "path": "attachments/email_004963/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 699745,
+      "path": "attachments/email_004963/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 973437,
+      "path": "attachments/email_004963/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 43690,
+      "path": "attachments/email_004963/attachment_4"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 51295
+}

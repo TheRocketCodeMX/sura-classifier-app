@@ -1,0 +1,56 @@
+{
+  "id": "email_001063",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:01.059840",
+  "subject": "Cotizar Bodegas // Sura",
+  "sender_name": "Servicio Magnus",
+  "delivery_time": "2025-08-05T16:53:47.571773",
+  "creation_time": "2025-08-05T19:35:05.715228",
+  "modification_time": "2025-08-05T19:35:41.171302",
+  "attachment_count": 8,
+  "eml_file": "emails/email_001063.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 521600,
+      "path": "attachments/email_001063/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 110960,
+      "path": "attachments/email_001063/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 4929524,
+      "path": "attachments/email_001063/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 10088,
+      "path": "attachments/email_001063/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 585138,
+      "path": "attachments/email_001063/attachment_4"
+    },
+    {
+      "filename": "attachment_5",
+      "size": 568909,
+      "path": "attachments/email_001063/attachment_5"
+    },
+    {
+      "filename": "attachment_6",
+      "size": 2295182,
+      "path": "attachments/email_001063/attachment_6"
+    },
+    {
+      "filename": "attachment_7",
+      "size": 58375,
+      "path": "attachments/email_001063/attachment_7"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 4077
+}

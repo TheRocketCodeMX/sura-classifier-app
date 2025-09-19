@@ -1,0 +1,86 @@
+{
+  "id": "email_003650",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:26:03.202189",
+  "subject": "DOCTOS COPRI-SURA",
+  "sender_name": "Valero Rodriguez Carlos Francisco",
+  "delivery_time": "2025-08-18T22:23:08.404430",
+  "creation_time": "2025-08-20T13:06:39.921349",
+  "modification_time": "2025-08-20T13:07:52.399868",
+  "attachment_count": 14,
+  "eml_file": "emails/email_003650.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 853685,
+      "path": "attachments/email_003650/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 42262,
+      "path": "attachments/email_003650/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 501211,
+      "path": "attachments/email_003650/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 11427,
+      "path": "attachments/email_003650/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 78914,
+      "path": "attachments/email_003650/attachment_4"
+    },
+    {
+      "filename": "attachment_5",
+      "size": 3958,
+      "path": "attachments/email_003650/attachment_5"
+    },
+    {
+      "filename": "attachment_6",
+      "size": 2833,
+      "path": "attachments/email_003650/attachment_6"
+    },
+    {
+      "filename": "attachment_7",
+      "size": 36083,
+      "path": "attachments/email_003650/attachment_7"
+    },
+    {
+      "filename": "attachment_8",
+      "size": 45944,
+      "path": "attachments/email_003650/attachment_8"
+    },
+    {
+      "filename": "attachment_9",
+      "size": 52681,
+      "path": "attachments/email_003650/attachment_9"
+    },
+    {
+      "filename": "attachment_10",
+      "size": 59189,
+      "path": "attachments/email_003650/attachment_10"
+    },
+    {
+      "filename": "attachment_11",
+      "size": 43411,
+      "path": "attachments/email_003650/attachment_11"
+    },
+    {
+      "filename": "attachment_12",
+      "size": 11097,
+      "path": "attachments/email_003650/attachment_12"
+    },
+    {
+      "filename": "attachment_13",
+      "size": 1572423,
+      "path": "attachments/email_003650/attachment_13"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 167921
+}

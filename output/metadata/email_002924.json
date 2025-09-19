@@ -1,0 +1,31 @@
+{
+  "id": "email_002924",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:45.947257",
+  "subject": " Cotización | Póliza Plan Piso | SERVICIOS LOGÍSTICOS ALEBRIJE, S.A. DE C.V. | Ramo 211 | Agente 010003",
+  "sender_name": "omar@xileseguros.mx",
+  "delivery_time": "2025-08-15T00:47:20.576088",
+  "creation_time": "2025-08-18T14:27:14.470768",
+  "modification_time": "2025-08-18T14:27:41.401530",
+  "attachment_count": 3,
+  "eml_file": "emails/email_002924.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 24091,
+      "path": "attachments/email_002924/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 13192,
+      "path": "attachments/email_002924/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 175630,
+      "path": "attachments/email_002924/attachment_2"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 3462
+}

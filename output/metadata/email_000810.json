@@ -1,0 +1,21 @@
+{
+  "id": "email_000810",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:24:55.173073",
+  "subject": "ALTAS 2465 // LX PANTOS MONTERREY, CDMX",
+  "sender_name": "José Luis Argüello",
+  "delivery_time": "2025-08-04T15:49:10.627277",
+  "creation_time": "2025-08-05T12:57:36.924221",
+  "modification_time": "2025-08-05T12:59:17.973171",
+  "attachment_count": 1,
+  "eml_file": "emails/email_000810.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 164073,
+      "path": "attachments/email_000810/attachment_0"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 2081
+}

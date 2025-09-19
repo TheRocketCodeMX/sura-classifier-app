@@ -1,0 +1,31 @@
+{
+  "id": "email_006262",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:04.871941",
+  "subject": "SEGURO AGRICOLA / YUM-KAX PRO AGRO NATURA SAPI DE CV / MIGUEL CERVERA",
+  "sender_name": "Cervantes Alvarez Maria Guadalupe",
+  "delivery_time": "2025-08-14T16:01:18.447285",
+  "creation_time": "2025-08-18T14:49:11.557504",
+  "modification_time": "2025-08-18T14:49:44.598503",
+  "attachment_count": 3,
+  "eml_file": "emails/email_006262.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 423496,
+      "path": "attachments/email_006262/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 493237,
+      "path": "attachments/email_006262/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 13747,
+      "path": "attachments/email_006262/attachment_2"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 10790
+}

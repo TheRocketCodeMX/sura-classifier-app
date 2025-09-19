@@ -1,0 +1,31 @@
+{
+  "id": "email_006682",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:16.691104",
+  "subject": "RV: PRIMAS A COBRAR POR ASEGURADO MEGA ALIMENTOS Y SERVICIOS ADMINISTRATIVOS SAN JERONIMO",
+  "sender_name": "Mesa Monterrey",
+  "delivery_time": "2025-08-14T19:04:38.546330",
+  "creation_time": "2025-08-15T17:59:42.745745",
+  "modification_time": "2025-08-15T18:00:14.734741",
+  "attachment_count": 3,
+  "eml_file": "emails/email_006682.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 1447,
+      "path": "attachments/email_006682/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 853685,
+      "path": "attachments/email_006682/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 3958,
+      "path": "attachments/email_006682/attachment_2"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 16555
+}

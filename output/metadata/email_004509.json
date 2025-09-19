@@ -1,0 +1,21 @@
+{
+  "id": "email_004509",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:22.024028",
+  "subject": "RV: COTIZACION POLIZA 01-606-6493",
+  "sender_name": "Velazquez Villalpando Andrea",
+  "delivery_time": "2025-08-05T21:27:04.985236",
+  "creation_time": "2025-08-05T22:55:33.971957",
+  "modification_time": "2025-08-05T22:59:29.309482",
+  "attachment_count": 1,
+  "eml_file": "emails/email_004509.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 853685,
+      "path": "attachments/email_004509/attachment_0"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 12533
+}

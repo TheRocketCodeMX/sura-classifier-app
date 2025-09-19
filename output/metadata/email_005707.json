@@ -1,0 +1,51 @@
+{
+  "id": "email_005707",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:52.114441",
+  "subject": "Re: IDSVIDA2972025 / VIDA / COTIZACIÓN / IDS COMERCIA S.A. DE C.V. / SUREXS",
+  "sender_name": "Placement Contacto",
+  "delivery_time": "2025-08-06T19:33:12.407973",
+  "creation_time": "2025-08-20T19:43:22.506967",
+  "modification_time": "2025-08-20T19:43:52.884101",
+  "attachment_count": 7,
+  "eml_file": "emails/email_005707.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 823,
+      "path": "attachments/email_005707/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 116850,
+      "path": "attachments/email_005707/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 27570,
+      "path": "attachments/email_005707/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 3958,
+      "path": "attachments/email_005707/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 667,
+      "path": "attachments/email_005707/attachment_4"
+    },
+    {
+      "filename": "attachment_5",
+      "size": 503959,
+      "path": "attachments/email_005707/attachment_5"
+    },
+    {
+      "filename": "attachment_6",
+      "size": 15005971,
+      "path": "attachments/email_005707/attachment_6"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 51051
+}

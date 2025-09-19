@@ -1,0 +1,36 @@
+{
+  "id": "email_002550",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:37.020119",
+  "subject": "RV: Cotización Daños PRINTING CITY",
+  "sender_name": "Mesa Hermosillo",
+  "delivery_time": "2025-08-14T15:36:26.177645",
+  "creation_time": "2025-08-15T14:07:13.442423",
+  "modification_time": "2025-08-15T14:21:39.535231",
+  "attachment_count": 4,
+  "eml_file": "emails/email_002550.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 3934,
+      "path": "attachments/email_002550/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 431769,
+      "path": "attachments/email_002550/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 853685,
+      "path": "attachments/email_002550/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 3958,
+      "path": "attachments/email_002550/attachment_3"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 24042
+}

@@ -1,0 +1,41 @@
+{
+  "id": "email_000194",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:24:39.981363",
+  "subject": "RV: CANCELACIÓN Y REEXPEDICION DE  LA POLIZA      1 501 100012460       YOLANDA AVILA RODRIGUEZ",
+  "sender_name": "Yanitzia Arroyo",
+  "delivery_time": "2025-08-05T19:30:40.632384",
+  "creation_time": "2025-08-06T13:31:52.658673",
+  "modification_time": "2025-08-06T13:32:11.408383",
+  "attachment_count": 5,
+  "eml_file": "emails/email_000194.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 853685,
+      "path": "attachments/email_000194/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 78258,
+      "path": "attachments/email_000194/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 13747,
+      "path": "attachments/email_000194/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 4559,
+      "path": "attachments/email_000194/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 128792,
+      "path": "attachments/email_000194/attachment_4"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 51878
+}

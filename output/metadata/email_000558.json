@@ -1,0 +1,26 @@
+{
+  "id": "email_000558",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:24:48.836981",
+  "subject": "RV: BAJA // FLORES RUIZ NESTOR MANUEL // IVOCLAR VIVADENT",
+  "sender_name": "Arellano Escamilla Dioney Alueri",
+  "delivery_time": "2025-08-04T22:49:32.131214",
+  "creation_time": "2025-08-05T04:31:56.161128",
+  "modification_time": "2025-08-05T04:34:17.256209",
+  "attachment_count": 2,
+  "eml_file": "emails/email_000558.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 9551,
+      "path": "attachments/email_000558/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 853685,
+      "path": "attachments/email_000558/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 25695
+}

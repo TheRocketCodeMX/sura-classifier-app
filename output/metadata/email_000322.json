@@ -1,0 +1,26 @@
+{
+  "id": "email_000322",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:24:43.154693",
+  "subject": "RE: SKY CHEFS DE MEXICO SA DE CV (639538)",
+  "sender_name": "Cuevas Munoz Nisiel Alexis",
+  "delivery_time": "2025-08-05T17:09:58.516944",
+  "creation_time": "2025-08-06T18:18:48.430463",
+  "modification_time": "2025-08-06T18:21:04.142718",
+  "attachment_count": 2,
+  "eml_file": "emails/email_000322.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 853685,
+      "path": "attachments/email_000322/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 3958,
+      "path": "attachments/email_000322/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 49753
+}

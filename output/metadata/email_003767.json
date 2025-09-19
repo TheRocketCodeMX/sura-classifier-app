@@ -1,0 +1,31 @@
+{
+  "id": "email_003767",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:26:05.240053",
+  "subject": "RV: OPERADORA DE ALIMENTOS MASARYK SAPI DE CV || NUEVA || EMPRESARIAL",
+  "sender_name": "Martinez Juarez Cynthia Alejandra",
+  "delivery_time": "2025-08-18T18:56:08.061149",
+  "creation_time": "2025-08-20T14:35:45.191559",
+  "modification_time": "2025-08-20T14:36:50.516658",
+  "attachment_count": 3,
+  "eml_file": "emails/email_003767.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 737593,
+      "path": "attachments/email_003767/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 823,
+      "path": "attachments/email_003767/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 853685,
+      "path": "attachments/email_003767/attachment_2"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 30478
+}

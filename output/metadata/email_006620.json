@@ -1,0 +1,26 @@
+{
+  "id": "email_006620",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:15.170167",
+  "subject": "COTIZACION VIDA toka (BELPORTES SA DE CV) SURA",
+  "sender_name": "Villacorral Romero Vanessa Guadalupe",
+  "delivery_time": "2025-08-14T17:44:12.343193",
+  "creation_time": "2025-08-14T23:06:22.333020",
+  "modification_time": "2025-08-14T23:06:39.819138",
+  "attachment_count": 2,
+  "eml_file": "emails/email_006620.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 109876,
+      "path": "attachments/email_006620/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 10713,
+      "path": "attachments/email_006620/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 11547
+}

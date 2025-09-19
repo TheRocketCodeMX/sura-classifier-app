@@ -1,0 +1,31 @@
+{
+  "id": "email_006364",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:07.858153",
+  "subject": "RE: RESIDENTES D TERRACE S-2519275",
+  "sender_name": "Josué Raya",
+  "delivery_time": "2025-08-13T19:52:00.685504",
+  "creation_time": "2025-08-15T14:20:03.135915",
+  "modification_time": "2025-08-15T14:20:06.092505",
+  "attachment_count": 3,
+  "eml_file": "emails/email_006364.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 64514,
+      "path": "attachments/email_006364/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 853685,
+      "path": "attachments/email_006364/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 82571,
+      "path": "attachments/email_006364/attachment_2"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 32757
+}

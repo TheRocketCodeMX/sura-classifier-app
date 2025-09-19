@@ -1,0 +1,26 @@
+{
+  "id": "email_008481",
+  "folder": "Principio del archivo de datos de Outlook/DEPURADOS",
+  "extraction_date": "2025-09-19T12:27:52.228563",
+  "subject": "RE: COTIZACION POLIZA RC CONTRATISTA/CDMX/ 007664/ JUAN CARLOS ROSALES ORNELAS / SOLICITUD 2529526",
+  "sender_name": "MXsuscripcion danos",
+  "delivery_time": "2025-08-08T16:58:46.916964",
+  "creation_time": "2025-08-08T16:58:46.198089",
+  "modification_time": "2025-08-08T16:59:04.453081",
+  "attachment_count": 2,
+  "eml_file": "emails/email_008481.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 140994,
+      "path": "attachments/email_008481/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 13747,
+      "path": "attachments/email_008481/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 13495
+}

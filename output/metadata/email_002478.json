@@ -1,0 +1,31 @@
+{
+  "id": "email_002478",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:34.987972",
+  "subject": "9717 / Sol 7 ALTAS, 8 BAJAS Y CORRECCIONES DE NOMBRE PÓLIZA  VIDA GURPO CASFAM_PÓLIZA  9-902-90000423",
+  "sender_name": "Guadalupe Crespo Damian",
+  "delivery_time": "2025-08-15T21:18:12.050717",
+  "creation_time": "2025-08-19T15:01:31.364138",
+  "modification_time": "2025-08-19T15:01:55.759141",
+  "attachment_count": 3,
+  "eml_file": "emails/email_002478.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 66677,
+      "path": "attachments/email_002478/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 118701,
+      "path": "attachments/email_002478/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 21892,
+      "path": "attachments/email_002478/attachment_2"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 10858
+}

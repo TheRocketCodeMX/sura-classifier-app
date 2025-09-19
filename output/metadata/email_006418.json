@@ -1,0 +1,31 @@
+{
+  "id": "email_006418",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:09.252682",
+  "subject": "RV: ASESOR: 2268; OFICINA: 9; RAMO: 430; POLIZA: 500002374; ASUNTO: SOL ENDOSO CORREGIR UBICACION 2           OT73",
+  "sender_name": "Alvarado Arteaga Maria Gabriela",
+  "delivery_time": "2025-08-14T23:12:46.744159",
+  "creation_time": "2025-08-18T14:53:54.332279",
+  "modification_time": "2025-08-18T14:54:13.554613",
+  "attachment_count": 3,
+  "eml_file": "emails/email_006418.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 56320,
+      "path": "attachments/email_006418/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 549701,
+      "path": "attachments/email_006418/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 853685,
+      "path": "attachments/email_006418/attachment_2"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 16732
+}

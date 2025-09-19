@@ -1,0 +1,36 @@
+{
+  "id": "email_007124",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:27.805967",
+  "subject": "RV: HERMES | LICITACION | DINERO Y VALORES (PEAJE) | CONCESIONARIA LERMA-SANTIAGO",
+  "sender_name": "Gandara Godinez Lia",
+  "delivery_time": "2025-08-15T20:16:19.446985",
+  "creation_time": "2025-08-19T13:08:44.727869",
+  "modification_time": "2025-08-19T13:09:03.850889",
+  "attachment_count": 4,
+  "eml_file": "emails/email_007124.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 389622,
+      "path": "attachments/email_007124/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 95873,
+      "path": "attachments/email_007124/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 159927,
+      "path": "attachments/email_007124/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 853685,
+      "path": "attachments/email_007124/attachment_3"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 17031
+}

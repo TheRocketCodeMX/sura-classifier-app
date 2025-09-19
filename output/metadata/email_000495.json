@@ -1,0 +1,31 @@
+{
+  "id": "email_000495",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:24:47.286589",
+  "subject": "MERIK MERHAL | COTIZACIÓN POOL GMM 17 AGO 2025-2026",
+  "sender_name": "Regina Gomez",
+  "delivery_time": "2025-08-05T00:46:46.611265",
+  "creation_time": "2025-08-05T23:04:20.192556",
+  "modification_time": "2025-08-05T23:14:44.307671",
+  "attachment_count": 3,
+  "eml_file": "emails/email_000495.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 22349,
+      "path": "attachments/email_000495/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 31326,
+      "path": "attachments/email_000495/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 28912,
+      "path": "attachments/email_000495/attachment_2"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 7981
+}

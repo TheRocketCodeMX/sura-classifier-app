@@ -1,0 +1,46 @@
+{
+  "id": "email_001377",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:08.743401",
+  "subject": "Re: NEGOCIO NUEVO COTIZACION EMPRESARIAL II PLAZA COMERCIAL ECENTER II LUIS ENRIQUE LARA DONIS II SURA",
+  "sender_name": "Caleb Dorantes Jimenez",
+  "delivery_time": "2025-08-05T23:07:20.289146",
+  "creation_time": "2025-08-07T16:03:42.615405",
+  "modification_time": "2025-08-07T16:04:03.526330",
+  "attachment_count": 6,
+  "eml_file": "emails/email_001377.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 2402,
+      "path": "attachments/email_001377/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 216537,
+      "path": "attachments/email_001377/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 69248,
+      "path": "attachments/email_001377/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 127470,
+      "path": "attachments/email_001377/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 334954,
+      "path": "attachments/email_001377/attachment_4"
+    },
+    {
+      "filename": "attachment_5",
+      "size": 738713,
+      "path": "attachments/email_001377/attachment_5"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 14067
+}

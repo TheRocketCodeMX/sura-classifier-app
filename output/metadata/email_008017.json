@@ -1,0 +1,36 @@
+{
+  "id": "email_008017",
+  "folder": "Principio del archivo de datos de Outlook/DEPURADOS",
+  "extraction_date": "2025-09-19T12:27:46.364880",
+  "subject": "Re: COTIZACION NUEVO NEGOCIO GRUMMAVER // SOLICITUD 2516681",
+  "sender_name": "MONTSERRAT OTERO ROSAS",
+  "delivery_time": "2025-08-04T18:54:18.844226",
+  "creation_time": "2025-08-11T20:19:02.798442",
+  "modification_time": "2025-08-11T20:19:08.371497",
+  "attachment_count": 4,
+  "eml_file": "emails/email_008017.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 853685,
+      "path": "attachments/email_008017/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 116850,
+      "path": "attachments/email_008017/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 27570,
+      "path": "attachments/email_008017/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 3958,
+      "path": "attachments/email_008017/attachment_3"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 25214
+}

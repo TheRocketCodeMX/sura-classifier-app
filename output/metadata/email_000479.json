@@ -1,0 +1,31 @@
+{
+  "id": "email_000479",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:24:47.121815",
+  "subject": "Re: BAJA HOTEL TRES VIDAS//POLIZA GASTOS MEDICOS 607-2266// SURA",
+  "sender_name": "Mareli Infante",
+  "delivery_time": "2025-08-05T02:23:01.576204",
+  "creation_time": "2025-08-06T14:18:34.362743",
+  "modification_time": "2025-08-15T17:20:00.069000",
+  "attachment_count": 3,
+  "eml_file": "emails/email_000479.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 1459532,
+      "path": "attachments/email_000479/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 315607,
+      "path": "attachments/email_000479/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 9583,
+      "path": "attachments/email_000479/attachment_2"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 20804
+}

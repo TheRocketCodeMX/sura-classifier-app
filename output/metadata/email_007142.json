@@ -1,0 +1,26 @@
+{
+  "id": "email_007142",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:28.059185",
+  "subject": "EMISIONES SISEGUROS 6284/ot-0710962 sura reyes pina hugo.pdf",
+  "sender_name": "SISEGUROS",
+  "delivery_time": "2025-08-15T21:14:48.162985",
+  "creation_time": "2025-08-18T15:10:08.589949",
+  "modification_time": "2025-08-18T15:10:34.138054",
+  "attachment_count": 2,
+  "eml_file": "emails/email_007142.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 5040,
+      "path": "attachments/email_007142/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 109229,
+      "path": "attachments/email_007142/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 8897
+}

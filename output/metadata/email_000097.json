@@ -1,0 +1,56 @@
+{
+  "id": "email_000097",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:24:37.744186",
+  "subject": "430/EMPRESARIAL/COTIZACION/ABARROTERA MAFIVAZ/1/NUEVA/6618",
+  "sender_name": "atencion@adelanteseguros.com.mx",
+  "delivery_time": "2025-08-05T22:08:20.783995",
+  "creation_time": "2025-08-07T00:16:16.588248",
+  "modification_time": "2025-08-07T00:16:38.094894",
+  "attachment_count": 8,
+  "eml_file": "emails/email_000097.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 744,
+      "path": "attachments/email_000097/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 764,
+      "path": "attachments/email_000097/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 18620,
+      "path": "attachments/email_000097/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 124872,
+      "path": "attachments/email_000097/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 44596,
+      "path": "attachments/email_000097/attachment_4"
+    },
+    {
+      "filename": "attachment_5",
+      "size": 1371857,
+      "path": "attachments/email_000097/attachment_5"
+    },
+    {
+      "filename": "attachment_6",
+      "size": 49664,
+      "path": "attachments/email_000097/attachment_6"
+    },
+    {
+      "filename": "attachment_7",
+      "size": 10869,
+      "path": "attachments/email_000097/attachment_7"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 11067
+}

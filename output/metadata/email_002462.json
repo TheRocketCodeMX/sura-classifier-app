@@ -1,0 +1,46 @@
+{
+  "id": "email_002462",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:34.752413",
+  "subject": "ALIMENTOS CONCENTRADOS DE DELICIAS SA DE CV/ PROSOECTO / Empresarial / MXN / Corporate / Of. QRO.",
+  "sender_name": "Díaz, Eluzai",
+  "delivery_time": "2025-08-15T18:33:15.577813",
+  "creation_time": "2025-08-19T15:02:14.278013",
+  "modification_time": "2025-08-19T15:02:35.568167",
+  "attachment_count": 6,
+  "eml_file": "emails/email_002462.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 4932,
+      "path": "attachments/email_002462/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 806,
+      "path": "attachments/email_002462/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 466959,
+      "path": "attachments/email_002462/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 143209,
+      "path": "attachments/email_002462/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 137132,
+      "path": "attachments/email_002462/attachment_4"
+    },
+    {
+      "filename": "attachment_5",
+      "size": 781934,
+      "path": "attachments/email_002462/attachment_5"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 28661
+}

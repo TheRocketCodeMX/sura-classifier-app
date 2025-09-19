@@ -1,0 +1,21 @@
+{
+  "id": "email_001173",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:03.678440",
+  "subject": "PROPUESTA DE RENOVACION PÓLIZA| 3 400 100000364 GRUPO PARLON Y ASOCIADOS ",
+  "sender_name": "Martinez Velazquez Viridiana",
+  "delivery_time": "2025-08-06T02:27:58.855616",
+  "creation_time": "2025-08-06T16:56:32.714674",
+  "modification_time": "2025-08-06T16:54:51.452355",
+  "attachment_count": 1,
+  "eml_file": "emails/email_001173.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 853685,
+      "path": "attachments/email_001173/attachment_0"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 6181
+}

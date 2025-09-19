@@ -1,0 +1,26 @@
+{
+  "id": "email_004521",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:22.191724",
+  "subject": "RV: HOSPITAL Y CLINICA SA DE CV Y/O TOLVEJA HG SA DE CV",
+  "sender_name": "Ivan Najera Lopez",
+  "delivery_time": "2025-08-05T20:33:40.552357",
+  "creation_time": "2025-08-06T13:31:37.508998",
+  "modification_time": "2025-08-06T13:31:56.375225",
+  "attachment_count": 2,
+  "eml_file": "emails/email_004521.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 189991,
+      "path": "attachments/email_004521/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 853685,
+      "path": "attachments/email_004521/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 20438
+}

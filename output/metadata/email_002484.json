@@ -1,0 +1,56 @@
+{
+  "id": "email_002484",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:35.064381",
+  "subject": "RE: Folio sin información - Sol 2532543",
+  "sender_name": "MXCalidadCEC",
+  "delivery_time": "2025-08-14T14:16:00.516959",
+  "creation_time": "2025-08-15T15:23:19.682855",
+  "modification_time": "2025-08-15T15:30:21.549898",
+  "attachment_count": 8,
+  "eml_file": "emails/email_002484.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 96918,
+      "path": "attachments/email_002484/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 74109,
+      "path": "attachments/email_002484/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 27209,
+      "path": "attachments/email_002484/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 28314,
+      "path": "attachments/email_002484/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 116850,
+      "path": "attachments/email_002484/attachment_4"
+    },
+    {
+      "filename": "attachment_5",
+      "size": 27570,
+      "path": "attachments/email_002484/attachment_5"
+    },
+    {
+      "filename": "attachment_6",
+      "size": 3958,
+      "path": "attachments/email_002484/attachment_6"
+    },
+    {
+      "filename": "attachment_7",
+      "size": 853685,
+      "path": "attachments/email_002484/attachment_7"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 19699
+}

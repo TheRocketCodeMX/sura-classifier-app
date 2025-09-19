@@ -1,0 +1,41 @@
+{
+  "id": "email_000472",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:24:46.765117",
+  "subject": "RE: URGENTE: MÚLTIPLE EMPRESARIAL - SERVICIOS COMPARTIDOS DE AUTOMATIZACION Y SISTEMAS HIPOTECARIOS SA DE CV / SOLICITUD \t2526909",
+  "sender_name": "Bernardo Garza",
+  "delivery_time": "2025-08-05T03:06:34.438607",
+  "creation_time": "2025-08-05T15:02:25.588726",
+  "modification_time": "2025-08-05T23:42:05.221304",
+  "attachment_count": 5,
+  "eml_file": "emails/email_000472.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 602,
+      "path": "attachments/email_000472/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 1899,
+      "path": "attachments/email_000472/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 91142,
+      "path": "attachments/email_000472/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 13747,
+      "path": "attachments/email_000472/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 853685,
+      "path": "attachments/email_000472/attachment_4"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 52134
+}

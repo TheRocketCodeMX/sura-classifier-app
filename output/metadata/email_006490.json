@@ -1,0 +1,41 @@
+{
+  "id": "email_006490",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:10.854045",
+  "subject": "RV: SOL. 2524125/ RE: COTIZACION RENOVACION 02 902 20000464",
+  "sender_name": "Mesa Puebla",
+  "delivery_time": "2025-08-14T15:20:43.973683",
+  "creation_time": "2025-08-14T23:34:57.783411",
+  "modification_time": "2025-08-14T23:36:04.767411",
+  "attachment_count": 5,
+  "eml_file": "emails/email_006490.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 13747,
+      "path": "attachments/email_006490/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 3958,
+      "path": "attachments/email_006490/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 99127,
+      "path": "attachments/email_006490/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 11878,
+      "path": "attachments/email_006490/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 151792,
+      "path": "attachments/email_006490/attachment_4"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 26433
+}

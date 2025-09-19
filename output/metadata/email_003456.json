@@ -1,0 +1,36 @@
+{
+  "id": "email_003456",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:58.013487",
+  "subject": "RE: SOLICITUD DE COTIZACION RENOVACION POLIZA 1-501-12533-0 / RC ESTACIONAMIENO  / OPERADORA SUMA PARK, S. DE R.L. DE C.V.",
+  "sender_name": "Hernandez Rojas Ruben Omar",
+  "delivery_time": "2025-08-19T17:21:37.146103",
+  "creation_time": "2025-08-19T23:24:04.619114",
+  "modification_time": "2025-08-19T23:24:22.541720",
+  "attachment_count": 4,
+  "eml_file": "emails/email_003456.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 525421,
+      "path": "attachments/email_003456/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 787,
+      "path": "attachments/email_003456/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 1899,
+      "path": "attachments/email_003456/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 91142,
+      "path": "attachments/email_003456/attachment_3"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 12499
+}

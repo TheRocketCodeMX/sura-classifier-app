@@ -1,0 +1,21 @@
+{
+  "id": "email_008395",
+  "folder": "Principio del archivo de datos de Outlook/DEPURADOS",
+  "extraction_date": "2025-09-19T12:27:51.885463",
+  "subject": "RE: ot 141355 CORRECCION",
+  "sender_name": "Carballo Alvarez Andres",
+  "delivery_time": "2025-08-05T22:19:25.326310",
+  "creation_time": "2025-08-06T13:57:43.590892",
+  "modification_time": "2025-08-06T13:58:01.236068",
+  "attachment_count": 1,
+  "eml_file": "emails/email_008395.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 37456,
+      "path": "attachments/email_008395/attachment_0"
+    }
+  ],
+  "plain_text_length": 4263,
+  "html_content_length": 0
+}

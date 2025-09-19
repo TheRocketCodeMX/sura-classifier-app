@@ -1,0 +1,36 @@
+{
+  "id": "email_005212",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:38.510531",
+  "subject": "RENOVACIÓN ANTICIPADA 430 | MULTIPLE EMPRESARIAL | SEPTIEMBRE 2025 | OFICINA HERMOSILLO | 004753 RAMON ANGEL DUARTE NORIEGA",
+  "sender_name": "Mesa Hermosillo",
+  "delivery_time": "2025-08-05T16:11:44",
+  "creation_time": "2025-08-05T16:11:47.206247",
+  "modification_time": "2025-08-05T16:12:42.346592",
+  "attachment_count": 4,
+  "eml_file": "emails/email_005212.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 445740,
+      "path": "attachments/email_005212/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 319537,
+      "path": "attachments/email_005212/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 129574,
+      "path": "attachments/email_005212/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 60934,
+      "path": "attachments/email_005212/attachment_3"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 69522
+}

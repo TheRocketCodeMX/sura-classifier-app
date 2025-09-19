@@ -1,0 +1,21 @@
+{
+  "id": "email_007135",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:27.986387",
+  "subject": "COTIZACIÓN / RC EN CONDOMINIOS / AGENTE 4345 ",
+  "sender_name": "diversos1@gsmexico.mx",
+  "delivery_time": "2025-08-15T20:38:25.393056",
+  "creation_time": "2025-08-18T23:58:04.753015",
+  "modification_time": "2025-08-18T23:58:08.612684",
+  "attachment_count": 1,
+  "eml_file": "emails/email_007135.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 19698,
+      "path": "attachments/email_007135/attachment_0"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 9071
+}

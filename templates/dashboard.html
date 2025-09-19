@@ -1,0 +1,187 @@
+{% extends "base.html" %}
+
+{% block title %}Dashboard Principal - Clasificación de Emails{% endblock %}
+
+{% block content %}
+<div class="d-flex justify-content-between align-items-center mb-4">
+    <h1 class="h2 fw-bold mb-0">Dashboard</h1>
+    <button class="btn btn-outline-primary btn-minimal" onclick="refreshStats()">
+        Actualizar
+    </button>
+</div>
+
+<!-- Estadísticas Principales -->
+<div class="row mb-4">
+    <div class="col-6 col-md-3 mb-3 mb-md-0">
+        <div class="card card-stat card-stat-primary">
+            <div class="card-body text-center">
+                <div class="stat-number">{{ stats.total_emails or 0 }}</div>
+                <div class="stat-label">Total de Emails</div>
+            </div>
+        </div>
+    </div>
+    <div class="col-6 col-md-3 mb-3 mb-md-0">
+        <div class="card card-stat card-stat-success">
+            <div class="card-body text-center">
+                <div class="stat-number">{{ stats.cotizacion or 0 }}</div>
+                <div class="stat-label">Cotizaciones</div>
+                <div class="stat-percentage">{{ "%.1f"|format((stats.cotizacion or 0) / (stats.total_emails or 1) * 100) }}%</div>
+            </div>
+        </div>
+    </div>
+    <div class="col-6 col-md-3 mb-3 mb-md-0">
+        <div class="card card-stat card-stat-info">
+            <div class="card-body text-center">
+                <div class="stat-number">{{ stats.renovacion or 0 }}</div>
+                <div class="stat-label">Renovaciones</div>
+                <div class="stat-percentage">{{ "%.1f"|format((stats.renovacion or 0) / (stats.total_emails or 1) * 100) }}%</div>
+            </div>
+        </div>
+    </div>
+    <div class="col-6 col-md-3 mb-3 mb-md-0">
+        <div class="card card-stat card-stat-warning">
+            <div class="card-body text-center">
+                <div class="stat-number">{{ stats.endoso or 0 }}</div>
+                <div class="stat-label">Endosos</div>
+                <div class="stat-percentage">{{ "%.1f"|format((stats.endoso or 0) / (stats.total_emails or 1) * 100) }}%</div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Estadísticas Adicionales -->
+<div class="row mb-4">
+    <div class="col-md-3">
+        <div class="card">
+            <div class="card-body text-center">
+                <div class="stat-label">Con Adjuntos</div>
+                <div class="stat-number">{{ stats.with_attachments or 0 }}</div>
+                <div class="stat-percentage">
+                    {{ "%.1f"|format((stats.with_attachments or 0) / (stats.total_emails or 1) * 100) }}% del total
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-3">
+        <div class="card">
+            <div class="card-body text-center">
+                <div class="stat-label">Con SLIP</div>
+                <div class="stat-number">{{ stats.with_slip or 0 }}</div>
+                <div class="stat-percentage">Archivos SLIP detectados</div>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-3">
+        <div class="card">
+            <div class="card-body text-center">
+                <div class="stat-label">SLIP Completos</div>
+                <div class="stat-number">{{ stats.complete_slip or 0 }}</div>
+                <div class="stat-percentage">SLIP con información</div>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-3">
+        <div class="card">
+            <div class="card-body text-center">
+                <div class="stat-label">Sin Clasificar</div>
+                <div class="stat-number">{{ stats.sin_clasificar or 0 }}</div>
+                <div class="stat-percentage">
+                    {{ "%.1f"|format((stats.sin_clasificar or 0) / (stats.total_emails or 1) * 100) }}% del total
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Gráficos -->
+<div class="row">
+    {% if charts.classification_pie %}
+    <div class="col-md-6">
+        <div class="chart-container">
+            <div id="classificationChart"></div>
+        </div>
+    </div>
+    {% endif %}
+
+    {% if charts.confidence_box %}
+    <div class="col-md-6">
+        <div class="chart-container">
+            <div id="confidenceChart"></div>
+        </div>
+    </div>
+    {% endif %}
+</div>
+
+{% if charts.timeline %}
+<div class="row">
+    <div class="col-12">
+        <div class="chart-container">
+            <div id="timelineChart"></div>
+        </div>
+    </div>
+</div>
+{% endif %}
+
+<!-- Acciones Rápidas -->
+<div class="row mt-4">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-header">
+                <h6 class="mb-0">Acciones Rápidas</h6>
+            </div>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-md-3">
+                        <a href="/search?classification=cotizacion" class="btn btn-outline-success w-100 mb-2 btn-minimal">
+                            Ver Cotizaciones
+                        </a>
+                    </div>
+                    <div class="col-md-3">
+                        <a href="/search?classification=renovacion" class="btn btn-outline-primary w-100 mb-2 btn-minimal">
+                            Ver Renovaciones
+                        </a>
+                    </div>
+                    <div class="col-md-3">
+                        <a href="/search?classification=endoso" class="btn btn-outline-warning w-100 mb-2 btn-minimal">
+                            Ver Endosos
+                        </a>
+                    </div>
+                    <div class="col-md-3">
+                        <a href="/search?has_attachments=true" class="btn btn-outline-secondary w-100 mb-2 btn-minimal">
+                            Con Adjuntos
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+    // Renderizar gráficos
+    {% if charts.classification_pie %}
+    Plotly.newPlot('classificationChart', {{ charts.classification_pie|safe }});
+    {% endif %}
+
+    {% if charts.confidence_box %}
+    Plotly.newPlot('confidenceChart', {{ charts.confidence_box|safe }});
+    {% endif %}
+
+    {% if charts.timeline %}
+    Plotly.newPlot('timelineChart', {{ charts.timeline|safe }});
+    {% endif %}
+
+    function refreshStats() {
+        fetch('/api/stats')
+            .then(response => response.json())
+            .then(data => {
+                location.reload(); // Simple refresh for now
+            })
+            .catch(error => {
+                console.error('Error refreshing stats:', error);
+            });
+    }
+</script>
+{% endblock %}

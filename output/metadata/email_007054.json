@@ -1,0 +1,21 @@
+{
+  "id": "email_007054",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:25.637324",
+  "subject": "Solicitud de cotización GMM colectivo – Bodega Técnica SA de CV",
+  "sender_name": "Daniel Palencia Milo",
+  "delivery_time": "2025-08-15T18:06:34.694280",
+  "creation_time": "2025-08-19T00:19:26.212059",
+  "modification_time": "2025-08-19T00:19:43.965581",
+  "attachment_count": 1,
+  "eml_file": "emails/email_007054.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 11596,
+      "path": "attachments/email_007054/attachment_0"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 18399
+}

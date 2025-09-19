@@ -1,0 +1,36 @@
+{
+  "id": "email_005128",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:36.923357",
+  "subject": "COTIZACION CONDOMINIO PIRULES 20 P EN C - Clave 3178 - CAS ",
+  "sender_name": "Juan Pablo Contreras",
+  "delivery_time": "2025-08-05T22:00:46.858592",
+  "creation_time": "2025-08-06T22:30:37.426614",
+  "modification_time": "2025-08-06T22:30:57.611333",
+  "attachment_count": 4,
+  "eml_file": "emails/email_005128.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 916791,
+      "path": "attachments/email_005128/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 3093519,
+      "path": "attachments/email_005128/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 792299,
+      "path": "attachments/email_005128/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 788577,
+      "path": "attachments/email_005128/attachment_3"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 5602
+}

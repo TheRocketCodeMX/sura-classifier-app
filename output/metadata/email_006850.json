@@ -1,0 +1,46 @@
+{
+  "id": "email_006850",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:20.540554",
+  "subject": "Apoyo con emisión de póliza ",
+  "sender_name": "contacto@angconsultores.mx",
+  "delivery_time": "2025-08-14T22:41:37.980848",
+  "creation_time": "2025-08-18T14:27:37.046960",
+  "modification_time": "2025-08-18T14:29:08.225658",
+  "attachment_count": 6,
+  "eml_file": "emails/email_006850.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 220620,
+      "path": "attachments/email_006850/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 1005211,
+      "path": "attachments/email_006850/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 276895,
+      "path": "attachments/email_006850/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 277335,
+      "path": "attachments/email_006850/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 277110,
+      "path": "attachments/email_006850/attachment_4"
+    },
+    {
+      "filename": "attachment_5",
+      "size": 277026,
+      "path": "attachments/email_006850/attachment_5"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 6051
+}

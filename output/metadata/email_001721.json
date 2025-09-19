@@ -1,0 +1,66 @@
+{
+  "id": "email_001721",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:17.416240",
+  "subject": "6596 / Cotización / COMERCIALIZADORA ABANOR / EMPRESARIAL / SURA",
+  "sender_name": "Jaime Campos Nava",
+  "delivery_time": "2025-08-06T19:28:35.903136",
+  "creation_time": "2025-08-20T19:43:47.182173",
+  "modification_time": "2025-08-20T19:55:58.070163",
+  "attachment_count": 10,
+  "eml_file": "emails/email_001721.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 1653,
+      "path": "attachments/email_001721/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 1511,
+      "path": "attachments/email_001721/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 1582,
+      "path": "attachments/email_001721/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 723,
+      "path": "attachments/email_001721/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 766,
+      "path": "attachments/email_001721/attachment_4"
+    },
+    {
+      "filename": "attachment_5",
+      "size": 474,
+      "path": "attachments/email_001721/attachment_5"
+    },
+    {
+      "filename": "attachment_6",
+      "size": 833,
+      "path": "attachments/email_001721/attachment_6"
+    },
+    {
+      "filename": "attachment_7",
+      "size": 97851,
+      "path": "attachments/email_001721/attachment_7"
+    },
+    {
+      "filename": "attachment_8",
+      "size": 196414,
+      "path": "attachments/email_001721/attachment_8"
+    },
+    {
+      "filename": "attachment_9",
+      "size": 25224,
+      "path": "attachments/email_001721/attachment_9"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 20688
+}

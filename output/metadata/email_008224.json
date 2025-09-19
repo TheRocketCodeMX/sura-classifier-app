@@ -1,0 +1,26 @@
+{
+  "id": "email_008224",
+  "folder": "Principio del archivo de datos de Outlook/DEPURADOS",
+  "extraction_date": "2025-09-19T12:27:49.256587",
+  "subject": "RE: 3898 JOSE MONRAZ | END B TEXTO ACLARATORIO 3-301-900002351-9 - MAYOREO DULCERO DE OCCIDENTE",
+  "sender_name": "Vera Cuesta Giovanna",
+  "delivery_time": "2025-08-04T16:46:32.269711",
+  "creation_time": "2025-08-05T21:34:43.430802",
+  "modification_time": "2025-08-04T16:56:46.786000",
+  "attachment_count": 2,
+  "eml_file": "emails/email_008224.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 82858,
+      "path": "attachments/email_008224/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 853685,
+      "path": "attachments/email_008224/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 17721
+}

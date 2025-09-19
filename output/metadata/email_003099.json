@@ -1,0 +1,26 @@
+{
+  "id": "email_003099",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:50.366937",
+  "subject": "TEXTOS COMPLETOS PÓLIZA  1-430-46321 / AGENTE 7021",
+  "sender_name": "Yitzely Gomez",
+  "delivery_time": "2025-08-15T18:53:00.262574",
+  "creation_time": "2025-08-18T23:59:18.712591",
+  "modification_time": "2025-08-18T23:59:24.272317",
+  "attachment_count": 2,
+  "eml_file": "emails/email_003099.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 259974,
+      "path": "attachments/email_003099/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 15826,
+      "path": "attachments/email_003099/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 9147
+}

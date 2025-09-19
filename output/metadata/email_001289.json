@@ -1,0 +1,61 @@
+{
+  "id": "email_001289",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:06.005392",
+  "subject": "RV: PREFERRED COMPOUNDING  | Póliza 140 | OT 17020325",
+  "sender_name": "Mendoza Garcia Alma",
+  "delivery_time": "2025-08-04T16:39:10.711041",
+  "creation_time": "2025-08-05T14:26:23.499585",
+  "modification_time": "2025-08-05T14:48:39.795783",
+  "attachment_count": 9,
+  "eml_file": "emails/email_001289.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 853685,
+      "path": "attachments/email_001289/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 78092,
+      "path": "attachments/email_001289/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 255646,
+      "path": "attachments/email_001289/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 41835,
+      "path": "attachments/email_001289/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 60470,
+      "path": "attachments/email_001289/attachment_4"
+    },
+    {
+      "filename": "attachment_5",
+      "size": 41693,
+      "path": "attachments/email_001289/attachment_5"
+    },
+    {
+      "filename": "attachment_6",
+      "size": 178761,
+      "path": "attachments/email_001289/attachment_6"
+    },
+    {
+      "filename": "attachment_7",
+      "size": 853685,
+      "path": "attachments/email_001289/attachment_7"
+    },
+    {
+      "filename": "attachment_8",
+      "size": 21916,
+      "path": "attachments/email_001289/attachment_8"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 99941
+}

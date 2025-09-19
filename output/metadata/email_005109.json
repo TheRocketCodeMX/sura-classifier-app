@@ -1,0 +1,26 @@
+{
+  "id": "email_005109",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:36.607171",
+  "subject": "EMISION / 3355 / FLOTILLA COLLINS / 3836 JOSE ANTONIO ISAAC",
+  "sender_name": "Ahiled Renteria",
+  "delivery_time": "2025-08-05T20:02:06.574671",
+  "creation_time": "2025-08-07T15:02:55.365302",
+  "modification_time": "2025-08-07T15:03:14.052400",
+  "attachment_count": 2,
+  "eml_file": "emails/email_005109.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 345391,
+      "path": "attachments/email_005109/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 153769,
+      "path": "attachments/email_005109/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 3443
+}

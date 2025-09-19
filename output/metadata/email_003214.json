@@ -1,0 +1,36 @@
+{
+  "id": "email_003214",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:53.085270",
+  "subject": "Re: TS4 GMM - COLECTIVO -SURA",
+  "sender_name": "Daniel Sanchez de Tagle",
+  "delivery_time": "2025-08-16T19:21:00.751057",
+  "creation_time": "2025-08-18T23:57:14.048357",
+  "modification_time": "2025-08-18T23:57:49.443346",
+  "attachment_count": 4,
+  "eml_file": "emails/email_003214.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 853685,
+      "path": "attachments/email_003214/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 90189,
+      "path": "attachments/email_003214/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 317818,
+      "path": "attachments/email_003214/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 9808364,
+      "path": "attachments/email_003214/attachment_3"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 15324
+}

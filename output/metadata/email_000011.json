@@ -1,0 +1,21 @@
+{
+  "id": "email_000011",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:24:35.387307",
+  "subject": "MINTZ CONSULTANCY MEXICO // 1-902-4426 // PROPUESTA RENOVACION",
+  "sender_name": "Valero Rodriguez Carlos Francisco",
+  "delivery_time": "2025-08-06T03:07:01.128908",
+  "creation_time": "2025-08-07T13:49:20.188371",
+  "modification_time": "2025-08-07T13:53:05.588426",
+  "attachment_count": 1,
+  "eml_file": "emails/email_000011.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 10136,
+      "path": "attachments/email_000011/attachment_0"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 2074
+}

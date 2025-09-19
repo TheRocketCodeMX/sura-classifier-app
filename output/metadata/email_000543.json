@@ -1,0 +1,26 @@
+{
+  "id": "email_000543",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:24:48.691246",
+  "subject": "RENOVACIÓN AUTOMÁTICA Y COMPLEMENTARIA PROCESO SEPTIEMBRE 2025(GERENICA SELENE)",
+  "sender_name": "Casares Mosco Karla Josefina",
+  "delivery_time": "2025-08-04T23:11:00",
+  "creation_time": "2025-08-05T12:55:48.549889",
+  "modification_time": "2025-08-05T12:55:52.305562",
+  "attachment_count": 2,
+  "eml_file": "emails/email_000543.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 232891,
+      "path": "attachments/email_000543/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 3958,
+      "path": "attachments/email_000543/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 77548
+}

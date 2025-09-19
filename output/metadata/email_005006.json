@@ -1,0 +1,51 @@
+{
+  "id": "email_005006",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:34.210238",
+  "subject": "RV: COTIZACION/ GPO. CONSTRUCTOR MARCIABI/ 501/ 3450 ENRIQUE TORRES S-24019329",
+  "sender_name": "Arellano Aranda Miriam del Rocio",
+  "delivery_time": "2025-08-05T03:53:27.052868",
+  "creation_time": "2025-08-05T23:01:43.134428",
+  "modification_time": "2025-08-05T23:02:04.099959",
+  "attachment_count": 7,
+  "eml_file": "emails/email_005006.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 3958,
+      "path": "attachments/email_005006/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 12663,
+      "path": "attachments/email_005006/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 808,
+      "path": "attachments/email_005006/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 51200,
+      "path": "attachments/email_005006/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 643903,
+      "path": "attachments/email_005006/attachment_4"
+    },
+    {
+      "filename": "attachment_5",
+      "size": 853685,
+      "path": "attachments/email_005006/attachment_5"
+    },
+    {
+      "filename": "attachment_6",
+      "size": 1801,
+      "path": "attachments/email_005006/attachment_6"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 43805
+}

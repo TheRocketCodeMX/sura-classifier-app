@@ -1,0 +1,21 @@
+{
+  "id": "email_008487",
+  "folder": "Principio del archivo de datos de Outlook/DEPURADOS",
+  "extraction_date": "2025-09-19T12:27:52.255758",
+  "subject": "No se puede entregar: RE: Póliza 1-606-20231//AGENTE BERTHA  ALICIA GUIILLEN // 2529787  ",
+  "sender_name": "Microsoft Outlook",
+  "delivery_time": "2025-08-08T21:46:21.493251",
+  "creation_time": "2025-08-08T21:46:21.190343",
+  "modification_time": "2025-08-08T21:46:28.401699",
+  "attachment_count": 1,
+  "eml_file": "emails/email_008487.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 11046,
+      "path": "attachments/email_008487/attachment_0"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 9423
+}

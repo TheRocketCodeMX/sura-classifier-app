@@ -1,0 +1,26 @@
+{
+  "id": "email_003519",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:58.637950",
+  "subject": "RV: 430/DAÑOS/ENDOSO/11/1100000329/4634",
+  "sender_name": "Mesa Hermosillo",
+  "delivery_time": "2025-08-19T15:25:43.545966",
+  "creation_time": "2025-08-19T23:54:17.608700",
+  "modification_time": "2025-08-19T23:54:21.571295",
+  "attachment_count": 2,
+  "eml_file": "emails/email_003519.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 853685,
+      "path": "attachments/email_003519/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 3958,
+      "path": "attachments/email_003519/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 14898
+}

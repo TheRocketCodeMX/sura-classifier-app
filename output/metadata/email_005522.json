@@ -1,0 +1,71 @@
+{
+  "id": "email_005522",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:47.690946",
+  "subject": "BVBC-217-25 (GMM) // PROPUESTA NEGOCIO NUEVO GMM - CLIENTE GRUPO CC MÉXICO (URGENTE)_SURA",
+  "sender_name": "Jessica Dorantes Hernández",
+  "delivery_time": "2025-08-07T02:42:10.607901",
+  "creation_time": "2025-08-20T19:29:55.563458",
+  "modification_time": "2025-08-20T19:30:18.377813",
+  "attachment_count": 11,
+  "eml_file": "emails/email_005522.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 29862,
+      "path": "attachments/email_005522/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 28755,
+      "path": "attachments/email_005522/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 2001,
+      "path": "attachments/email_005522/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 1779,
+      "path": "attachments/email_005522/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 1935,
+      "path": "attachments/email_005522/attachment_4"
+    },
+    {
+      "filename": "attachment_5",
+      "size": 97851,
+      "path": "attachments/email_005522/attachment_5"
+    },
+    {
+      "filename": "attachment_6",
+      "size": 725,
+      "path": "attachments/email_005522/attachment_6"
+    },
+    {
+      "filename": "attachment_7",
+      "size": 769,
+      "path": "attachments/email_005522/attachment_7"
+    },
+    {
+      "filename": "attachment_8",
+      "size": 477,
+      "path": "attachments/email_005522/attachment_8"
+    },
+    {
+      "filename": "attachment_9",
+      "size": 833,
+      "path": "attachments/email_005522/attachment_9"
+    },
+    {
+      "filename": "attachment_10",
+      "size": 2400513,
+      "path": "attachments/email_005522/attachment_10"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 31660
+}

@@ -1,0 +1,26 @@
+{
+  "id": "email_008095",
+  "folder": "Principio del archivo de datos de Outlook/DEPURADOS",
+  "extraction_date": "2025-09-19T12:27:47.004795",
+  "subject": "EMISIONES SISEGUROS 6284/ot-0710312 sura villegas ibanez rafael renovacion.pdf",
+  "sender_name": "SISEGUROS",
+  "delivery_time": "2025-08-05T21:39:08.876276",
+  "creation_time": "2025-08-11T20:16:41.398599",
+  "modification_time": "2025-08-11T20:17:00.057143",
+  "attachment_count": 2,
+  "eml_file": "emails/email_008095.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 5040,
+      "path": "attachments/email_008095/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 127802,
+      "path": "attachments/email_008095/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 8946
+}

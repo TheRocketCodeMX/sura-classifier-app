@@ -1,0 +1,31 @@
+{
+  "id": "email_003932",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:26:08.622898",
+  "subject": "RV: Solicitud de cotización // MSPV SEGURIDAD PRIVADA S.A. DE C.V. // RC // Sura - Aon",
+  "sender_name": "Cuevas Munoz Nisiel Alexis",
+  "delivery_time": "2025-08-18T15:28:00.545257",
+  "creation_time": "2025-08-19T13:07:35.723719",
+  "modification_time": "2025-08-19T13:07:54.957825",
+  "attachment_count": 3,
+  "eml_file": "emails/email_003932.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 3452,
+      "path": "attachments/email_003932/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 78769,
+      "path": "attachments/email_003932/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 853685,
+      "path": "attachments/email_003932/attachment_2"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 21706
+}

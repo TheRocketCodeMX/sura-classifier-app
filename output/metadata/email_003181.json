@@ -1,0 +1,26 @@
+{
+  "id": "email_003181",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:52.579192",
+  "subject": "EMISIONES SISEGUROS 6284/sis ot-0710975 sura navarro palma susana, chrysler town & country 2007.pdf",
+  "sender_name": "SISEGUROS",
+  "delivery_time": "2025-08-15T22:38:43.570430",
+  "creation_time": "2025-08-18T15:09:57.674928",
+  "modification_time": "2025-08-18T15:10:18.446842",
+  "attachment_count": 2,
+  "eml_file": "emails/email_003181.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 5040,
+      "path": "attachments/email_003181/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 227073,
+      "path": "attachments/email_003181/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 8897
+}

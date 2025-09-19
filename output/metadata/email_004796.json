@@ -1,0 +1,26 @@
+{
+  "id": "email_004796",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:29.175245",
+  "subject": "RENOVACIÓN AUTOMÁTICA Y COMPLEMENTARIA PROCESO SEPTIEMBRE 2025",
+  "sender_name": "Casares Mosco Karla Josefina",
+  "delivery_time": "2025-08-05T15:06:00",
+  "creation_time": "2025-08-06T14:14:05.867120",
+  "modification_time": "2025-08-06T14:14:12.638806",
+  "attachment_count": 2,
+  "eml_file": "emails/email_004796.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 230307,
+      "path": "attachments/email_004796/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 3958,
+      "path": "attachments/email_004796/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 50115
+}

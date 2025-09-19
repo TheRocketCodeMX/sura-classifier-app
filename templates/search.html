@@ -1,0 +1,513 @@
+{% extends "base.html" %}
+
+{% block title %}Búsqueda Avanzada - Clasificación de Emails{% endblock %}
+
+{% block content %}
+<div class="d-flex justify-content-between align-items-center mb-4">
+    <h1 class="h2 fw-bold mb-0">Búsqueda</h1>
+    <button class="btn btn-outline-secondary btn-minimal" onclick="clearFilters()">
+        Limpiar Filtros
+    </button>
+</div>
+
+<!-- Formulario de Búsqueda -->
+<div class="card mb-4">
+    <div class="card-header">
+        <h5>Filtros de Búsqueda</h5>
+    </div>
+    <div class="card-body">
+        <form id="searchForm">
+            <div class="row">
+                <div class="col-12 col-md-4 mb-3">
+                    <label for="query" class="form-label">Buscar en Asunto/Remitente:</label>
+                    <input type="text" class="form-control" id="query" name="query"
+                           placeholder="Ej: cotización, renovar, agente...">
+                </div>
+                <div class="col-6 col-md-4 mb-3">
+                    <label for="classification" class="form-label">Clasificación:</label>
+                    <select class="form-select" id="classification" name="classification">
+                        <option value="all">Todas las clasificaciones</option>
+                        <option value="cotizacion">Cotización</option>
+                        <option value="renovacion">Renovación</option>
+                        <option value="endoso">Endoso</option>
+                        <option value="sin_clasificar">Sin Clasificar</option>
+                    </select>
+                </div>
+                <div class="col-6 col-md-4 mb-3">
+                    <label for="folder" class="form-label">Carpeta de Origen:</label>
+                    <select class="form-select" id="folder" name="folder">
+                        <option value="all">Todas las carpetas</option>
+                        {% for folder in folders %}
+                        <option value="{{ folder }}">{{ folder }}</option>
+                        {% endfor %}
+                    </select>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-6 col-md-3 mb-3">
+                    <label for="has_attachments" class="form-label">Adjuntos:</label>
+                    <select class="form-select" id="has_attachments" name="has_attachments">
+                        <option value="">Todos</option>
+                        <option value="true">Con adjuntos</option>
+                        <option value="false">Sin adjuntos</option>
+                    </select>
+                </div>
+                <div class="col-6 col-md-3 mb-3">
+                    <label for="date_from" class="form-label">Fecha Desde:</label>
+                    <input type="date" class="form-control" id="date_from" name="date_from">
+                </div>
+                <div class="col-6 col-md-3 mb-3">
+                    <label for="date_to" class="form-label">Fecha Hasta:</label>
+                    <input type="date" class="form-control" id="date_to" name="date_to">
+                </div>
+                <div class="col-6 col-md-3 mb-3">
+                    <label for="per_page" class="form-label">Emails por Página:</label>
+                    <select class="form-select" id="per_page" name="per_page">
+                        <option value="25">25</option>
+                        <option value="50" selected>50</option>
+                        <option value="100">100</option>
+                        <option value="200">200</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="row mt-3">
+                <div class="col-12">
+                    <div class="d-flex flex-column flex-sm-row gap-2">
+                        <button type="submit" class="btn btn-primary btn-minimal flex-fill">
+                            Buscar
+                        </button>
+                        <button type="button" class="btn btn-outline-success btn-minimal flex-fill" onclick="exportResults()">
+                            Exportar
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+<!-- Loading Spinner -->
+<div id="loading" class="text-center d-none">
+    <div class="spinner-border text-primary" role="status">
+        <span class="visually-hidden">Buscando...</span>
+    </div>
+    <p class="mt-2">Buscando emails...</p>
+</div>
+
+<!-- Resultados -->
+<div id="results" class="card d-none">
+    <div class="card-header">
+        <div class="d-flex justify-content-between align-items-center flex-wrap">
+            <h5 id="resultsTitle" class="mb-0">Resultados de la Búsqueda</h5>
+            <div class="d-flex align-items-center gap-2 mt-2 mt-md-0">
+                <span id="resultsCount" class="badge bg-primary"></span>
+                <span id="resultsInfo" class="text-muted small"></span>
+            </div>
+        </div>
+        <!-- Estadísticas de clasificación -->
+        <div id="classificationStats" class="mt-3 d-none">
+            <div class="row text-center">
+                <div class="col-6 col-md-3">
+                    <div class="p-2 border rounded">
+                        <div class="fw-bold text-success" id="statCotizacion">0</div>
+                        <small class="text-muted">Cotizaciones</small>
+                    </div>
+                </div>
+                <div class="col-6 col-md-3">
+                    <div class="p-2 border rounded">
+                        <div class="fw-bold text-primary" id="statRenovacion">0</div>
+                        <small class="text-muted">Renovaciones</small>
+                    </div>
+                </div>
+                <div class="col-6 col-md-3">
+                    <div class="p-2 border rounded">
+                        <div class="fw-bold text-warning" id="statEndoso">0</div>
+                        <small class="text-muted">Endosos</small>
+                    </div>
+                </div>
+                <div class="col-6 col-md-3">
+                    <div class="p-2 border rounded">
+                        <div class="fw-bold text-secondary" id="statSinClasificar">0</div>
+                        <small class="text-muted">Sin Clasificar</small>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="card-body">
+        <div id="emailsList"></div>
+
+        <!-- Paginación -->
+        <div id="pagination" class="d-flex justify-content-center mt-4"></div>
+    </div>
+</div>
+
+<!-- Modal para vista previa -->
+<div class="modal fade" id="previewModal" tabindex="-1">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Vista Previa del Email</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+            </div>
+            <div class="modal-body" id="previewContent">
+                <!-- Content loaded dynamically -->
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
+                <a id="viewFullEmail" href="#" class="btn btn-primary">Ver Email Completo</a>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+    let currentSearchData = null;
+    let currentPage = 1;
+
+    document.getElementById('searchForm').addEventListener('submit', function(e) {
+        e.preventDefault();
+        currentPage = 1;
+        performSearch();
+    });
+
+    // Auto-search when URL has parameters
+    window.addEventListener('load', function() {
+        const urlParams = new URLSearchParams(window.location.search);
+
+        // Set form values from URL
+        urlParams.forEach((value, key) => {
+            const element = document.getElementById(key);
+            if (element) {
+                element.value = value;
+            }
+        });
+
+        // Perform search if there are parameters
+        if (urlParams.toString()) {
+            performSearch();
+        }
+    });
+
+    function performSearch(page = 1) {
+        currentPage = page;
+        const formData = new FormData(document.getElementById('searchForm'));
+        const params = new URLSearchParams(formData);
+        params.append('page', page);
+
+        // Show loading
+        document.getElementById('loading').classList.remove('d-none');
+        document.getElementById('results').classList.add('d-none');
+
+        fetch('/api/search?' + params.toString())
+            .then(response => response.json())
+            .then(data => {
+                currentSearchData = data;
+                displayResults(data);
+                displayPagination(data.pagination);
+                displayClassificationStats(data.results);
+
+                // Hide loading
+                document.getElementById('loading').classList.add('d-none');
+                document.getElementById('results').classList.remove('d-none');
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                document.getElementById('loading').classList.add('d-none');
+                alert('Error al buscar emails');
+            });
+    }
+
+    function displayResults(data) {
+        const emailsList = document.getElementById('emailsList');
+        const resultsCount = document.getElementById('resultsCount');
+        const resultsInfo = document.getElementById('resultsInfo');
+
+        const { results: emails, pagination } = data;
+
+        resultsCount.textContent = `${pagination.total} emails encontrados`;
+        resultsInfo.textContent = `Página ${pagination.page} de ${pagination.pages}`;
+
+        // Mostrar indicador de volumen grande
+        const resultsTitle = document.getElementById('resultsTitle');
+        if (pagination.total > 200) {
+            resultsTitle.innerHTML = `
+                Resultados de la Búsqueda
+                <div class="volume-indicator mt-2">
+                    Gran volumen detectado: ${pagination.total} emails
+                </div>
+            `;
+        } else if (pagination.total > 100) {
+            resultsTitle.innerHTML = `
+                Resultados de la Búsqueda
+                <small class="text-warning">⚠️ ${pagination.total} emails encontrados</small>
+            `;
+        } else {
+            resultsTitle.textContent = 'Resultados de la Búsqueda';
+        }
+
+        if (emails.length === 0) {
+            emailsList.innerHTML = `
+                <div class="alert alert-info">
+                    <h6>No se encontraron emails</h6>
+                    <p>Intenta modificar los filtros de búsqueda.</p>
+                </div>
+            `;
+            return;
+        }
+
+        let html = '';
+        emails.forEach(email => {
+            const classificationBadge = getClassificationBadge(email.classification_type);
+            const confidenceBadge = getConfidenceBadge(email.confidence);
+            const attachmentsBadge = email.total_attachments > 0 ?
+                `<span class="badge bg-secondary badge-minimal">${email.total_attachments} adjuntos</span>` : '';
+
+            html += `
+                <div class="email-item border rounded p-3 mb-3" onclick="previewEmail('${email.email_id}')">
+                    <div class="row">
+                        <div class="col-md-8">
+                            <h6 class="mb-1">${email.subject || 'Sin asunto'}</h6>
+                            <p class="mb-1 text-muted">
+                                <strong>De:</strong> ${email.sender_name || email.sender_email || 'Desconocido'}
+                            </p>
+                            <p class="mb-0 small text-muted">
+                                <strong>Carpeta:</strong> ${email.folder || 'N/A'} |
+                                <strong>Fecha:</strong> ${formatDate(email.delivery_time)}
+                            </p>
+                        </div>
+                        <div class="col-md-4 text-end">
+                            ${classificationBadge}
+                            ${confidenceBadge}
+                            ${attachmentsBadge}
+                            <br>
+                            <div class="mt-2">
+                                <button class="btn btn-sm btn-outline-primary btn-minimal" onclick="event.stopPropagation(); window.open('/email/${email.email_id}', '_blank')">
+                                    Ver
+                                </button>
+                                <button class="btn btn-sm btn-outline-success btn-minimal" onclick="event.stopPropagation(); downloadEmail('${email.email_id}')">
+                                    Descargar
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            `;
+        });
+
+        emailsList.innerHTML = html;
+    }
+
+    function displayPagination(pagination) {
+        const paginationContainer = document.getElementById('pagination');
+
+        if (pagination.pages <= 1) {
+            paginationContainer.innerHTML = '';
+            return;
+        }
+
+        let html = '<nav aria-label="Navegación de páginas"><ul class="pagination pagination-lg justify-content-center">';
+
+        // Botón anterior
+        if (pagination.has_prev) {
+            html += `<li class="page-item">
+                <a class="page-link" href="#" onclick="performSearch(${pagination.prev_page})" aria-label="Anterior">
+                    <span aria-hidden="true">&laquo;</span>
+                </a>
+            </li>`;
+        } else {
+            html += '<li class="page-item disabled"><span class="page-link">&laquo;</span></li>';
+        }
+
+        // Páginas numeradas
+        const startPage = Math.max(1, pagination.page - 2);
+        const endPage = Math.min(pagination.pages, pagination.page + 2);
+
+        if (startPage > 1) {
+            html += '<li class="page-item"><a class="page-link" href="#" onclick="performSearch(1)">1</a></li>';
+            if (startPage > 2) {
+                html += '<li class="page-item disabled"><span class="page-link">...</span></li>';
+            }
+        }
+
+        for (let i = startPage; i <= endPage; i++) {
+            if (i === pagination.page) {
+                html += `<li class="page-item active"><span class="page-link">${i}</span></li>`;
+            } else {
+                html += `<li class="page-item"><a class="page-link" href="#" onclick="performSearch(${i})">${i}</a></li>`;
+            }
+        }
+
+        if (endPage < pagination.pages) {
+            if (endPage < pagination.pages - 1) {
+                html += '<li class="page-item disabled"><span class="page-link">...</span></li>';
+            }
+            html += `<li class="page-item"><a class="page-link" href="#" onclick="performSearch(${pagination.pages})">${pagination.pages}</a></li>`;
+        }
+
+        // Botón siguiente
+        if (pagination.has_next) {
+            html += `<li class="page-item">
+                <a class="page-link" href="#" onclick="performSearch(${pagination.next_page})" aria-label="Siguiente">
+                    <span aria-hidden="true">&raquo;</span>
+                </a>
+            </li>`;
+        } else {
+            html += '<li class="page-item disabled"><span class="page-link">&raquo;</span></li>';
+        }
+
+        html += '</ul></nav>';
+
+        // Información adicional de paginación
+        html += `<div class="text-center mt-3">
+            <small class="text-muted">
+                Mostrando ${(pagination.page - 1) * pagination.per_page + 1} -
+                ${Math.min(pagination.page * pagination.per_page, pagination.total)}
+                de ${pagination.total} emails
+            </small>
+        </div>`;
+
+        paginationContainer.innerHTML = html;
+    }
+
+    function displayClassificationStats(emails) {
+        const statsContainer = document.getElementById('classificationStats');
+
+        if (emails.length === 0) {
+            statsContainer.classList.add('d-none');
+            return;
+        }
+
+        // Calcular estadísticas
+        const stats = {
+            cotizacion: 0,
+            renovacion: 0,
+            endoso: 0,
+            sin_clasificar: 0
+        };
+
+        emails.forEach(email => {
+            if (stats.hasOwnProperty(email.classification_type)) {
+                stats[email.classification_type]++;
+            }
+        });
+
+        // Actualizar contadores
+        document.getElementById('statCotizacion').textContent = stats.cotizacion;
+        document.getElementById('statRenovacion').textContent = stats.renovacion;
+        document.getElementById('statEndoso').textContent = stats.endoso;
+        document.getElementById('statSinClasificar').textContent = stats.sin_clasificar;
+
+        // Mostrar estadísticas si hay datos relevantes
+        const hasStats = Object.values(stats).some(count => count > 0);
+        if (hasStats) {
+            statsContainer.classList.remove('d-none');
+        } else {
+            statsContainer.classList.add('d-none');
+        }
+    }
+
+    function getClassificationBadge(type) {
+        const badges = {
+            'cotizacion': '<span class="badge cotizacion badge-minimal">Cotización</span>',
+            'renovacion': '<span class="badge renovacion badge-minimal">Renovación</span>',
+            'endoso': '<span class="badge endoso badge-minimal">Endoso</span>',
+            'sin_clasificar': '<span class="badge sin_clasificar badge-minimal">Sin Clasificar</span>'
+        };
+        return badges[type] || '<span class="badge bg-light text-dark badge-minimal">Desconocido</span>';
+    }
+
+    function getConfidenceBadge(confidence) {
+        if (confidence >= 80) {
+            return `<span class="badge bg-success">${confidence}%</span>`;
+        } else if (confidence >= 60) {
+            return `<span class="badge bg-warning">${confidence}%</span>`;
+        } else {
+            return `<span class="badge bg-danger">${confidence}%</span>`;
+        }
+    }
+
+    function formatDate(dateString) {
+        if (!dateString) return 'N/A';
+        try {
+            return new Date(dateString).toLocaleDateString('es-ES');
+        } catch {
+            return 'N/A';
+        }
+    }
+
+    function previewEmail(emailId) {
+        // Simple preview - in a real implementation, you'd fetch more details
+        const email = currentSearchData.results.find(e => e.email_id === emailId);
+        if (!email) return;
+
+        document.getElementById('previewContent').innerHTML = `
+            <div class="row">
+                <div class="col-12">
+                    <h6>Información del Email</h6>
+                    <table class="table table-sm">
+                        <tr><td><strong>ID:</strong></td><td>${email.email_id}</td></tr>
+                        <tr><td><strong>Asunto:</strong></td><td>${email.subject || 'Sin asunto'}</td></tr>
+                        <tr><td><strong>Remitente:</strong></td><td>${email.sender_name || email.sender_email || 'Desconocido'}</td></tr>
+                        <tr><td><strong>Clasificación:</strong></td><td>${getClassificationBadge(email.classification_type)}</td></tr>
+                        <tr><td><strong>Confianza:</strong></td><td>${getConfidenceBadge(email.confidence)}</td></tr>
+                        <tr><td><strong>Adjuntos:</strong></td><td>${email.total_attachments}</td></tr>
+                        <tr><td><strong>Carpeta:</strong></td><td>${email.folder || 'N/A'}</td></tr>
+                    </table>
+                </div>
+            </div>
+        `;
+
+        document.getElementById('viewFullEmail').href = `/email/${emailId}`;
+
+        const modal = new bootstrap.Modal(document.getElementById('previewModal'));
+        modal.show();
+    }
+
+    function downloadEmail(emailId) {
+        window.open(`/download/${emailId}`, '_blank');
+    }
+
+    function clearFilters() {
+        document.getElementById('searchForm').reset();
+        document.getElementById('results').classList.add('d-none');
+        currentSearchData = null;
+    }
+
+    function exportResults() {
+        if (!currentSearchData || currentSearchData.results.length === 0) {
+            alert('No hay resultados para exportar');
+            return;
+        }
+
+        // Create CSV content
+        const headers = ['ID', 'Asunto', 'Remitente', 'Clasificación', 'Confianza', 'Adjuntos', 'Carpeta', 'Fecha'];
+        const csvContent = [
+            headers.join(','),
+            ...currentSearchData.results.map(email => [
+                email.email_id,
+                `"${(email.subject || '').replace(/"/g, '""')}"`,
+                `"${(email.sender_name || email.sender_email || '').replace(/"/g, '""')}"`,
+                email.classification_type,
+                email.confidence,
+                email.total_attachments,
+                `"${(email.folder || '').replace(/"/g, '""')}"`,
+                email.delivery_time || ''
+            ].join(','))
+        ].join('\n');
+
+        // Download CSV
+        const blob = new Blob([csvContent], { type: 'text/csv' });
+        const url = window.URL.createObjectURL(blob);
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = `emails_search_${new Date().toISOString().slice(0, 10)}.csv`;
+        a.click();
+        window.URL.revokeObjectURL(url);
+    }
+</script>
+{% endblock %}

@@ -1,0 +1,26 @@
+{
+  "id": "email_003680",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:26:03.537620",
+  "subject": "RV: 430 | EMPRESARIAL | COTIZAR | ASOCIACION DE CONDOMINOS SINDICALISMO 20 AC | OFC 1 | AGENTE 6757",
+  "sender_name": "Figueroa Velazquez Edith Concepcion",
+  "delivery_time": "2025-08-18T22:12:57.689824",
+  "creation_time": "2025-08-19T13:57:26.111822",
+  "modification_time": "2025-08-21T01:41:50.954348",
+  "attachment_count": 2,
+  "eml_file": "emails/email_003680.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 28480,
+      "path": "attachments/email_003680/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 128024,
+      "path": "attachments/email_003680/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 19765
+}

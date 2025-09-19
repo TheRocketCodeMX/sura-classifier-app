@@ -1,0 +1,31 @@
+{
+  "id": "email_000560",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:24:48.994959",
+  "subject": "CT-31915//MAS SEGUROS Nueva//GUSTAVO ADOLFO NUÑEZ GUTIERREZ//SURA Agte 9260",
+  "sender_name": "Karen Rodríguez Ruíz",
+  "delivery_time": "2025-08-04T22:47:18.169312",
+  "creation_time": "2025-08-05T23:04:33.705219",
+  "modification_time": "2025-08-05T23:14:54.132311",
+  "attachment_count": 3,
+  "eml_file": "emails/email_000560.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 103508,
+      "path": "attachments/email_000560/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 14849264,
+      "path": "attachments/email_000560/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 29082,
+      "path": "attachments/email_000560/attachment_2"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 2383
+}

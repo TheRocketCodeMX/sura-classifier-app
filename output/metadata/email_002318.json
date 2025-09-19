@@ -1,0 +1,31 @@
+{
+  "id": "email_002318",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:31.225258",
+  "subject": "RAMO 202/ CAMIONES /SOLICITUD EMISION POLIZA NUEVA / JHONNY ARMIN PECH YAH / OFICINA 7 / 47291 /AGENTE 3208",
+  "sender_name": "Fabiola Lopez",
+  "delivery_time": "2025-08-14T22:39:27.769704",
+  "creation_time": "2025-08-19T15:27:14.612775",
+  "modification_time": "2025-08-19T15:27:32.961288",
+  "attachment_count": 3,
+  "eml_file": "emails/email_002318.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 3826,
+      "path": "attachments/email_002318/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 11159,
+      "path": "attachments/email_002318/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 46978,
+      "path": "attachments/email_002318/attachment_2"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 13241
+}

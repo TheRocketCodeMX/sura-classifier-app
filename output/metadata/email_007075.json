@@ -1,0 +1,36 @@
+{
+  "id": "email_007075",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:26.147852",
+  "subject": "RE: CT-32158//MAS SEGUROS Nueva//TIRSO MEJIA MEJIA //SURA SOL.2531378",
+  "sender_name": "Hugo Lujano Briceño",
+  "delivery_time": "2025-08-15T18:48:56.720452",
+  "creation_time": "2025-08-18T23:59:22.657087",
+  "modification_time": "2025-08-18T23:59:29.685897",
+  "attachment_count": 4,
+  "eml_file": "emails/email_007075.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 4624,
+      "path": "attachments/email_007075/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 18640,
+      "path": "attachments/email_007075/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 27570,
+      "path": "attachments/email_007075/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 3958,
+      "path": "attachments/email_007075/attachment_3"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 31723
+}

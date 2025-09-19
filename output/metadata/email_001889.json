@@ -1,0 +1,26 @@
+{
+  "id": "email_001889",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:20.749614",
+  "subject": "COTIZACIÓN EQUIPO ELECTRONICO PET CT MERIDA/ AGT 4298",
+  "sender_name": "Araceli Saavedra",
+  "delivery_time": "2025-08-06T15:53:13.372806",
+  "creation_time": "2025-08-20T19:54:26.083461",
+  "modification_time": "2025-08-20T20:10:49.793093",
+  "attachment_count": 2,
+  "eml_file": "emails/email_001889.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 393762,
+      "path": "attachments/email_001889/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 29096,
+      "path": "attachments/email_001889/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 5418
+}

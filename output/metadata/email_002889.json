@@ -1,0 +1,21 @@
+{
+  "id": "email_002889",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:45.032133",
+  "subject": "RV: cotización seguro de transporte  clave agente 6302 SNT MEX AGENTE DE SEGUROS, S.A. ",
+  "sender_name": "ana.urdapilleta@jenkins.com.mx",
+  "delivery_time": "2025-08-14T23:15:19.251959",
+  "creation_time": "2025-08-18T14:27:35.345492",
+  "modification_time": "2025-08-18T14:28:11.251224",
+  "attachment_count": 1,
+  "eml_file": "emails/email_002889.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 11346,
+      "path": "attachments/email_002889/attachment_0"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 5897
+}

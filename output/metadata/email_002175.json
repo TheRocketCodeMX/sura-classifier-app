@@ -1,0 +1,26 @@
+{
+  "id": "email_002175",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:27.037967",
+  "subject": "607/Beneficios GMM/Endoso de Corrección/Carl Zeiss de Mexico/ 1/ 607-1726/3310",
+  "sender_name": "Arena Soluciones",
+  "delivery_time": "2025-08-05T19:04:55.226921",
+  "creation_time": "2025-08-20T20:16:08.930269",
+  "modification_time": "2025-08-20T20:16:28.422593",
+  "attachment_count": 2,
+  "eml_file": "emails/email_002175.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 1580249,
+      "path": "attachments/email_002175/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 111020,
+      "path": "attachments/email_002175/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 3903
+}

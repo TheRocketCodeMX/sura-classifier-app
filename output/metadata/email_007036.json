@@ -1,0 +1,21 @@
+{
+  "id": "email_007036",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:25.434733",
+  "subject": "REEXPEDIR PÓLIZA 1-211-601895473 OPA AJAUSTADORES ANUAL /Agente Martha X. Sonck Urueste Clave 004344",
+  "sender_name": "Lorena Estrada",
+  "delivery_time": "2025-08-15T17:49:04.219421",
+  "creation_time": "2025-08-19T00:19:49.059693",
+  "modification_time": "2025-08-19T00:20:10.197355",
+  "attachment_count": 1,
+  "eml_file": "emails/email_007036.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 126206,
+      "path": "attachments/email_007036/attachment_0"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 2825
+}

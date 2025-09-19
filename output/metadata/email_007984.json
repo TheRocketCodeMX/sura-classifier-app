@@ -1,0 +1,46 @@
+{
+  "id": "email_007984",
+  "folder": "Principio del archivo de datos de Outlook/DEPURADOS",
+  "extraction_date": "2025-09-19T12:27:46.069069",
+  "subject": "Re: Reactivación: Cotización accidentes personales AGUNSA LAZARO CARDENAS MICHOACAN",
+  "sender_name": "Mareli Infante",
+  "delivery_time": "2025-08-04T14:45:54.745485",
+  "creation_time": "2025-08-11T20:20:00.897390",
+  "modification_time": "2025-08-11T20:20:26.622612",
+  "attachment_count": 6,
+  "eml_file": "emails/email_007984.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 853685,
+      "path": "attachments/email_007984/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 2389815,
+      "path": "attachments/email_007984/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 1459532,
+      "path": "attachments/email_007984/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 315607,
+      "path": "attachments/email_007984/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 1459532,
+      "path": "attachments/email_007984/attachment_4"
+    },
+    {
+      "filename": "attachment_5",
+      "size": 315607,
+      "path": "attachments/email_007984/attachment_5"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 93264
+}

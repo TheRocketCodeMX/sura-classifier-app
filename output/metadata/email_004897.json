@@ -1,0 +1,41 @@
+{
+  "id": "email_004897",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:31.389380",
+  "subject": "RENOVACIÓN AUTOMÁTICA Y COMPLEMENTARIA PROCESO SEPTIEMBRE 2025",
+  "sender_name": "Arenas Luna Geraldine del Rocio",
+  "delivery_time": "2025-08-04T16:35:58.865044",
+  "creation_time": "2025-08-04T22:35:59.375586",
+  "modification_time": "2025-08-04T22:36:24.378250",
+  "attachment_count": 5,
+  "eml_file": "emails/email_004897.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 243,
+      "path": "attachments/email_004897/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 853685,
+      "path": "attachments/email_004897/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 1486334,
+      "path": "attachments/email_004897/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 1701113,
+      "path": "attachments/email_004897/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 1424938,
+      "path": "attachments/email_004897/attachment_4"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 15986
+}

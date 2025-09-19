@@ -1,0 +1,26 @@
+{
+  "id": "email_006899",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:21.357599",
+  "subject": "RV: CASA COCOTEROS / COTIZACIÒN CASA-HAB. / 2025-2026 / SURA",
+  "sender_name": "Figueroa Velazquez Edith Concepcion",
+  "delivery_time": "2025-08-15T00:11:12.033882",
+  "creation_time": "2025-08-18T14:27:16.006160",
+  "modification_time": "2025-08-18T14:27:41.883865",
+  "attachment_count": 2,
+  "eml_file": "emails/email_006899.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 19538,
+      "path": "attachments/email_006899/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 68017,
+      "path": "attachments/email_006899/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 16291
+}

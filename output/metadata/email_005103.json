@@ -1,0 +1,41 @@
+{
+  "id": "email_005103",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:36.353030",
+  "subject": "RE: URGENTE EMISION  Seguro automóvil / 3MVDMCDL7SM843901",
+  "sender_name": "Vega Ventura Alejandro",
+  "delivery_time": "2025-08-05T19:56:03.959303",
+  "creation_time": "2025-08-06T22:30:51.726905",
+  "modification_time": "2025-08-06T18:41:20.716000",
+  "attachment_count": 5,
+  "eml_file": "emails/email_005103.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 2569,
+      "path": "attachments/email_005103/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 2940,
+      "path": "attachments/email_005103/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 823,
+      "path": "attachments/email_005103/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 15883,
+      "path": "attachments/email_005103/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 13747,
+      "path": "attachments/email_005103/attachment_4"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 104666
+}

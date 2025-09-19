@@ -1,0 +1,46 @@
+{
+  "id": "email_005550",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:48.041609",
+  "subject": "RV: SOLICITUD P/DAR DE BAJA 2 UBIC EN POLIZA 500009536 RAMO 501 OF 1 (AMBITERRA)  S-2511977  ",
+  "sender_name": "Juarez Alcantara Carmen Aketzali",
+  "delivery_time": "2025-08-07T00:19:50.478517",
+  "creation_time": "2025-08-20T19:31:43.884152",
+  "modification_time": "2025-08-20T19:33:58.269954",
+  "attachment_count": 6,
+  "eml_file": "emails/email_005550.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 853685,
+      "path": "attachments/email_005550/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 24556,
+      "path": "attachments/email_005550/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 55622,
+      "path": "attachments/email_005550/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 257578,
+      "path": "attachments/email_005550/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 400703,
+      "path": "attachments/email_005550/attachment_4"
+    },
+    {
+      "filename": "attachment_5",
+      "size": 491753,
+      "path": "attachments/email_005550/attachment_5"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 43384
+}

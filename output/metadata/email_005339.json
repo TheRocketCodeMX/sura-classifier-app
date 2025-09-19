@@ -1,0 +1,41 @@
+{
+  "id": "email_005339",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:42.636863",
+  "subject": "PLD 5 702 4653",
+  "sender_name": "Macias Macias Sara Maria",
+  "delivery_time": "2025-08-05T16:29:44.560296",
+  "creation_time": "2025-08-05T23:33:26.422762",
+  "modification_time": "2025-08-05T23:33:54.684636",
+  "attachment_count": 5,
+  "eml_file": "emails/email_005339.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 239589,
+      "path": "attachments/email_005339/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 853688,
+      "path": "attachments/email_005339/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 540192,
+      "path": "attachments/email_005339/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 329395,
+      "path": "attachments/email_005339/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 482227,
+      "path": "attachments/email_005339/attachment_4"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 6018
+}

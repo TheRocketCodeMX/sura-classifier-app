@@ -1,0 +1,21 @@
+{
+  "id": "email_006658",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:15.876838",
+  "subject": "RV:  RENOVACIONES DE SEPTIEMBRE  incrementado el 5 % en todas las sumas aseguradas.",
+  "sender_name": "Licona Tamayo Cristopher",
+  "delivery_time": "2025-08-14T18:44:13.404338",
+  "creation_time": "2025-08-14T23:23:27.782244",
+  "modification_time": "2025-08-14T23:23:29.932111",
+  "attachment_count": 1,
+  "eml_file": "emails/email_006658.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 823,
+      "path": "attachments/email_006658/attachment_0"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 17010
+}

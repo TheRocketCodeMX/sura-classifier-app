@@ -1,0 +1,41 @@
+{
+  "id": "email_003126",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:51.642869",
+  "subject": "RE: URGENTE | OT-0001317326 // XYLEM WATER SOLUTIONS MEXICO // ENDOSO // VIDA // 9-902-90000399",
+  "sender_name": "Martin Avalos Carlos Francisco",
+  "delivery_time": "2025-08-15T19:44:44.867984",
+  "creation_time": "2025-08-19T15:12:31.604282",
+  "modification_time": "2025-08-19T15:19:09.397069",
+  "attachment_count": 5,
+  "eml_file": "emails/email_003126.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 853685,
+      "path": "attachments/email_003126/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 46685,
+      "path": "attachments/email_003126/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 35678,
+      "path": "attachments/email_003126/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 35595,
+      "path": "attachments/email_003126/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 21822,
+      "path": "attachments/email_003126/attachment_4"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 192090
+}

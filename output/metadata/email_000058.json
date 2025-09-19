@@ -1,0 +1,36 @@
+{
+  "id": "email_000058",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:24:36.568062",
+  "subject": "ENDOSO DE ALTA Y BAJA / POLIZA: 1 / 605 / 15782 // ERIKA JOSEFINA DELGADO GONZALEZ // Ticket: 448621// Agente: Laura Catalán",
+  "sender_name": "Gabriel Eulopa Espinosa",
+  "delivery_time": "2025-08-05T23:08:37.939214",
+  "creation_time": "2025-08-06T22:53:41.309392",
+  "modification_time": "2025-08-06T22:54:06.140007",
+  "attachment_count": 4,
+  "eml_file": "emails/email_000058.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 16758,
+      "path": "attachments/email_000058/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 73592,
+      "path": "attachments/email_000058/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 76209,
+      "path": "attachments/email_000058/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 1957637,
+      "path": "attachments/email_000058/attachment_3"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 6951
+}

@@ -1,0 +1,21 @@
+{
+  "id": "email_003503",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:58.523304",
+  "subject": "FUSION DE RFC ",
+  "sender_name": "Garcia Valdez Ashley",
+  "delivery_time": "2025-08-19T15:40:02.101059",
+  "creation_time": "2025-08-20T15:16:03.792498",
+  "modification_time": "2025-08-20T15:22:09.671374",
+  "attachment_count": 1,
+  "eml_file": "emails/email_003503.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 139901,
+      "path": "attachments/email_003503/attachment_0"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 1211
+}

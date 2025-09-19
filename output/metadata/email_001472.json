@@ -1,0 +1,51 @@
+{
+  "id": "email_001472",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:11.356787",
+  "subject": "501/coti nueva/ofi 06/GULFSTREAM MEXICALI, B. C.( Aarco 1026",
+  "sender_name": "Monjardin Rocha Dulce Maria",
+  "delivery_time": "2025-08-05T16:51:43.878462",
+  "creation_time": "2025-08-06T09:21:59.268657",
+  "modification_time": "2025-08-06T09:22:23.833340",
+  "attachment_count": 7,
+  "eml_file": "emails/email_001472.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 235779,
+      "path": "attachments/email_001472/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 853685,
+      "path": "attachments/email_001472/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 41560,
+      "path": "attachments/email_001472/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 287385,
+      "path": "attachments/email_001472/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 610218,
+      "path": "attachments/email_001472/attachment_4"
+    },
+    {
+      "filename": "attachment_5",
+      "size": 610218,
+      "path": "attachments/email_001472/attachment_5"
+    },
+    {
+      "filename": "attachment_6",
+      "size": 610190,
+      "path": "attachments/email_001472/attachment_6"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 57998
+}

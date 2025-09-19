@@ -1,0 +1,26 @@
+{
+  "id": "email_007400",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:32.876793",
+  "subject": "RV: Total de recibos de las pólizas 2-211-78846, 2-211-78848, 2-211-78849 y 2-211-79186",
+  "sender_name": "Mesa Puebla",
+  "delivery_time": "2025-08-19T18:41:39.711085",
+  "creation_time": "2025-08-20T13:02:24.198088",
+  "modification_time": "2025-08-20T13:02:29.070399",
+  "attachment_count": 2,
+  "eml_file": "emails/email_007400.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 853685,
+      "path": "attachments/email_007400/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 3958,
+      "path": "attachments/email_007400/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 22036
+}

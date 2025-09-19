@@ -1,0 +1,86 @@
+{
+  "id": "email_004561",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:23.016920",
+  "subject": "RV: Tu renovación esta lista, bienvenido a SURA Consolidado_3_211_751664_002593",
+  "sender_name": "Mesa Guadalajara",
+  "delivery_time": "2025-08-05T19:34:52.267455",
+  "creation_time": "2025-08-06T13:31:47.109143",
+  "modification_time": "2025-08-06T13:32:10.905334",
+  "attachment_count": 14,
+  "eml_file": "emails/email_004561.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 9496,
+      "path": "attachments/email_004561/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 12123,
+      "path": "attachments/email_004561/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 13862,
+      "path": "attachments/email_004561/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 122701,
+      "path": "attachments/email_004561/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 2569,
+      "path": "attachments/email_004561/attachment_4"
+    },
+    {
+      "filename": "attachment_5",
+      "size": 298989,
+      "path": "attachments/email_004561/attachment_5"
+    },
+    {
+      "filename": "attachment_6",
+      "size": 853685,
+      "path": "attachments/email_004561/attachment_6"
+    },
+    {
+      "filename": "attachment_7",
+      "size": 116850,
+      "path": "attachments/email_004561/attachment_7"
+    },
+    {
+      "filename": "attachment_8",
+      "size": 27570,
+      "path": "attachments/email_004561/attachment_8"
+    },
+    {
+      "filename": "attachment_9",
+      "size": 3958,
+      "path": "attachments/email_004561/attachment_9"
+    },
+    {
+      "filename": "attachment_10",
+      "size": 15232,
+      "path": "attachments/email_004561/attachment_10"
+    },
+    {
+      "filename": "attachment_11",
+      "size": 16083,
+      "path": "attachments/email_004561/attachment_11"
+    },
+    {
+      "filename": "attachment_12",
+      "size": 15782,
+      "path": "attachments/email_004561/attachment_12"
+    },
+    {
+      "filename": "attachment_13",
+      "size": 116412,
+      "path": "attachments/email_004561/attachment_13"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 85449
+}

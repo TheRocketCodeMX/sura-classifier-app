@@ -1,0 +1,41 @@
+{
+  "id": "email_005008",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:34.222126",
+  "subject": "RE: MOVIMIENTOS SURA VIDA 53-902-58  PUNTO CHG",
+  "sender_name": "Ruelas Castellanos Melissa Anahi",
+  "delivery_time": "2025-08-05T05:01:39.000170",
+  "creation_time": "2025-08-06T13:44:28.517930",
+  "modification_time": "2025-08-06T13:44:51.450115",
+  "attachment_count": 5,
+  "eml_file": "emails/email_005008.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 335136,
+      "path": "attachments/email_005008/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 96455,
+      "path": "attachments/email_005008/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 10906,
+      "path": "attachments/email_005008/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 10343,
+      "path": "attachments/email_005008/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 10334,
+      "path": "attachments/email_005008/attachment_4"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 28424
+}

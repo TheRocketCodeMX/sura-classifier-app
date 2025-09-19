@@ -1,0 +1,26 @@
+{
+  "id": "email_007871",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:43.427658",
+  "subject": "RV: CONSEJO DE LA COMUNICACIÓN, A.C. | RC EVENTO | 2025",
+  "sender_name": "Martinez Juarez Cynthia Alejandra",
+  "delivery_time": "2025-08-18T16:23:36.009802",
+  "creation_time": "2025-08-19T13:07:08.101740",
+  "modification_time": "2025-08-19T13:07:12.155545",
+  "attachment_count": 2,
+  "eml_file": "emails/email_007871.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 804570,
+      "path": "attachments/email_007871/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 853685,
+      "path": "attachments/email_007871/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 26537
+}

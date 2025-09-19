@@ -1,0 +1,21 @@
+{
+  "id": "email_003826",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:26:06.332776",
+  "subject": "RV: SURA | CODIGO FUENTE SOFTWARE DEVELOPMENT | Registro SPS | VG 2025",
+  "sender_name": "Gomez Andrade Melissa",
+  "delivery_time": "2025-08-18T17:55:01.526537",
+  "creation_time": "2025-08-20T15:13:09.914939",
+  "modification_time": "2025-08-20T15:18:02.886718",
+  "attachment_count": 1,
+  "eml_file": "emails/email_003826.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 853685,
+      "path": "attachments/email_003826/attachment_0"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 65694
+}

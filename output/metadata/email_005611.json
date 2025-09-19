@@ -1,0 +1,21 @@
+{
+  "id": "email_005611",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:49.474151",
+  "subject": "***ENDOSO REHABILITACION Y PRORROGA - 72 211 225183 ***    RV: Reactivacion de seguro de plataforma Didi del usuario (salvadorgr2903@gmail.com)",
+  "sender_name": "Atencion Cobranza",
+  "delivery_time": "2025-08-06T22:03:48.465103",
+  "creation_time": "2025-08-20T19:36:51.391074",
+  "modification_time": "2025-08-20T19:37:09.259076",
+  "attachment_count": 1,
+  "eml_file": "emails/email_005611.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 1776177,
+      "path": "attachments/email_005611/attachment_0"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 20145
+}

@@ -1,0 +1,26 @@
+{
+  "id": "email_001546",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:13.024283",
+  "subject": "RENOVACION COTIZACION POLIZA 1-607-2242// TRACTEL MEXICO // AGT.5280",
+  "sender_name": "Juarez Alcantara Carmen Aketzali",
+  "delivery_time": "2025-08-07T01:10:11.866138",
+  "creation_time": "2025-08-20T19:30:51.145767",
+  "modification_time": "2025-08-20T19:31:16.167708",
+  "attachment_count": 2,
+  "eml_file": "emails/email_001546.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 37576,
+      "path": "attachments/email_001546/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 853685,
+      "path": "attachments/email_001546/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 8347
+}

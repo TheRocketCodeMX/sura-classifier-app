@@ -1,0 +1,26 @@
+{
+  "id": "email_004408",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:19.947283",
+  "subject": "RV: MARHNOS VIVIENDA || SEGURO DE OBRA CIVIL",
+  "sender_name": "Gandara Godinez Lia",
+  "delivery_time": "2025-08-06T00:02:45.180144",
+  "creation_time": "2025-08-07T14:21:12.111932",
+  "modification_time": "2025-08-07T14:21:31.649533",
+  "attachment_count": 2,
+  "eml_file": "emails/email_004408.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 176578,
+      "path": "attachments/email_004408/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 853685,
+      "path": "attachments/email_004408/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 22520
+}

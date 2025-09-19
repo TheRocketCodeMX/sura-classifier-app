@@ -1,0 +1,31 @@
+{
+  "id": "email_000939",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:24:58.154434",
+  "subject": "CANCELAR Y REEXPEDIR /9-403-200000347 y 9-501-200000770 / AF MAQUINARIA / 9372 JUAN PABLO MORA",
+  "sender_name": "Ahiled Renteria",
+  "delivery_time": "2025-08-04T18:22:13.578200",
+  "creation_time": "2025-08-06T14:42:07.076878",
+  "modification_time": "2025-08-06T14:42:25.766989",
+  "attachment_count": 3,
+  "eml_file": "emails/email_000939.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 29576,
+      "path": "attachments/email_000939/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 261805,
+      "path": "attachments/email_000939/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 223567,
+      "path": "attachments/email_000939/attachment_2"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 7561
+}

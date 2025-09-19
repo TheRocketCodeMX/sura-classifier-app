@@ -1,0 +1,36 @@
+{
+  "id": "email_008523",
+  "folder": "Principio del archivo de datos de Outlook/DEPURADOS",
+  "extraction_date": "2025-09-19T12:27:52.960860",
+  "subject": "RE: RAMO 421 COT| 2530808",
+  "sender_name": "Romero Thompson Silvia",
+  "delivery_time": "2025-08-14T19:46:10.984254",
+  "creation_time": "2025-08-15T16:41:35.046317",
+  "modification_time": "2025-08-15T16:41:39.455449",
+  "attachment_count": 4,
+  "eml_file": "emails/email_008523.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 569,
+      "path": "attachments/email_008523/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 66322,
+      "path": "attachments/email_008523/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 27570,
+      "path": "attachments/email_008523/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 3479,
+      "path": "attachments/email_008523/attachment_3"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 54930
+}

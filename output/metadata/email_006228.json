@@ -1,0 +1,21 @@
+{
+  "id": "email_006228",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:03.939575",
+  "subject": "RENOVACIONES 201 // Seg. Empresarial",
+  "sender_name": "Romero Thompson Silvia",
+  "delivery_time": "2025-08-13T19:43:56.492626",
+  "creation_time": "2025-08-15T14:58:28.362978",
+  "modification_time": "2025-08-15T14:58:47.455430",
+  "attachment_count": 1,
+  "eml_file": "emails/email_006228.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 12123,
+      "path": "attachments/email_006228/attachment_0"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 6227
+}

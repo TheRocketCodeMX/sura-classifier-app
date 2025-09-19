@@ -1,0 +1,21 @@
+{
+  "id": "email_007767",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:41.296005",
+  "subject": "RE: REHABILITAR/OFICINA 12/RAMO 202 /POLIZA 17019/CONTRUCTORA GISOL SA DE CV/AGENTE 5307",
+  "sender_name": "Pedraza Gomez Carlos",
+  "delivery_time": "2025-08-18T18:45:55.935643",
+  "creation_time": "2025-08-19T11:50:16.798735",
+  "modification_time": "2025-08-19T11:50:33.869825",
+  "attachment_count": 1,
+  "eml_file": "emails/email_007767.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 518427,
+      "path": "attachments/email_007767/attachment_0"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 13196
+}

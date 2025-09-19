@@ -1,0 +1,26 @@
+{
+  "id": "email_008057",
+  "folder": "Principio del archivo de datos de Outlook/DEPURADOS",
+  "extraction_date": "2025-09-19T12:27:46.689201",
+  "subject": "RE: BVBC-196-25 GMM // PROPUESTA BROVE _ SURA",
+  "sender_name": "MXsuscripcion saludyvida",
+  "delivery_time": "2025-08-05T00:58:50.150229",
+  "creation_time": "2025-08-11T20:17:52.552871",
+  "modification_time": "2025-08-11T20:18:14.074455",
+  "attachment_count": 2,
+  "eml_file": "emails/email_008057.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 13747,
+      "path": "attachments/email_008057/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 370241,
+      "path": "attachments/email_008057/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 65831
+}

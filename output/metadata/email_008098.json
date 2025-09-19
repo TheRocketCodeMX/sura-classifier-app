@@ -1,0 +1,26 @@
+{
+  "id": "email_008098",
+  "folder": "Principio del archivo de datos de Outlook/DEPURADOS",
+  "extraction_date": "2025-09-19T12:27:47.011577",
+  "subject": "EMISIONES SISEGUROS 6284/ot-0710276 sura ruiz flores jose renovacion.pdf",
+  "sender_name": "SISEGUROS",
+  "delivery_time": "2025-08-05T21:41:03.408961",
+  "creation_time": "2025-08-11T20:16:39.220418",
+  "modification_time": "2025-08-11T20:16:59.291262",
+  "attachment_count": 2,
+  "eml_file": "emails/email_008098.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 5040,
+      "path": "attachments/email_008098/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 128397,
+      "path": "attachments/email_008098/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 8942
+}

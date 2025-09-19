@@ -1,0 +1,36 @@
+{
+  "id": "email_005766",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:53.028655",
+  "subject": "RV: 4518_COTIZACIÓN FLOTILLA HEMSA SA DE CV_ROBERTO SANCHESCHULZ_SURA",
+  "sender_name": "Mesa Monterrey",
+  "delivery_time": "2025-08-06T17:58:42.425958",
+  "creation_time": "2025-08-20T19:46:52.336838",
+  "modification_time": "2025-08-20T19:58:19.433776",
+  "attachment_count": 4,
+  "eml_file": "emails/email_005766.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 102415,
+      "path": "attachments/email_005766/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 42510,
+      "path": "attachments/email_005766/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 179067,
+      "path": "attachments/email_005766/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 3958,
+      "path": "attachments/email_005766/attachment_3"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 15335
+}

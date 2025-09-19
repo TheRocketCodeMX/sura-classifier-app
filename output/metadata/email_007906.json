@@ -1,0 +1,46 @@
+{
+  "id": "email_007906",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:44.143912",
+  "subject": "RE: COTIZACIÓN // OBRA CIVIL // SAI PROYECTO Y CONSTRUCCIONES , S.A. DE C.V.",
+  "sender_name": "Mario Rojas",
+  "delivery_time": "2025-08-18T15:45:31.832842",
+  "creation_time": "2025-08-19T11:50:35.317467",
+  "modification_time": "2025-08-19T11:50:39.701560",
+  "attachment_count": 6,
+  "eml_file": "emails/email_007906.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 13144,
+      "path": "attachments/email_007906/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 3958,
+      "path": "attachments/email_007906/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 42164,
+      "path": "attachments/email_007906/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 853685,
+      "path": "attachments/email_007906/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 41802,
+      "path": "attachments/email_007906/attachment_4"
+    },
+    {
+      "filename": "attachment_5",
+      "size": 42148,
+      "path": "attachments/email_007906/attachment_5"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 61740
+}

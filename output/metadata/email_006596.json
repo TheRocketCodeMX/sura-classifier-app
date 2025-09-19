@@ -1,0 +1,21 @@
+{
+  "id": "email_006596",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:14.165629",
+  "subject": "SURA// PLESA // GMM // NUEVO // 25-26",
+  "sender_name": "MARIA FERNANDA GONZALEZ GARCIA",
+  "delivery_time": "2025-08-14T17:07:40.049620",
+  "creation_time": "2025-08-15T18:01:52.006726",
+  "modification_time": "2025-08-15T18:05:19.160707",
+  "attachment_count": 1,
+  "eml_file": "emails/email_006596.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 188571,
+      "path": "attachments/email_006596/attachment_0"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 22612
+}

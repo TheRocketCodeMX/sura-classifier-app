@@ -1,0 +1,21 @@
+{
+  "id": "email_003467",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:58.110361",
+  "subject": "RE: OF57, 430, AG005126, END, NA  + /  / SUPREMA CORTE DE JUSTICIA DE LA NACIÓN Posibilidad de contar con endoso o cobertura de responsabilidad civil por evento",
+  "sender_name": "Rocha Sandoval Ricardo Alan",
+  "delivery_time": "2025-08-19T16:48:16.010217",
+  "creation_time": "2025-08-20T15:16:09.916737",
+  "modification_time": "2025-08-20T15:22:06.993850",
+  "attachment_count": 1,
+  "eml_file": "emails/email_003467.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 853685,
+      "path": "attachments/email_003467/attachment_0"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 26044
+}

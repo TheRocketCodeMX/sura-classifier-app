@@ -1,0 +1,66 @@
+{
+  "id": "email_005845",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:54.952508",
+  "subject": "RV: Cotizar renovación STUAC // GMM  URGENTE¡",
+  "sender_name": "Mesa Guadalajara",
+  "delivery_time": "2025-08-06T16:55:39.608015",
+  "creation_time": "2025-08-20T19:52:08.014609",
+  "modification_time": "2025-08-20T20:07:28.482200",
+  "attachment_count": 10,
+  "eml_file": "emails/email_005845.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 27645,
+      "path": "attachments/email_005845/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 988595,
+      "path": "attachments/email_005845/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 62108,
+      "path": "attachments/email_005845/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 166240,
+      "path": "attachments/email_005845/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 34972,
+      "path": "attachments/email_005845/attachment_4"
+    },
+    {
+      "filename": "attachment_5",
+      "size": 853685,
+      "path": "attachments/email_005845/attachment_5"
+    },
+    {
+      "filename": "attachment_6",
+      "size": 13747,
+      "path": "attachments/email_005845/attachment_6"
+    },
+    {
+      "filename": "attachment_7",
+      "size": 116850,
+      "path": "attachments/email_005845/attachment_7"
+    },
+    {
+      "filename": "attachment_8",
+      "size": 27570,
+      "path": "attachments/email_005845/attachment_8"
+    },
+    {
+      "filename": "attachment_9",
+      "size": 3958,
+      "path": "attachments/email_005845/attachment_9"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 62932
+}

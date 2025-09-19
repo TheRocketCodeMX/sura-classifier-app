@@ -1,0 +1,41 @@
+{
+  "id": "email_002393",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:32.874237",
+  "subject": "RE: Omega Centro Médico - Cotización Seguro Vida",
+  "sender_name": "Ortiz Contreras Maryell",
+  "delivery_time": "2025-08-13T21:56:39.115579",
+  "creation_time": "2025-08-15T14:19:23.682742",
+  "modification_time": "2025-08-15T14:19:41.854741",
+  "attachment_count": 5,
+  "eml_file": "emails/email_002393.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 1634,
+      "path": "attachments/email_002393/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 1208,
+      "path": "attachments/email_002393/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 1392,
+      "path": "attachments/email_002393/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 13747,
+      "path": "attachments/email_002393/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 28595,
+      "path": "attachments/email_002393/attachment_4"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 10086
+}

@@ -1,0 +1,36 @@
+{
+  "id": "email_002778",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:43.202137",
+  "subject": "RV: recibo de ajuste COLEGIO REGIS // 11-605-1395",
+  "sender_name": "Mesa Hermosillo",
+  "delivery_time": "2025-08-14T21:24:11.405911",
+  "creation_time": "2025-08-18T15:05:09.486746",
+  "modification_time": "2025-08-18T15:08:31.744428",
+  "attachment_count": 4,
+  "eml_file": "emails/email_002778.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 853685,
+      "path": "attachments/email_002778/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 823,
+      "path": "attachments/email_002778/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 203209,
+      "path": "attachments/email_002778/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 3958,
+      "path": "attachments/email_002778/attachment_3"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 114781
+}

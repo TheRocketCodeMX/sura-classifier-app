@@ -1,0 +1,21 @@
+{
+  "id": "email_008355",
+  "folder": "Principio del archivo de datos de Outlook/DEPURADOS",
+  "extraction_date": "2025-09-19T12:27:51.390154",
+  "subject": "Re: Solicitud de cotización Resp Civil/General de BEE CHARGE SA DE CV",
+  "sender_name": "PAUL NOE RODRIGUEZ SALAS",
+  "delivery_time": "2025-08-05T16:11:11.998621",
+  "creation_time": "2025-08-05T17:17:23.673954",
+  "modification_time": "2025-08-05T17:17:25.617777",
+  "attachment_count": 1,
+  "eml_file": "emails/email_008355.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 15887,
+      "path": "attachments/email_008355/attachment_0"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 30518
+}

@@ -1,0 +1,26 @@
+{
+  "id": "email_005830",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:54.572010",
+  "subject": "RV: 1 606 5863 // ENRIQUE AXELROD PRAES",
+  "sender_name": "Licona Tamayo Cristopher",
+  "delivery_time": "2025-08-06T17:06:38.325511",
+  "creation_time": "2025-08-20T19:51:11.785085",
+  "modification_time": "2025-08-20T20:04:35.051853",
+  "attachment_count": 2,
+  "eml_file": "emails/email_005830.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 170291,
+      "path": "attachments/email_005830/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 140388,
+      "path": "attachments/email_005830/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 10877
+}

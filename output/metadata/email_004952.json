@@ -1,0 +1,51 @@
+{
+  "id": "email_004952",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:32.986676",
+  "subject": "RE: COTIZACION / RC / UNIVA / 7584 TANKO",
+  "sender_name": "Villa Valencia Brenda Berenice",
+  "delivery_time": "2025-08-04T20:16:33.873603",
+  "creation_time": "2025-08-05T23:03:07.216714",
+  "modification_time": "2025-08-05T20:02:29.407756",
+  "attachment_count": 7,
+  "eml_file": "emails/email_004952.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 72025,
+      "path": "attachments/email_004952/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 78499,
+      "path": "attachments/email_004952/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 853685,
+      "path": "attachments/email_004952/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 823,
+      "path": "attachments/email_004952/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 37466,
+      "path": "attachments/email_004952/attachment_4"
+    },
+    {
+      "filename": "attachment_5",
+      "size": 16351,
+      "path": "attachments/email_004952/attachment_5"
+    },
+    {
+      "filename": "attachment_6",
+      "size": 51070,
+      "path": "attachments/email_004952/attachment_6"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 61486
+}

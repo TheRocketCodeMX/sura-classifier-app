@@ -1,0 +1,36 @@
+{
+  "id": "email_008218",
+  "folder": "Principio del archivo de datos de Outlook/DEPURADOS",
+  "extraction_date": "2025-09-19T12:27:49.153875",
+  "subject": "RE: (FLOT) AUTOS / ALTAS SUBSECUENTES SURA / CONSTRUCCIONES Y PAVIMENTOS GO - 1XKYD49X8GJ120300 y 1XKYD49X4FJ462003 S-2525028",
+  "sender_name": "Murguia Davalos Nayeli Carolina",
+  "delivery_time": "2025-08-04T17:42:50.185004",
+  "creation_time": "2025-08-05T21:34:32.676045",
+  "modification_time": "2025-08-04T17:52:31.588000",
+  "attachment_count": 4,
+  "eml_file": "emails/email_008218.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 340887,
+      "path": "attachments/email_008218/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 853685,
+      "path": "attachments/email_008218/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 58832,
+      "path": "attachments/email_008218/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 3958,
+      "path": "attachments/email_008218/attachment_3"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 70938
+}

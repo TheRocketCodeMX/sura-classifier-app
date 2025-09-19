@@ -1,0 +1,41 @@
+{
+  "id": "email_006444",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:09.881867",
+  "subject": "Re: MONTACARGAS POLIZAS. 9 501 865 Y 9 403 370 - PRODUCTOS ALIMENTICIOS Y DIETETICOS RELAMPAGO/SOL2527741",
+  "sender_name": "Abraham Regil",
+  "delivery_time": "2025-08-15T17:45:47.097165",
+  "creation_time": "2025-08-19T15:02:26.518770",
+  "modification_time": "2025-08-19T15:02:47.612886",
+  "attachment_count": 5,
+  "eml_file": "emails/email_006444.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 3958,
+      "path": "attachments/email_006444/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 490502,
+      "path": "attachments/email_006444/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 985123,
+      "path": "attachments/email_006444/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 489878,
+      "path": "attachments/email_006444/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 981852,
+      "path": "attachments/email_006444/attachment_4"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 13316
+}

@@ -1,0 +1,96 @@
+{
+  "id": "email_006467",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:10.280571",
+  "subject": " Cotización Vida| Caja Popular Florencio Rosas de Querétaro| ",
+  "sender_name": "Lucía Barriga",
+  "delivery_time": "2025-08-15T23:49:29.918809",
+  "creation_time": "2025-08-19T15:01:23.879032",
+  "modification_time": "2025-08-19T15:01:54.549227",
+  "attachment_count": 16,
+  "eml_file": "emails/email_006467.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 853685,
+      "path": "attachments/email_006467/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 46414,
+      "path": "attachments/email_006467/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 79896,
+      "path": "attachments/email_006467/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 3958,
+      "path": "attachments/email_006467/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 39870,
+      "path": "attachments/email_006467/attachment_4"
+    },
+    {
+      "filename": "attachment_5",
+      "size": 6895,
+      "path": "attachments/email_006467/attachment_5"
+    },
+    {
+      "filename": "attachment_6",
+      "size": 46414,
+      "path": "attachments/email_006467/attachment_6"
+    },
+    {
+      "filename": "attachment_7",
+      "size": 13747,
+      "path": "attachments/email_006467/attachment_7"
+    },
+    {
+      "filename": "attachment_8",
+      "size": 46414,
+      "path": "attachments/email_006467/attachment_8"
+    },
+    {
+      "filename": "attachment_9",
+      "size": 13747,
+      "path": "attachments/email_006467/attachment_9"
+    },
+    {
+      "filename": "attachment_10",
+      "size": 13747,
+      "path": "attachments/email_006467/attachment_10"
+    },
+    {
+      "filename": "attachment_11",
+      "size": 46414,
+      "path": "attachments/email_006467/attachment_11"
+    },
+    {
+      "filename": "attachment_12",
+      "size": 13747,
+      "path": "attachments/email_006467/attachment_12"
+    },
+    {
+      "filename": "attachment_13",
+      "size": 46414,
+      "path": "attachments/email_006467/attachment_13"
+    },
+    {
+      "filename": "attachment_14",
+      "size": 525552,
+      "path": "attachments/email_006467/attachment_14"
+    },
+    {
+      "filename": "attachment_15",
+      "size": 39390,
+      "path": "attachments/email_006467/attachment_15"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 130756
+}

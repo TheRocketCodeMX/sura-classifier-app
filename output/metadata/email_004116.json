@@ -1,0 +1,71 @@
+{
+  "id": "email_004116",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:13.468542",
+  "subject": "ENDOSO DE BAJAS // POLIZA: 1-605-16285// PABLO ALATRISTE GALVAN // Ticket: 448270// Agente: Laura Catalan",
+  "sender_name": "Rene Becerra Navarro",
+  "delivery_time": "2025-08-04T17:08:07.407676",
+  "creation_time": "2025-08-05T12:57:20.814702",
+  "modification_time": "2025-08-05T12:59:10.842332",
+  "attachment_count": 11,
+  "eml_file": "emails/email_004116.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 1017027,
+      "path": "attachments/email_004116/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 96712,
+      "path": "attachments/email_004116/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 5939,
+      "path": "attachments/email_004116/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 23380,
+      "path": "attachments/email_004116/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 24165,
+      "path": "attachments/email_004116/attachment_4"
+    },
+    {
+      "filename": "attachment_5",
+      "size": 25834,
+      "path": "attachments/email_004116/attachment_5"
+    },
+    {
+      "filename": "attachment_6",
+      "size": 24010,
+      "path": "attachments/email_004116/attachment_6"
+    },
+    {
+      "filename": "attachment_7",
+      "size": 23193,
+      "path": "attachments/email_004116/attachment_7"
+    },
+    {
+      "filename": "attachment_8",
+      "size": 104678,
+      "path": "attachments/email_004116/attachment_8"
+    },
+    {
+      "filename": "attachment_9",
+      "size": 16606,
+      "path": "attachments/email_004116/attachment_9"
+    },
+    {
+      "filename": "attachment_10",
+      "size": 74757,
+      "path": "attachments/email_004116/attachment_10"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 18891
+}

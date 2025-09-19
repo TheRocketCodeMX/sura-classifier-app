@@ -1,0 +1,21 @@
+{
+  "id": "email_006692",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:17.204746",
+  "subject": "RV: Renovacion pendiente de pólizas Agosto Clave 009671",
+  "sender_name": "Mesa Hermosillo",
+  "delivery_time": "2025-08-14T19:06:24.446719",
+  "creation_time": "2025-08-18T14:20:15.116443",
+  "modification_time": "2025-08-18T14:20:17.309374",
+  "attachment_count": 1,
+  "eml_file": "emails/email_006692.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 3958,
+      "path": "attachments/email_006692/attachment_0"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 8253
+}

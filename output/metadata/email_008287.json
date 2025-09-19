@@ -1,0 +1,56 @@
+{
+  "id": "email_008287",
+  "folder": "Principio del archivo de datos de Outlook/DEPURADOS",
+  "extraction_date": "2025-09-19T12:27:50.256278",
+  "subject": "Re: PLD / RFC: VIT180207BT4 // VITCITRUS SA DE CV // 11-430-2925",
+  "sender_name": "EMILIANO MORALES VILLALOBOS",
+  "delivery_time": "2025-08-05T21:59:32.143325",
+  "creation_time": "2025-08-06T14:19:06.602416",
+  "modification_time": "2025-08-06T14:19:13.804565",
+  "attachment_count": 8,
+  "eml_file": "emails/email_008287.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 116850,
+      "path": "attachments/email_008287/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 27570,
+      "path": "attachments/email_008287/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 3958,
+      "path": "attachments/email_008287/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 853685,
+      "path": "attachments/email_008287/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 11427,
+      "path": "attachments/email_008287/attachment_4"
+    },
+    {
+      "filename": "attachment_5",
+      "size": 501211,
+      "path": "attachments/email_008287/attachment_5"
+    },
+    {
+      "filename": "attachment_6",
+      "size": 68171,
+      "path": "attachments/email_008287/attachment_6"
+    },
+    {
+      "filename": "attachment_7",
+      "size": 823,
+      "path": "attachments/email_008287/attachment_7"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 193084
+}

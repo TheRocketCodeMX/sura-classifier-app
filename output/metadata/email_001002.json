@@ -1,0 +1,26 @@
+{
+  "id": "email_001002",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:24:59.519788",
+  "subject": "COTIZACION OBRA CIVIL OLAYA SAYULITA - parte 1",
+  "sender_name": "Victoria Ruvalcaba",
+  "delivery_time": "2025-08-05T00:51:11.563073",
+  "creation_time": "2025-08-05T19:37:06.625567",
+  "modification_time": "2025-08-05T19:37:25.555500",
+  "attachment_count": 2,
+  "eml_file": "emails/email_001002.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 71680,
+      "path": "attachments/email_001002/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 484249,
+      "path": "attachments/email_001002/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 1632
+}

@@ -1,0 +1,31 @@
+{
+  "id": "email_002803",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:43.586922",
+  "subject": "RV: GRUPO AQUOR || Autos, Pick Ups y Camiones - 651 unidades || NN 25-26 || SURA",
+  "sender_name": "Mesa Monterrey",
+  "delivery_time": "2025-08-14T21:33:07.706605",
+  "creation_time": "2025-08-15T20:11:24.983021",
+  "modification_time": "2025-08-15T20:15:58.607708",
+  "attachment_count": 3,
+  "eml_file": "emails/email_002803.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 510897,
+      "path": "attachments/email_002803/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 853685,
+      "path": "attachments/email_002803/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 3958,
+      "path": "attachments/email_002803/attachment_2"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 32416
+}

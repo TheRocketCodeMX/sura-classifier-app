@@ -1,0 +1,21 @@
+{
+  "id": "email_007476",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:34.234269",
+  "subject": "RE: DAÑOS// RC CONTRATISTAS// COTIZACION// DANIEL HENANDEZ BOJORQUEZ// AGENTE 5910",
+  "sender_name": "Diana Ivette Luna Chacón",
+  "delivery_time": "2025-08-19T16:03:21.417758",
+  "creation_time": "2025-08-20T14:30:49.523415",
+  "modification_time": "2025-08-20T14:30:57.224732",
+  "attachment_count": 1,
+  "eml_file": "emails/email_007476.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 2389815,
+      "path": "attachments/email_007476/attachment_0"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 12203
+}

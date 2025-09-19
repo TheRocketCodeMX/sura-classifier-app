@@ -1,0 +1,36 @@
+{
+  "id": "email_004810",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:29.502389",
+  "subject": "RV: COMERCIALIZADORA MARTIFER COTIZACIÓN RENOVACIÓN FORD F450 2004 SEGUROS SURA 2 202 AGENTE 479",
+  "sender_name": "Mesa Puebla",
+  "delivery_time": "2025-08-05T14:57:31.583233",
+  "creation_time": "2025-08-06T13:32:59.417320",
+  "modification_time": "2025-08-06T13:35:59.562934",
+  "attachment_count": 4,
+  "eml_file": "emails/email_004810.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 546206,
+      "path": "attachments/email_004810/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 1767789,
+      "path": "attachments/email_004810/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 581275,
+      "path": "attachments/email_004810/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 3958,
+      "path": "attachments/email_004810/attachment_3"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 13026
+}

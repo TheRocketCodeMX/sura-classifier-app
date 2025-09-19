@@ -1,0 +1,51 @@
+{
+  "id": "email_001811",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:19.144350",
+  "subject": "RE: Solicitud de alta Art. 492 - ANM Motors",
+  "sender_name": "Vera Ruiz Jorge Antonio",
+  "delivery_time": "2025-08-06T17:40:53.793302",
+  "creation_time": "2025-08-20T19:49:00.385571",
+  "modification_time": "2025-08-20T20:00:15.716334",
+  "attachment_count": 7,
+  "eml_file": "emails/email_001811.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 867036,
+      "path": "attachments/email_001811/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 10341,
+      "path": "attachments/email_001811/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 13747,
+      "path": "attachments/email_001811/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 11427,
+      "path": "attachments/email_001811/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 364262,
+      "path": "attachments/email_001811/attachment_4"
+    },
+    {
+      "filename": "attachment_5",
+      "size": 251784,
+      "path": "attachments/email_001811/attachment_5"
+    },
+    {
+      "filename": "attachment_6",
+      "size": 3958,
+      "path": "attachments/email_001811/attachment_6"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 54662
+}

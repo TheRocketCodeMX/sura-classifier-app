@@ -1,0 +1,21 @@
+{
+  "id": "email_001741",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:17.800160",
+  "subject": "FAVOR DE GENERAR NOTA DE CREDITO DE LAS PRIMAS EN DEPOSITO DE LA POLIZA 01/301/1100022778 SPC CODING",
+  "sender_name": "matilde hernandez hernandez",
+  "delivery_time": "2025-08-06T18:40:46.622406",
+  "creation_time": "2025-08-20T19:44:59.193066",
+  "modification_time": "2025-08-20T19:56:36.546681",
+  "attachment_count": 1,
+  "eml_file": "emails/email_001741.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 292303,
+      "path": "attachments/email_001741/attachment_0"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 2645
+}

@@ -1,0 +1,26 @@
+{
+  "id": "email_000788",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:24:54.898107",
+  "subject": "Re: Cambio de forma pago || Póliza 2126 - 21 || Tomas Tarno Quinzaños || Ticket 41659546722 2525932  ",
+  "sender_name": "Vazquez Romero Adrian",
+  "delivery_time": "2025-08-04T16:25:51.777987",
+  "creation_time": "2025-08-06T14:20:13.473440",
+  "modification_time": "2025-08-06T14:33:39.976892",
+  "attachment_count": 2,
+  "eml_file": "emails/email_000788.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 3958,
+      "path": "attachments/email_000788/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 853685,
+      "path": "attachments/email_000788/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 57627
+}

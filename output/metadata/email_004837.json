@@ -1,0 +1,21 @@
+{
+  "id": "email_004837",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:29.814737",
+  "subject": "VITALIS | COTIZACIÓN SEGURO EMPRESARIAL VIG 25-26 OT-0000013637Me apoyas con la cotización del siguiente seguro empresarial del cual tenemos como objetivo una prima neta de $44,930 mxn",
+  "sender_name": "Liliana Añorve Cortez",
+  "delivery_time": "2025-08-05T06:26:52.682964",
+  "creation_time": "2025-08-06T13:45:04.155624",
+  "modification_time": "2025-08-06T13:45:18.262268",
+  "attachment_count": 1,
+  "eml_file": "emails/email_004837.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 34701,
+      "path": "attachments/email_004837/attachment_0"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 20340
+}

@@ -1,0 +1,36 @@
+{
+  "id": "email_006780",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:19.126760",
+  "subject": "RV: PLAYTICA",
+  "sender_name": "Mesa Monterrey",
+  "delivery_time": "2025-08-14T21:32:08.262916",
+  "creation_time": "2025-08-18T14:19:49.075093",
+  "modification_time": "2025-08-18T14:20:13.279860",
+  "attachment_count": 4,
+  "eml_file": "emails/email_006780.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 3606,
+      "path": "attachments/email_006780/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 5604060,
+      "path": "attachments/email_006780/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 853685,
+      "path": "attachments/email_006780/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 3958,
+      "path": "attachments/email_006780/attachment_3"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 24962
+}

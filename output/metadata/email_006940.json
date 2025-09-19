@@ -1,0 +1,21 @@
+{
+  "id": "email_006940",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:23.420358",
+  "subject": "1-211-501934116 ... Por favor generar recibos subsecuentes ... Pablo Ramírez Sánchez ... ¡¡¡Gracias!!!",
+  "sender_name": "Fernando Garcia Ortiz",
+  "delivery_time": "2025-08-15T06:27:42.533657",
+  "creation_time": "2025-08-15T20:09:35.263049",
+  "modification_time": "2025-08-15T20:10:20.331206",
+  "attachment_count": 1,
+  "eml_file": "emails/email_006940.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 125975,
+      "path": "attachments/email_006940/attachment_0"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 7660
+}

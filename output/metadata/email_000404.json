@@ -1,0 +1,71 @@
+{
+  "id": "email_000404",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:24:44.517658",
+  "subject": "Re: INDICATIVO ANTICIPADO // RENOVACION // Póliza 1-902-4554 // SDTO NAL EMPL TRAB NAL MON P / 2025-2026",
+  "sender_name": "Mareli Infante",
+  "delivery_time": "2025-08-05T15:36:24.359567",
+  "creation_time": "2025-08-06T14:11:34.616693",
+  "modification_time": "2025-08-06T14:12:11.071337",
+  "attachment_count": 11,
+  "eml_file": "emails/email_000404.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 26246,
+      "path": "attachments/email_000404/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 116850,
+      "path": "attachments/email_000404/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 27570,
+      "path": "attachments/email_000404/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 3958,
+      "path": "attachments/email_000404/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 1459532,
+      "path": "attachments/email_000404/attachment_4"
+    },
+    {
+      "filename": "attachment_5",
+      "size": 315607,
+      "path": "attachments/email_000404/attachment_5"
+    },
+    {
+      "filename": "attachment_6",
+      "size": 96925,
+      "path": "attachments/email_000404/attachment_6"
+    },
+    {
+      "filename": "attachment_7",
+      "size": 853685,
+      "path": "attachments/email_000404/attachment_7"
+    },
+    {
+      "filename": "attachment_8",
+      "size": 2389815,
+      "path": "attachments/email_000404/attachment_8"
+    },
+    {
+      "filename": "attachment_9",
+      "size": 315607,
+      "path": "attachments/email_000404/attachment_9"
+    },
+    {
+      "filename": "attachment_10",
+      "size": 1459532,
+      "path": "attachments/email_000404/attachment_10"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 114302
+}

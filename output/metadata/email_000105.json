@@ -1,0 +1,36 @@
+{
+  "id": "email_000105",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:24:37.875823",
+  "subject": "RV: 1-430-300043993/3 | Administradora y consultora de Negocios del Pacifico, S.A. de C.V. | Endoso A",
+  "sender_name": "Lopez Manzano Jennifer",
+  "delivery_time": "2025-08-05T21:46:16.171721",
+  "creation_time": "2025-08-07T15:27:23.119382",
+  "modification_time": "2025-08-07T15:27:48.992481",
+  "attachment_count": 4,
+  "eml_file": "emails/email_000105.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 8943,
+      "path": "attachments/email_000105/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 268752,
+      "path": "attachments/email_000105/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 12130,
+      "path": "attachments/email_000105/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 853685,
+      "path": "attachments/email_000105/attachment_3"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 14985
+}

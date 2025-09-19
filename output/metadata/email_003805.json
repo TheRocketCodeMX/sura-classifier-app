@@ -1,0 +1,31 @@
+{
+  "id": "email_003805",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:26:06.056885",
+  "subject": "RV: Listado actualizado de ACCIDENTES PERSONALES ESCOLARES (Póliza 20002524), Cliente FUNDACION AMPARO IAP",
+  "sender_name": "Mesa Puebla",
+  "delivery_time": "2025-08-18T18:09:34.501418",
+  "creation_time": "2025-08-20T13:10:04.826753",
+  "modification_time": "2025-08-20T13:10:52.869604",
+  "attachment_count": 3,
+  "eml_file": "emails/email_003805.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 853685,
+      "path": "attachments/email_003805/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 62167,
+      "path": "attachments/email_003805/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 3958,
+      "path": "attachments/email_003805/attachment_2"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 29477
+}

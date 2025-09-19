@@ -1,0 +1,31 @@
+{
+  "id": "email_005066",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:35.550323",
+  "subject": "RE: ENDOSO/ 7 607 70000082 DESARROLLADORA HOTELERA ACUEDUCTO ALTA VISTOR RAUL VILLALOBOS VAZQUEZ/ 9623 PROTEGT FOLIO 2517869",
+  "sender_name": "Arellano Aranda Miriam del Rocio",
+  "delivery_time": "2025-08-05T17:51:44.070002",
+  "creation_time": "2025-08-05T23:01:14.231330",
+  "modification_time": "2025-08-06T16:13:01.228768",
+  "attachment_count": 3,
+  "eml_file": "emails/email_005066.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 1194309,
+      "path": "attachments/email_005066/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 853685,
+      "path": "attachments/email_005066/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 1801,
+      "path": "attachments/email_005066/attachment_2"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 47155
+}

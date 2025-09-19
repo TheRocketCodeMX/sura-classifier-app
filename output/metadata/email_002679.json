@@ -1,0 +1,26 @@
+{
+  "id": "email_002679",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:40.321644",
+  "subject": "COTIZACIÓN / PÓLIZA 1-430-100046187 / INGENIERIA DRIC SA DE CV",
+  "sender_name": "diversos1@gsmexico.mx",
+  "delivery_time": "2025-08-14T18:51:39.822669",
+  "creation_time": "2025-08-15T14:12:28.387505",
+  "modification_time": "2025-08-15T14:30:47.667348",
+  "attachment_count": 2,
+  "eml_file": "emails/email_002679.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 19698,
+      "path": "attachments/email_002679/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 95143,
+      "path": "attachments/email_002679/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 10145
+}

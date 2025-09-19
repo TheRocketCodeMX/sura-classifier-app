@@ -1,0 +1,61 @@
+{
+  "id": "email_003655",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:26:03.296280",
+  "subject": "RV: Alta GIASA EDIFICA/FILIAL GRUPO INMOBILIARIO ARRENDADOR",
+  "sender_name": "Mesa Monterrey",
+  "delivery_time": "2025-08-18T22:22:21.996425",
+  "creation_time": "2025-08-20T14:02:01.416844",
+  "modification_time": "2025-08-20T14:03:11.606046",
+  "attachment_count": 9,
+  "eml_file": "emails/email_003655.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 853685,
+      "path": "attachments/email_003655/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 82043,
+      "path": "attachments/email_003655/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 229552,
+      "path": "attachments/email_003655/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 5977,
+      "path": "attachments/email_003655/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 27570,
+      "path": "attachments/email_003655/attachment_4"
+    },
+    {
+      "filename": "attachment_5",
+      "size": 3495,
+      "path": "attachments/email_003655/attachment_5"
+    },
+    {
+      "filename": "attachment_6",
+      "size": 3492,
+      "path": "attachments/email_003655/attachment_6"
+    },
+    {
+      "filename": "attachment_7",
+      "size": 16639,
+      "path": "attachments/email_003655/attachment_7"
+    },
+    {
+      "filename": "attachment_8",
+      "size": 3958,
+      "path": "attachments/email_003655/attachment_8"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 84047
+}

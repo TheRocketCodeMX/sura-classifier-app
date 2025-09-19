@@ -1,0 +1,26 @@
+{
+  "id": "email_004480",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:21.548972",
+  "subject": "RE: poliza 72 211 217100",
+  "sender_name": "Atencion Cobranza",
+  "delivery_time": "2025-08-05T21:48:59.416012",
+  "creation_time": "2025-08-05T23:01:51.386653",
+  "modification_time": "2025-08-05T23:10:06.425598",
+  "attachment_count": 2,
+  "eml_file": "emails/email_004480.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 64107,
+      "path": "attachments/email_004480/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 79144,
+      "path": "attachments/email_004480/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 44388
+}

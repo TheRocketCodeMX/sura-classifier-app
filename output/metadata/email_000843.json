@@ -1,0 +1,31 @@
+{
+  "id": "email_000843",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:24:55.808241",
+  "subject": "RV: 01 - 211 - Autos - Emision de Póliza - JORGE ERNESTO TREJO DURAN - 1349276-0 - 4764",
+  "sender_name": "Lopez Cadena Olimpia",
+  "delivery_time": "2025-08-04T14:42:30.207152",
+  "creation_time": "2025-08-05T15:05:15.416927",
+  "modification_time": "2025-08-05T15:14:34.165090",
+  "attachment_count": 3,
+  "eml_file": "emails/email_000843.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 45571,
+      "path": "attachments/email_000843/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 132229,
+      "path": "attachments/email_000843/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 853685,
+      "path": "attachments/email_000843/attachment_2"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 13511
+}

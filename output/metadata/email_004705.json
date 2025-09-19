@@ -1,0 +1,81 @@
+{
+  "id": "email_004705",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:26.845535",
+  "subject": "RV: 70000539 OFICINA: 7 RAMO: 606 VIG.:23/07/2025  SONIA GUADALUPE  AVILA SANCHEZ   ",
+  "sender_name": "Mesa Merida",
+  "delivery_time": "2025-08-05T17:04:16.008871",
+  "creation_time": "2025-08-06T18:18:50.343941",
+  "modification_time": "2025-08-06T18:21:06.430200",
+  "attachment_count": 13,
+  "eml_file": "emails/email_004705.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 27570,
+      "path": "attachments/email_004705/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 49937,
+      "path": "attachments/email_004705/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 347,
+      "path": "attachments/email_004705/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 402,
+      "path": "attachments/email_004705/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 346,
+      "path": "attachments/email_004705/attachment_4"
+    },
+    {
+      "filename": "attachment_5",
+      "size": 278,
+      "path": "attachments/email_004705/attachment_5"
+    },
+    {
+      "filename": "attachment_6",
+      "size": 42677,
+      "path": "attachments/email_004705/attachment_6"
+    },
+    {
+      "filename": "attachment_7",
+      "size": 75689,
+      "path": "attachments/email_004705/attachment_7"
+    },
+    {
+      "filename": "attachment_8",
+      "size": 62723,
+      "path": "attachments/email_004705/attachment_8"
+    },
+    {
+      "filename": "attachment_9",
+      "size": 48917,
+      "path": "attachments/email_004705/attachment_9"
+    },
+    {
+      "filename": "attachment_10",
+      "size": 5970,
+      "path": "attachments/email_004705/attachment_10"
+    },
+    {
+      "filename": "attachment_11",
+      "size": 3488,
+      "path": "attachments/email_004705/attachment_11"
+    },
+    {
+      "filename": "attachment_12",
+      "size": 350,
+      "path": "attachments/email_004705/attachment_12"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 63690
+}

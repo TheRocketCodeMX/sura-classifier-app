@@ -1,0 +1,26 @@
+{
+  "id": "email_005530",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:47.824871",
+  "subject": "FOLIO RENOVACION POLIZA 1-607-2366 // COMERCIAL INTEGRADORA MADERERA Y DE SERVICIOS // AGT. 6646",
+  "sender_name": "Juarez Alcantara Carmen Aketzali",
+  "delivery_time": "2025-08-07T01:43:29.722645",
+  "creation_time": "2025-08-20T19:30:35.910915",
+  "modification_time": "2025-08-20T19:30:55.750592",
+  "attachment_count": 2,
+  "eml_file": "emails/email_005530.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 34991,
+      "path": "attachments/email_005530/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 853685,
+      "path": "attachments/email_005530/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 7938
+}

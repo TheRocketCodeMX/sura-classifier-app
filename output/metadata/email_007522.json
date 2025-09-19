@@ -1,0 +1,21 @@
+{
+  "id": "email_007522",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:35.813429",
+  "subject": "RV: OF 2/RAMO 430/POLIZA 5349",
+  "sender_name": "Mesa Puebla",
+  "delivery_time": "2025-08-19T15:13:25.077351",
+  "creation_time": "2025-08-20T13:03:15.270442",
+  "modification_time": "2025-08-20T13:03:18.041636",
+  "attachment_count": 1,
+  "eml_file": "emails/email_007522.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 3958,
+      "path": "attachments/email_007522/attachment_0"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 9351
+}

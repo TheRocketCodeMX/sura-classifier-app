@@ -1,0 +1,36 @@
+{
+  "id": "email_004932",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:32.397609",
+  "subject": "COTIZACION / 430 / Comercializadora Veterinaria / 8735 GRALCO",
+  "sender_name": "Ahiled Renteria",
+  "delivery_time": "2025-08-04T18:41:37.378161",
+  "creation_time": "2025-08-06T14:42:01.218797",
+  "modification_time": "2025-08-06T14:42:24.796631",
+  "attachment_count": 4,
+  "eml_file": "emails/email_004932.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 441485,
+      "path": "attachments/email_004932/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 141465,
+      "path": "attachments/email_004932/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 68134,
+      "path": "attachments/email_004932/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 68087,
+      "path": "attachments/email_004932/attachment_3"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 5453
+}

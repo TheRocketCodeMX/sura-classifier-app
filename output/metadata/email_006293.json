@@ -1,0 +1,51 @@
+{
+  "id": "email_006293",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:05.823451",
+  "subject": "RV: COTIZACION GMM | AI27 PREDICTIVE INTELLIGENCE SAPI DE CV AGENTE 006117",
+  "sender_name": "atencionalcliente@cyacorp.mx",
+  "delivery_time": "2025-08-14T20:07:37.518819",
+  "creation_time": "2025-08-19T19:55:11.174434",
+  "modification_time": "2025-08-19T19:55:38.913660",
+  "attachment_count": 7,
+  "eml_file": "emails/email_006293.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 105525,
+      "path": "attachments/email_006293/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 200,
+      "path": "attachments/email_006293/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 105525,
+      "path": "attachments/email_006293/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 74111,
+      "path": "attachments/email_006293/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 490580,
+      "path": "attachments/email_006293/attachment_4"
+    },
+    {
+      "filename": "attachment_5",
+      "size": 236032,
+      "path": "attachments/email_006293/attachment_5"
+    },
+    {
+      "filename": "attachment_6",
+      "size": 30472,
+      "path": "attachments/email_006293/attachment_6"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 21719
+}

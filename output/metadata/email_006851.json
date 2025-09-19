@@ -1,0 +1,76 @@
+{
+  "id": "email_006851",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:20.554265",
+  "subject": "RE: 2531421",
+  "sender_name": "Estrada Huerta Alejandra Berenice",
+  "delivery_time": "2025-08-14T22:42:58.723297",
+  "creation_time": "2025-08-18T14:19:26.783678",
+  "modification_time": "2025-08-18T14:20:06.310810",
+  "attachment_count": 12,
+  "eml_file": "emails/email_006851.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 41719,
+      "path": "attachments/email_006851/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 45828,
+      "path": "attachments/email_006851/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 46381,
+      "path": "attachments/email_006851/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 115198,
+      "path": "attachments/email_006851/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 2001,
+      "path": "attachments/email_006851/attachment_4"
+    },
+    {
+      "filename": "attachment_5",
+      "size": 1779,
+      "path": "attachments/email_006851/attachment_5"
+    },
+    {
+      "filename": "attachment_6",
+      "size": 1935,
+      "path": "attachments/email_006851/attachment_6"
+    },
+    {
+      "filename": "attachment_7",
+      "size": 106738,
+      "path": "attachments/email_006851/attachment_7"
+    },
+    {
+      "filename": "attachment_8",
+      "size": 725,
+      "path": "attachments/email_006851/attachment_8"
+    },
+    {
+      "filename": "attachment_9",
+      "size": 769,
+      "path": "attachments/email_006851/attachment_9"
+    },
+    {
+      "filename": "attachment_10",
+      "size": 477,
+      "path": "attachments/email_006851/attachment_10"
+    },
+    {
+      "filename": "attachment_11",
+      "size": 833,
+      "path": "attachments/email_006851/attachment_11"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 89658
+}

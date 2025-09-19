@@ -1,0 +1,21 @@
+{
+  "id": "email_007764",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:41.267295",
+  "subject": "COTIZACIÓN AUTO ALTA FLOTILLA SOFTGATE OF 1 RAMO 211",
+  "sender_name": "Amparo Herrera",
+  "delivery_time": "2025-08-18T18:46:59.098026",
+  "creation_time": "2025-08-19T11:50:08.579524",
+  "modification_time": "2025-08-19T11:50:27.057792",
+  "attachment_count": 1,
+  "eml_file": "emails/email_007764.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 24334,
+      "path": "attachments/email_007764/attachment_0"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 3775
+}

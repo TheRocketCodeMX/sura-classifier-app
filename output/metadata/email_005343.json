@@ -1,0 +1,21 @@
+{
+  "id": "email_005343",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:42.683088",
+  "subject": "Declaración de embarques julio poliza 5/301/900002674",
+  "sender_name": "Erika Martinez",
+  "delivery_time": "2025-08-05T17:09:28.665430",
+  "creation_time": "2025-08-05T23:33:08.193510",
+  "modification_time": "2025-08-05T23:33:27.196583",
+  "attachment_count": 1,
+  "eml_file": "emails/email_005343.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 487355,
+      "path": "attachments/email_005343/attachment_0"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 2795
+}

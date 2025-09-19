@@ -1,0 +1,26 @@
+{
+  "id": "email_006765",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:18.865200",
+  "subject": "7348 // COTIZACION EMPRESARIAL (CONDOMINIO) // RESIDENCIAL ANATOLE FRANCE 245 AC",
+  "sender_name": "Nancy Lizbeth Morales Marquez",
+  "delivery_time": "2025-08-14T21:24:27.102776",
+  "creation_time": "2025-08-15T00:18:06.182812",
+  "modification_time": "2025-08-15T00:18:23.776411",
+  "attachment_count": 2,
+  "eml_file": "emails/email_006765.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 20735,
+      "path": "attachments/email_006765/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 83968,
+      "path": "attachments/email_006765/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 6487
+}

@@ -1,0 +1,46 @@
+{
+  "id": "email_007843",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:42.630239",
+  "subject": "Renovar Póliza 01-902-4431 ICINTERDENOMINACIONAL 2514002 V2",
+  "sender_name": "Silvia Garduño",
+  "delivery_time": "2025-08-18T17:16:38.436046",
+  "creation_time": "2025-08-19T00:17:12.341604",
+  "modification_time": "2025-08-19T00:17:47.301264",
+  "attachment_count": 6,
+  "eml_file": "emails/email_007843.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 17942,
+      "path": "attachments/email_007843/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 583343,
+      "path": "attachments/email_007843/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 853685,
+      "path": "attachments/email_007843/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 763400,
+      "path": "attachments/email_007843/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 17709,
+      "path": "attachments/email_007843/attachment_4"
+    },
+    {
+      "filename": "attachment_5",
+      "size": 169179,
+      "path": "attachments/email_007843/attachment_5"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 32886
+}

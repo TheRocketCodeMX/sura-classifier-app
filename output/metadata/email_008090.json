@@ -1,0 +1,14 @@
+{
+  "id": "email_008090",
+  "folder": "Principio del archivo de datos de Outlook/DEPURADOS",
+  "extraction_date": "2025-09-19T12:27:46.972900",
+  "subject": "Informe de recuperación de mensajes para el mensaje: \"Recuperar: EXPEDIR POLIZA | RAMO 202 OFICINA 1 | AGENTE 009052-RIVERA Y ASC | VOLTEO TIPO GONDOLA 2024\"",
+  "sender_name": "Office365Reports@microsoft.com",
+  "delivery_time": "2025-08-05T19:31:17.269822",
+  "creation_time": "2025-08-11T20:16:47.835319",
+  "modification_time": "2025-08-11T20:16:49.765496",
+  "eml_file": "emails/email_008090.eml",
+  "attachments": [],
+  "plain_text_length": 0,
+  "html_content_length": 8146
+}

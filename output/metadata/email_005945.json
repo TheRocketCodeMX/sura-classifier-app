@@ -1,0 +1,96 @@
+{
+  "id": "email_005945",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:57.110216",
+  "subject": "RV: LIBERACION PLD/ COTIZACIONES ENTIDADES DEL ESTADO DE YUCATAN / SECRETARIA DE ADMINISTRACION Y FINANZAS SOL. 2508060, 2508874 y 2509737",
+  "sender_name": "Mendez Garcia Stephanie",
+  "delivery_time": "2025-08-06T03:25:02.247944",
+  "creation_time": "2025-08-20T19:59:43.458973",
+  "modification_time": "2025-08-20T20:17:21.236003",
+  "attachment_count": 16,
+  "eml_file": "emails/email_005945.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 14588,
+      "path": "attachments/email_005945/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 14576,
+      "path": "attachments/email_005945/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 14674,
+      "path": "attachments/email_005945/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 16062,
+      "path": "attachments/email_005945/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 10172,
+      "path": "attachments/email_005945/attachment_4"
+    },
+    {
+      "filename": "attachment_5",
+      "size": 13747,
+      "path": "attachments/email_005945/attachment_5"
+    },
+    {
+      "filename": "attachment_6",
+      "size": 116850,
+      "path": "attachments/email_005945/attachment_6"
+    },
+    {
+      "filename": "attachment_7",
+      "size": 27570,
+      "path": "attachments/email_005945/attachment_7"
+    },
+    {
+      "filename": "attachment_8",
+      "size": 3958,
+      "path": "attachments/email_005945/attachment_8"
+    },
+    {
+      "filename": "attachment_9",
+      "size": 11427,
+      "path": "attachments/email_005945/attachment_9"
+    },
+    {
+      "filename": "attachment_10",
+      "size": 823,
+      "path": "attachments/email_005945/attachment_10"
+    },
+    {
+      "filename": "attachment_11",
+      "size": 43716,
+      "path": "attachments/email_005945/attachment_11"
+    },
+    {
+      "filename": "attachment_12",
+      "size": 51297,
+      "path": "attachments/email_005945/attachment_12"
+    },
+    {
+      "filename": "attachment_13",
+      "size": 50948,
+      "path": "attachments/email_005945/attachment_13"
+    },
+    {
+      "filename": "attachment_14",
+      "size": 112349,
+      "path": "attachments/email_005945/attachment_14"
+    },
+    {
+      "filename": "attachment_15",
+      "size": 853685,
+      "path": "attachments/email_005945/attachment_15"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 188742
+}

@@ -1,0 +1,26 @@
+{
+  "id": "email_007944",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:44.812473",
+  "subject": "RV: AVISO SALIDA ESCOLAR POLIZA 2-605-20002563",
+  "sender_name": "Mesa Puebla",
+  "delivery_time": "2025-08-18T15:04:53.237880",
+  "creation_time": "2025-08-19T11:50:59.597265",
+  "modification_time": "2025-08-19T11:51:16.464766",
+  "attachment_count": 2,
+  "eml_file": "emails/email_007944.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 13476,
+      "path": "attachments/email_007944/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 3958,
+      "path": "attachments/email_007944/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 13704
+}

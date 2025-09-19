@@ -1,0 +1,26 @@
+{
+  "id": "email_007403",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:32.904767",
+  "subject": "Re: TVSVIDA1282025 / GMM / COTIZACIÓN / TVS TALENTO EN SOLUCIONES VERSATILES SA DE CV / SUREXS",
+  "sender_name": "Jessica Laura Rodríguez",
+  "delivery_time": "2025-08-19T18:34:07.934483",
+  "creation_time": "2025-08-21T15:10:24.860678",
+  "modification_time": "2025-08-21T15:12:36.025561",
+  "attachment_count": 2,
+  "eml_file": "emails/email_007403.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 853685,
+      "path": "attachments/email_007403/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 125763,
+      "path": "attachments/email_007403/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 41776
+}

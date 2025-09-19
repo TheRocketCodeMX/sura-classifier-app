@@ -1,0 +1,26 @@
+{
+  "id": "email_003685",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:26:03.661064",
+  "subject": "CT-32777//MAS SEGUROS Nueva//NATANAEL SALVADOR  SANCHEZ  ROJAS//SURA",
+  "sender_name": "Hugo Lujano Briceño",
+  "delivery_time": "2025-08-18T22:09:55.164479",
+  "creation_time": "2025-08-20T14:34:27.764068",
+  "modification_time": "2025-08-20T14:34:50.438402",
+  "attachment_count": 2,
+  "eml_file": "emails/email_003685.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 110614,
+      "path": "attachments/email_003685/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 29684,
+      "path": "attachments/email_003685/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 2433
+}

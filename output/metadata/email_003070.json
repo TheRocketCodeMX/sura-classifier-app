@@ -1,0 +1,111 @@
+{
+  "id": "email_003070",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:49.451406",
+  "subject": "RE: NASOFT SYSTEMS, S.A. de C.V.| Empresarial |1-430-500038912 / 6| SEGUROS SURA | BROVE 2025",
+  "sender_name": "Adriana Téllez García",
+  "delivery_time": "2025-08-15T18:09:48.953659",
+  "creation_time": "2025-08-19T13:04:03.490908",
+  "modification_time": "2025-08-19T13:04:31.857650",
+  "attachment_count": 19,
+  "eml_file": "emails/email_003070.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 20460,
+      "path": "attachments/email_003070/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 2001,
+      "path": "attachments/email_003070/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 1779,
+      "path": "attachments/email_003070/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 1935,
+      "path": "attachments/email_003070/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 96560,
+      "path": "attachments/email_003070/attachment_4"
+    },
+    {
+      "filename": "attachment_5",
+      "size": 725,
+      "path": "attachments/email_003070/attachment_5"
+    },
+    {
+      "filename": "attachment_6",
+      "size": 769,
+      "path": "attachments/email_003070/attachment_6"
+    },
+    {
+      "filename": "attachment_7",
+      "size": 477,
+      "path": "attachments/email_003070/attachment_7"
+    },
+    {
+      "filename": "attachment_8",
+      "size": 833,
+      "path": "attachments/email_003070/attachment_8"
+    },
+    {
+      "filename": "attachment_9",
+      "size": 106738,
+      "path": "attachments/email_003070/attachment_9"
+    },
+    {
+      "filename": "attachment_10",
+      "size": 853685,
+      "path": "attachments/email_003070/attachment_10"
+    },
+    {
+      "filename": "attachment_11",
+      "size": 1653,
+      "path": "attachments/email_003070/attachment_11"
+    },
+    {
+      "filename": "attachment_12",
+      "size": 1511,
+      "path": "attachments/email_003070/attachment_12"
+    },
+    {
+      "filename": "attachment_13",
+      "size": 1582,
+      "path": "attachments/email_003070/attachment_13"
+    },
+    {
+      "filename": "attachment_14",
+      "size": 723,
+      "path": "attachments/email_003070/attachment_14"
+    },
+    {
+      "filename": "attachment_15",
+      "size": 766,
+      "path": "attachments/email_003070/attachment_15"
+    },
+    {
+      "filename": "attachment_16",
+      "size": 474,
+      "path": "attachments/email_003070/attachment_16"
+    },
+    {
+      "filename": "attachment_17",
+      "size": 833,
+      "path": "attachments/email_003070/attachment_17"
+    },
+    {
+      "filename": "attachment_18",
+      "size": 97851,
+      "path": "attachments/email_003070/attachment_18"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 95547
+}

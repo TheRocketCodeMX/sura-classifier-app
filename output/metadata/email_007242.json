@@ -1,0 +1,46 @@
+{
+  "id": "email_007242",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:29.847176",
+  "subject": "RV: COTIZACION POLIZA MULTIRIESGO ACEROS AGUILA",
+  "sender_name": "Soto Ascencio Daniela",
+  "delivery_time": "2025-08-19T23:43:14.347891",
+  "creation_time": "2025-08-21T13:41:58.289967",
+  "modification_time": "2025-08-21T13:42:20.316467",
+  "attachment_count": 6,
+  "eml_file": "emails/email_007242.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 122099,
+      "path": "attachments/email_007242/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 853685,
+      "path": "attachments/email_007242/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 45924,
+      "path": "attachments/email_007242/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 43977,
+      "path": "attachments/email_007242/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 14496,
+      "path": "attachments/email_007242/attachment_4"
+    },
+    {
+      "filename": "attachment_5",
+      "size": 5319614,
+      "path": "attachments/email_007242/attachment_5"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 31941
+}

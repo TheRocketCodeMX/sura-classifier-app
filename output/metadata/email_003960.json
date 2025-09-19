@@ -1,0 +1,31 @@
+{
+  "id": "email_003960",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:26:09.287506",
+  "subject": "RV: CANCELACIÓN POLIZA 202333948 MEATVIENDE MEXICO",
+  "sender_name": "Enriquez Rodriguez Hugo Alberto",
+  "delivery_time": "2025-08-18T14:55:34.559160",
+  "creation_time": "2025-08-18T23:56:36.196615",
+  "modification_time": "2025-08-18T23:56:56.716015",
+  "attachment_count": 3,
+  "eml_file": "emails/email_003960.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 228391,
+      "path": "attachments/email_003960/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 207728,
+      "path": "attachments/email_003960/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 17686,
+      "path": "attachments/email_003960/attachment_2"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 6448
+}

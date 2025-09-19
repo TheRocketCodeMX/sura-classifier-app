@@ -1,0 +1,31 @@
+{
+  "id": "email_006913",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:22.286921",
+  "subject": "Seguros Sura | Endoso",
+  "sender_name": "Atencion Telefonica1",
+  "delivery_time": "2025-08-15T01:04:03.818581",
+  "creation_time": "2025-08-18T17:30:50.421901",
+  "modification_time": "2025-08-18T17:33:01.095768",
+  "attachment_count": 3,
+  "eml_file": "emails/email_006913.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 5273516,
+      "path": "attachments/email_006913/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 549089,
+      "path": "attachments/email_006913/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 14496,
+      "path": "attachments/email_006913/attachment_2"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 9215
+}

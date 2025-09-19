@@ -1,0 +1,31 @@
+{
+  "id": "email_002663",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:40.154830",
+  "subject": "RV: Refacturación Póliza 1-501-13147",
+  "sender_name": "Licona Tamayo Cristopher",
+  "delivery_time": "2025-08-14T18:26:50.204191",
+  "creation_time": "2025-08-15T14:04:23.246568",
+  "modification_time": "2025-08-15T14:07:33.423409",
+  "attachment_count": 3,
+  "eml_file": "emails/email_002663.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 9448,
+      "path": "attachments/email_002663/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 145403,
+      "path": "attachments/email_002663/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 12413,
+      "path": "attachments/email_002663/attachment_2"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 9870
+}

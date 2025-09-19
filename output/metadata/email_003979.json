@@ -1,0 +1,26 @@
+{
+  "id": "email_003979",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:26:09.574105",
+  "subject": "Solicitud de Cotización M.E.//Tycoon Enterprises S.A. de C.V.",
+  "sender_name": "Dulce Alejandra Miranda Huerta",
+  "delivery_time": "2025-08-18T14:02:15.123194",
+  "creation_time": "2025-08-19T15:11:14.828582",
+  "modification_time": "2025-08-19T15:18:25.071017",
+  "attachment_count": 2,
+  "eml_file": "emails/email_003979.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 19315,
+      "path": "attachments/email_003979/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 291914,
+      "path": "attachments/email_003979/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 18693
+}

@@ -1,0 +1,31 @@
+{
+  "id": "email_003875",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:26:07.438331",
+  "subject": "SURA OFICINA 1 RAMO 501 POLIZA 300010877 PROVEEDOR FACTORY SERVICE ENERGY, S. A. DE C. V.  ",
+  "sender_name": "Roberto Medina ",
+  "delivery_time": "2025-08-18T16:49:19.719336",
+  "creation_time": "2025-08-18T23:55:33.636207",
+  "modification_time": "2025-08-18T23:55:40.299318",
+  "attachment_count": 3,
+  "eml_file": "emails/email_003875.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 112543,
+      "path": "attachments/email_003875/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 16921,
+      "path": "attachments/email_003875/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 350,
+      "path": "attachments/email_003875/attachment_2"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 21809
+}

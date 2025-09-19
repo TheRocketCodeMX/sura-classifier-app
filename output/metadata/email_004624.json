@@ -1,0 +1,26 @@
+{
+  "id": "email_004624",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:24.616065",
+  "subject": "Propuesta cotización Bhoris | FONDO DE OPERACION Y FINANCIAMIENTO BANCARIO A LA VIVIENDA",
+  "sender_name": "Denisse Sánchez Patrón",
+  "delivery_time": "2025-08-05T18:27:30.840497",
+  "creation_time": "2025-08-05T22:43:09.309824",
+  "modification_time": "2025-08-05T22:45:23.649035",
+  "attachment_count": 2,
+  "eml_file": "emails/email_004624.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 22106,
+      "path": "attachments/email_004624/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 782148,
+      "path": "attachments/email_004624/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 7937
+}

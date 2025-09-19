@@ -1,0 +1,41 @@
+{
+  "id": "email_002438",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:34.258105",
+  "subject": "emitir POLIZA    ateneo         EMITIR",
+  "sender_name": "Enrique Sáenz Quintana",
+  "delivery_time": "2025-08-14T23:45:37.335564",
+  "creation_time": "2025-08-18T14:53:24.314337",
+  "modification_time": "2025-08-18T14:53:44.313715",
+  "attachment_count": 5,
+  "eml_file": "emails/email_002438.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 111975,
+      "path": "attachments/email_002438/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 541139,
+      "path": "attachments/email_002438/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 592600,
+      "path": "attachments/email_002438/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 295490,
+      "path": "attachments/email_002438/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 96575,
+      "path": "attachments/email_002438/attachment_4"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 5202
+}

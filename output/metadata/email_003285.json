@@ -1,0 +1,31 @@
+{
+  "id": "email_003285",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:54.519412",
+  "subject": "RV: Propuesta de renovación / Póliza 1-430- 500040902 -7 / Múltiple Empresarial / LUZ MARIA GARCIA YEVENES MENDEZ",
+  "sender_name": "Lopez Cadena Olimpia",
+  "delivery_time": "2025-08-19T23:00:29.203920",
+  "creation_time": "2025-08-21T16:46:39.173749",
+  "modification_time": "2025-08-21T16:56:14.583290",
+  "attachment_count": 3,
+  "eml_file": "emails/email_003285.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 39009,
+      "path": "attachments/email_003285/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 183877,
+      "path": "attachments/email_003285/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 853685,
+      "path": "attachments/email_003285/attachment_2"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 9597
+}

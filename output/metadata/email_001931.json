@@ -1,0 +1,41 @@
+{
+  "id": "email_001931",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:21.544385",
+  "subject": "RV: RENOVACION POLIZA 11-430-200002306 / ROSA LUZ",
+  "sender_name": "Mesa Hermosillo",
+  "delivery_time": "2025-08-06T15:01:04.839363",
+  "creation_time": "2025-08-20T19:56:52.492476",
+  "modification_time": "2025-08-20T20:14:26.407855",
+  "attachment_count": 5,
+  "eml_file": "emails/email_001931.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 823,
+      "path": "attachments/email_001931/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 694865,
+      "path": "attachments/email_001931/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 853685,
+      "path": "attachments/email_001931/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 1093121,
+      "path": "attachments/email_001931/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 3958,
+      "path": "attachments/email_001931/attachment_4"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 32370
+}

@@ -1,0 +1,46 @@
+{
+  "id": "email_002756",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:42.672106",
+  "subject": "RE: COTIZACION FLOTILLA | HCR | GRUPO 06045 | OFICINA 01 | AGENTE 9129 SOL 2514490",
+  "sender_name": "Martha Dominguez",
+  "delivery_time": "2025-08-14T20:57:44.984764",
+  "creation_time": "2025-08-14T23:23:03.025665",
+  "modification_time": "2025-08-14T23:23:28.768863",
+  "attachment_count": 6,
+  "eml_file": "emails/email_002756.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 116850,
+      "path": "attachments/email_002756/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 27570,
+      "path": "attachments/email_002756/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 3958,
+      "path": "attachments/email_002756/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 853685,
+      "path": "attachments/email_002756/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 340055,
+      "path": "attachments/email_002756/attachment_4"
+    },
+    {
+      "filename": "attachment_5",
+      "size": 41518,
+      "path": "attachments/email_002756/attachment_5"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 39481
+}

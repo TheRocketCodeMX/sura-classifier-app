@@ -1,0 +1,31 @@
+{
+  "id": "email_008332",
+  "folder": "Principio del archivo de datos de Outlook/DEPURADOS",
+  "extraction_date": "2025-09-19T12:27:51.141396",
+  "subject": "RE: SOLICITUD DE COTIZACION VG / SIND UNICO TRABAJADORES ELECTRICISTAS REP MEX SECC 3 AGUA Y DRENAJE DE MONTERREY / SURA",
+  "sender_name": "Melissa Valeria De Los Reyes Garza",
+  "delivery_time": "2025-08-04T16:25:45.118888",
+  "creation_time": "2025-08-04T16:42:08.943472",
+  "modification_time": "2025-08-04T16:42:10.629305",
+  "attachment_count": 3,
+  "eml_file": "emails/email_008332.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 7912,
+      "path": "attachments/email_008332/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 117612,
+      "path": "attachments/email_008332/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 3958,
+      "path": "attachments/email_008332/attachment_2"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 45199
+}

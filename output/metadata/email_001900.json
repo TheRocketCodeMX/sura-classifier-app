@@ -1,0 +1,31 @@
+{
+  "id": "email_001900",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:20.913269",
+  "subject": "Re: Cotización // Póliza Empresarial // A&H Haiat y Amezcua // Agente 009674",
+  "sender_name": "Goretti Cruz",
+  "delivery_time": "2025-08-06T15:25:03.352134",
+  "creation_time": "2025-08-20T19:54:59.509063",
+  "modification_time": "2025-08-20T20:11:33.096688",
+  "attachment_count": 3,
+  "eml_file": "emails/email_001900.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 823,
+      "path": "attachments/email_001900/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 853685,
+      "path": "attachments/email_001900/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 37389,
+      "path": "attachments/email_001900/attachment_2"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 23304
+}

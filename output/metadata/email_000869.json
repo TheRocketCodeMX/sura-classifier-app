@@ -1,0 +1,21 @@
+{
+  "id": "email_000869",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:24:56.254917",
+  "subject": "Re: SOLICITUD CARTA VIGENCIAS SUPOLLO/ 211/ 7761 ADAN PORRAS",
+  "sender_name": "Paola Padilla",
+  "delivery_time": "2025-08-04T14:47:57.438536",
+  "creation_time": "2025-08-04T23:40:14.400735",
+  "modification_time": "2025-08-04T18:35:44.780237",
+  "attachment_count": 1,
+  "eml_file": "emails/email_000869.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 276493,
+      "path": "attachments/email_000869/attachment_0"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 5829
+}

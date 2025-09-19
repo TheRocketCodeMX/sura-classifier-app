@@ -1,0 +1,46 @@
+{
+  "id": "email_001489",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:11.898070",
+  "subject": "411/ENDOSO EXT VIG/OFI 06/ NENNCA DOBLE/ INTER 7815",
+  "sender_name": "Monjardin Rocha Dulce Maria",
+  "delivery_time": "2025-08-05T20:22:23.105429",
+  "creation_time": "2025-08-07T09:46:34.461276",
+  "modification_time": "2025-08-07T09:47:01.510946",
+  "attachment_count": 6,
+  "eml_file": "emails/email_001489.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 139341,
+      "path": "attachments/email_001489/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 140740,
+      "path": "attachments/email_001489/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 339246,
+      "path": "attachments/email_001489/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 366976,
+      "path": "attachments/email_001489/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 2875861,
+      "path": "attachments/email_001489/attachment_4"
+    },
+    {
+      "filename": "attachment_5",
+      "size": 853685,
+      "path": "attachments/email_001489/attachment_5"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 27643
+}

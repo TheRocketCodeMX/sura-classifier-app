@@ -1,0 +1,26 @@
+{
+  "id": "email_003316",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:55.072596",
+  "subject": "#203424// ALTAS // 1-605-15996 // BROADCAST & SERVICES MEDIA // DAVID NAVARRO BARRAGAN 007514 ",
+  "sender_name": "angelica@nomad23.mx",
+  "delivery_time": "2025-08-19T22:04:30.958641",
+  "creation_time": "2025-08-21T15:07:39.749281",
+  "modification_time": "2025-08-21T15:08:05.442452",
+  "attachment_count": 2,
+  "eml_file": "emails/email_003316.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 42808,
+      "path": "attachments/email_003316/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 10858,
+      "path": "attachments/email_003316/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 18900
+}

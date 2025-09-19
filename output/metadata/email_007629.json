@@ -1,0 +1,26 @@
+{
+  "id": "email_007629",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:38.422194",
+  "subject": "MURGUIA POOL 008688: COTIZACIÓN VG // INTIMAMENTE // SURA",
+  "sender_name": "Salazar Espinoza Julian",
+  "delivery_time": "2025-08-18T22:25:49.323144",
+  "creation_time": "2025-08-20T15:13:50.756476",
+  "modification_time": "2025-08-20T15:18:33.844116",
+  "attachment_count": 2,
+  "eml_file": "emails/email_007629.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 85271,
+      "path": "attachments/email_007629/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 853685,
+      "path": "attachments/email_007629/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 18913
+}

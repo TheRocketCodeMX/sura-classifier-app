@@ -1,0 +1,36 @@
+{
+  "id": "email_002789",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:43.347773",
+  "subject": "RV: TRANSPORTE A PRONOSTICO CHILES Y DERIVADOS",
+  "sender_name": "Mesa Monterrey",
+  "delivery_time": "2025-08-14T21:29:51.206595",
+  "creation_time": "2025-08-18T14:19:55.414721",
+  "modification_time": "2025-08-18T14:20:13.082565",
+  "attachment_count": 4,
+  "eml_file": "emails/email_002789.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 3958,
+      "path": "attachments/email_002789/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 823,
+      "path": "attachments/email_002789/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 29731,
+      "path": "attachments/email_002789/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 140922,
+      "path": "attachments/email_002789/attachment_3"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 56972
+}

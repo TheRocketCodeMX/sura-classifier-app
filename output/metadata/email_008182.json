@@ -1,0 +1,31 @@
+{
+  "id": "email_008182",
+  "folder": "Principio del archivo de datos de Outlook/DEPURADOS",
+  "extraction_date": "2025-09-19T12:27:48.469595",
+  "subject": "Re: COTIZACION // SEMINARIO MENOR // NEGOCIO NUEVO // SURA",
+  "sender_name": "Cecilia Guardado",
+  "delivery_time": "2025-08-05T16:00:05.507648",
+  "creation_time": "2025-08-06T17:56:20.553816",
+  "modification_time": "2025-08-05T19:32:08.563000",
+  "attachment_count": 3,
+  "eml_file": "emails/email_008182.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 823,
+      "path": "attachments/email_008182/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 1453,
+      "path": "attachments/email_008182/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 3958,
+      "path": "attachments/email_008182/attachment_2"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 26635
+}

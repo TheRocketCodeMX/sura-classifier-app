@@ -1,0 +1,36 @@
+{
+  "id": "email_008110",
+  "folder": "Principio del archivo de datos de Outlook/DEPURADOS",
+  "extraction_date": "2025-09-19T12:27:47.086761",
+  "subject": "Re: COTIZACIÓN PÓLIZA VIDA SINDICATO VIGENCIA 2025-2026 / SOLICITUD 2525107",
+  "sender_name": "Amelia Muñoz",
+  "delivery_time": "2025-08-05T23:29:40.178873",
+  "creation_time": "2025-08-11T20:16:23.111290",
+  "modification_time": "2025-08-11T20:16:26.984187",
+  "attachment_count": 4,
+  "eml_file": "emails/email_008110.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 57498,
+      "path": "attachments/email_008110/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 116850,
+      "path": "attachments/email_008110/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 27570,
+      "path": "attachments/email_008110/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 3958,
+      "path": "attachments/email_008110/attachment_3"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 19177
+}

@@ -1,0 +1,21 @@
+{
+  "id": "email_005947",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:57.150079",
+  "subject": "RV: luis figueroa ha compartido un archivo con usted",
+  "sender_name": "Mendez Garcia Stephanie",
+  "delivery_time": "2025-08-06T03:22:05.930408",
+  "creation_time": "2025-08-20T20:00:25.916080",
+  "modification_time": "2025-08-20T20:17:26.334966",
+  "attachment_count": 1,
+  "eml_file": "emails/email_005947.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 853685,
+      "path": "attachments/email_005947/attachment_0"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 17604
+}

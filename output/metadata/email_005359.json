@@ -1,0 +1,41 @@
+{
+  "id": "email_005359",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:42.953657",
+  "subject": "TRANSPORTADORA EGOBA || COTIZACIONES DE TRANSPORTES || RENOVACIÓN MURGUÍA",
+  "sender_name": "Fabiola Falfan Belmont",
+  "delivery_time": "2025-08-05T21:41:46.688064",
+  "creation_time": "2025-08-07T16:04:08.077926",
+  "modification_time": "2025-08-07T16:04:37.418294",
+  "attachment_count": 5,
+  "eml_file": "emails/email_005359.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 224940,
+      "path": "attachments/email_005359/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 224658,
+      "path": "attachments/email_005359/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 224579,
+      "path": "attachments/email_005359/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 242055,
+      "path": "attachments/email_005359/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 225578,
+      "path": "attachments/email_005359/attachment_4"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 6688
+}

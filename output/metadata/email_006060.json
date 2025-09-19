@@ -1,0 +1,36 @@
+{
+  "id": "email_006060",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:59.788616",
+  "subject": "RV: COTIZACION / RENOVACION AP ESCOLAR",
+  "sender_name": "Mesa Puebla",
+  "delivery_time": "2025-08-05T21:42:10.181470",
+  "creation_time": "2025-08-20T20:07:31.394223",
+  "modification_time": "2025-08-20T20:07:51.877510",
+  "attachment_count": 4,
+  "eml_file": "emails/email_006060.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 853685,
+      "path": "attachments/email_006060/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 303662,
+      "path": "attachments/email_006060/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 179996,
+      "path": "attachments/email_006060/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 3958,
+      "path": "attachments/email_006060/attachment_3"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 44678
+}

@@ -1,0 +1,31 @@
+{
+  "id": "email_002011",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:23.329833",
+  "subject": "RV: PROPUESTA VIDA | ASOCIACIÓN DE CONDÓMINOS",
+  "sender_name": "Animas Guerrero Hector Alfonso",
+  "delivery_time": "2025-08-05T22:53:52.075410",
+  "creation_time": "2025-08-20T20:03:13.427210",
+  "modification_time": "2025-08-20T20:21:09.697372",
+  "attachment_count": 3,
+  "eml_file": "emails/email_002011.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 76319,
+      "path": "attachments/email_002011/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 76319,
+      "path": "attachments/email_002011/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 853685,
+      "path": "attachments/email_002011/attachment_2"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 31766
+}

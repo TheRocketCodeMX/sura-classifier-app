@@ -1,0 +1,21 @@
+{
+  "id": "email_005613",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:49.494805",
+  "subject": "cotización empresarial// Consuelo Castro",
+  "sender_name": "Daniel Palencia Milo",
+  "delivery_time": "2025-08-06T22:02:52.038170",
+  "creation_time": "2025-08-20T19:36:57.196545",
+  "modification_time": "2025-08-20T19:37:00.370729",
+  "attachment_count": 1,
+  "eml_file": "emails/email_005613.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 521513,
+      "path": "attachments/email_005613/attachment_0"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 14094
+}

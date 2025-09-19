@@ -1,0 +1,26 @@
+{
+  "id": "email_003439",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:57.730150",
+  "subject": "EMISIONES SISEGUROS 6284/ot-0711090 sura sanchez olvera sandra yazmin.pdf",
+  "sender_name": "SISEGUROS",
+  "delivery_time": "2025-08-19T17:39:05.824017",
+  "creation_time": "2025-08-19T18:39:19.618953",
+  "modification_time": "2025-08-19T18:39:42.543260",
+  "attachment_count": 2,
+  "eml_file": "emails/email_003439.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 5040,
+      "path": "attachments/email_003439/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 163670,
+      "path": "attachments/email_003439/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 8905
+}

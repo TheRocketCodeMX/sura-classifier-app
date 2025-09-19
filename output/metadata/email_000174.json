@@ -1,0 +1,26 @@
+{
+  "id": "email_000174",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:24:39.193909",
+  "subject": "COTIZACION// CONDOMINIO HABITACIONAL // GRUPO: MARIA DEL CARMEN",
+  "sender_name": "ricardo.rangel@protectseguros.com",
+  "delivery_time": "2025-08-05T19:47:23.211985",
+  "creation_time": "2025-08-06T04:15:18.240568",
+  "modification_time": "2025-08-06T04:15:40.474107",
+  "attachment_count": 2,
+  "eml_file": "emails/email_000174.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 21151,
+      "path": "attachments/email_000174/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 16436,
+      "path": "attachments/email_000174/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 3670
+}

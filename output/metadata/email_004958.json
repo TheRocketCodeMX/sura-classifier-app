@@ -1,0 +1,36 @@
+{
+  "id": "email_004958",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:33.087941",
+  "subject": "RV: Pagos Polizas // Tierras costa alegre",
+  "sender_name": "Suaste Rivas Adriana",
+  "delivery_time": "2025-08-04T21:43:03.167201",
+  "creation_time": "2025-08-06T22:34:01.810200",
+  "modification_time": "2025-08-06T22:34:24.950897",
+  "attachment_count": 4,
+  "eml_file": "emails/email_004958.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 2569,
+      "path": "attachments/email_004958/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 391702,
+      "path": "attachments/email_004958/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 14368,
+      "path": "attachments/email_004958/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 853685,
+      "path": "attachments/email_004958/attachment_3"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 40060
+}

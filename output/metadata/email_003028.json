@@ -1,0 +1,26 @@
+{
+  "id": "email_003028",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:48.914125",
+  "subject": "RE: ALAS DEL MONTE//AMO050719560//SURA Agte 9260",
+  "sender_name": "Armando  Guerrero Portocarrero",
+  "delivery_time": "2025-08-15T17:06:26.732246",
+  "creation_time": "2025-08-18T13:14:27.484647",
+  "modification_time": "2025-08-18T13:14:33.783244",
+  "attachment_count": 2,
+  "eml_file": "emails/email_003028.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 60302,
+      "path": "attachments/email_003028/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 853685,
+      "path": "attachments/email_003028/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 41945
+}

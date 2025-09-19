@@ -1,0 +1,26 @@
+{
+  "id": "email_007425",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:33.489826",
+  "subject": "CORRECCION EN EL DOMICILIO ",
+  "sender_name": "Daniel Palencia Milo",
+  "delivery_time": "2025-08-19T17:43:03.513561",
+  "creation_time": "2025-08-21T16:58:13.646542",
+  "modification_time": "2025-08-21T17:04:54.491853",
+  "attachment_count": 2,
+  "eml_file": "emails/email_007425.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 12249,
+      "path": "attachments/email_007425/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 140816,
+      "path": "attachments/email_007425/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 34247
+}

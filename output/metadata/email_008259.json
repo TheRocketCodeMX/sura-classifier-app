@@ -1,0 +1,21 @@
+{
+  "id": "email_008259",
+  "folder": "Principio del archivo de datos de Outlook/DEPURADOS",
+  "extraction_date": "2025-09-19T12:27:49.813442",
+  "subject": "No se puede entregar: RENOVACIÓN ANTICIPADA 420 | MULTIPLE FAMILIAR | SEPTIEMBRE 2025 | OFICINA HERMOSILLO | 006851 MICHELLE MARGARITA PADILLA LIZARRAGA",
+  "sender_name": "Microsoft Outlook",
+  "delivery_time": "2025-08-05T15:59:22.641102",
+  "creation_time": "2025-08-05T16:15:06.394192",
+  "modification_time": "2025-08-05T16:15:35.298324",
+  "attachment_count": 1,
+  "eml_file": "emails/email_008259.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 10152,
+      "path": "attachments/email_008259/attachment_0"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 10956
+}

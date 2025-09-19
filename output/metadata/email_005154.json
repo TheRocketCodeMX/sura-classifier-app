@@ -1,0 +1,21 @@
+{
+  "id": "email_005154",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:37.501299",
+  "subject": "RE: 003898||ALTAS DE 3 UNIDADES//TRANSITION TO OPERATIONS LOGISTICS",
+  "sender_name": "Vera Cuesta Giovanna",
+  "delivery_time": "2025-08-05T23:51:40.460499",
+  "creation_time": "2025-08-14T22:49:20.505221",
+  "modification_time": "2025-08-14T15:26:19.816411",
+  "attachment_count": 1,
+  "eml_file": "emails/email_005154.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 853685,
+      "path": "attachments/email_005154/attachment_0"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 18945
+}

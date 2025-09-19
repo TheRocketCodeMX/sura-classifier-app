@@ -1,0 +1,26 @@
+{
+  "id": "email_002926",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:46.126485",
+  "subject": "FAVOR DE ACTUALIZAR LOS DATOS FISCALES DE LA PÓLIZA 01/420/100074206 JOSE AURELIO LOPEZ MALDONADO",
+  "sender_name": "matilde hernandez hernandez",
+  "delivery_time": "2025-08-15T01:00:50.123818",
+  "creation_time": "2025-08-21T15:12:00.496996",
+  "modification_time": "2025-08-21T15:19:07.214597",
+  "attachment_count": 2,
+  "eml_file": "emails/email_002926.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 98596,
+      "path": "attachments/email_002926/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 477184,
+      "path": "attachments/email_002926/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 3216
+}

@@ -1,0 +1,31 @@
+{
+  "id": "email_005057",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:35.298174",
+  "subject": "SURA // EMBOTELLADORA AGA, S.A. DE C.V. // Cotización Empresarial // 2025",
+  "sender_name": "Eva Rocio Arrieta Macedo",
+  "delivery_time": "2025-08-05T17:16:19.284915",
+  "creation_time": "2025-08-06T22:32:55.460292",
+  "modification_time": "2025-08-06T22:33:16.211760",
+  "attachment_count": 3,
+  "eml_file": "emails/email_005057.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 273644,
+      "path": "attachments/email_005057/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 23959,
+      "path": "attachments/email_005057/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 120174,
+      "path": "attachments/email_005057/attachment_2"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 11559
+}

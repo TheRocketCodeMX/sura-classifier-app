@@ -1,0 +1,26 @@
+{
+  "id": "email_008198",
+  "folder": "Principio del archivo de datos de Outlook/DEPURADOS",
+  "extraction_date": "2025-09-19T12:27:48.761831",
+  "subject": "Re: COTIZACION/ 501 y 403/ TERRACERIAS Y CONSTRUCCIONES/ 7199 RIGOBERTO ESQUEDA",
+  "sender_name": "Antonio Landa",
+  "delivery_time": "2025-08-04T22:33:31.378127",
+  "creation_time": "2025-08-06T17:57:32.683997",
+  "modification_time": "2025-08-04T22:36:20.386000",
+  "attachment_count": 2,
+  "eml_file": "emails/email_008198.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 823,
+      "path": "attachments/email_008198/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 853685,
+      "path": "attachments/email_008198/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 16673
+}

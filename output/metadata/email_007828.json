@@ -1,0 +1,26 @@
+{
+  "id": "email_007828",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:42.298514",
+  "subject": "RV: RESIDENCIAL CAMPOS 53 AC//COTIZACION EMPRESARIAL// AGENTE OPCION SEGUROS  CVE 7628",
+  "sender_name": "Figueroa Velazquez Edith Concepcion",
+  "delivery_time": "2025-08-18T17:43:12.222684",
+  "creation_time": "2025-08-19T13:06:54.154558",
+  "modification_time": "2025-08-19T13:07:11.708322",
+  "attachment_count": 2,
+  "eml_file": "emails/email_007828.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 9978,
+      "path": "attachments/email_007828/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 184491,
+      "path": "attachments/email_007828/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 15168
+}

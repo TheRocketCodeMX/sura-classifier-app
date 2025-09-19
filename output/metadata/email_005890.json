@@ -1,0 +1,26 @@
+{
+  "id": "email_005890",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:55.643029",
+  "subject": "ALTAS Y BAJAS EMPLEADOS POLIZA VIDA GRUPO 4773 RAMO 902 OFICINA 1 AGENTE 009052 / MUEBLES Y MUDANZAS AMADO SA DE CV / JULIO ",
+  "sender_name": "Jefatura",
+  "delivery_time": "2025-08-06T15:20:23.047339",
+  "creation_time": "2025-08-20T19:55:03.769034",
+  "modification_time": "2025-08-20T20:11:35.526846",
+  "attachment_count": 2,
+  "eml_file": "emails/email_005890.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 31235,
+      "path": "attachments/email_005890/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 10694,
+      "path": "attachments/email_005890/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 7923
+}

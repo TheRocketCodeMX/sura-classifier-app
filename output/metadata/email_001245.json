@@ -1,0 +1,31 @@
+{
+  "id": "email_001245",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:04.823185",
+  "subject": "RENOVACIÓN ANTICIPADA 430 | MULTIPLE EMPRESARIAL | SEPTIEMBRE 2025 | OFICINA HERMOSILLO | 008189 CERTUS, AGENTE DE SEGUROS Y DE FIANZAS",
+  "sender_name": "Mesa Hermosillo",
+  "delivery_time": "2025-08-05T16:15:30",
+  "creation_time": "2025-08-05T16:15:31.943165",
+  "modification_time": "2025-08-05T16:16:33.360974",
+  "attachment_count": 3,
+  "eml_file": "emails/email_001245.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 649451,
+      "path": "attachments/email_001245/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 129574,
+      "path": "attachments/email_001245/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 60934,
+      "path": "attachments/email_001245/attachment_2"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 69537
+}

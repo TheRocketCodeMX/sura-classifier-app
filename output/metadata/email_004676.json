@@ -1,0 +1,21 @@
+{
+  "id": "email_004676",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:26.205521",
+  "subject": "Oficina 1 Ramo 211 Grupo 5951 GGD Bandas Emision Poliza HYUNDAI GRAND i10 GL 2026  Respetar Prima Solicitada por favor Amplia Mensual Vigencia 5 Agosto Serie MALB25AC1TM656050",
+  "sender_name": "Horacio Hernandez Rivera",
+  "delivery_time": "2025-08-05T17:41:16.398122",
+  "creation_time": "2025-08-06T14:10:57.483286",
+  "modification_time": "2025-08-06T14:11:15.612774",
+  "attachment_count": 1,
+  "eml_file": "emails/email_004676.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 121108,
+      "path": "attachments/email_004676/attachment_0"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 19749
+}

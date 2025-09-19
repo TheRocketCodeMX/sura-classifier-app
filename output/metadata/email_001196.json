@@ -1,0 +1,21 @@
+{
+  "id": "email_001196",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:03.982629",
+  "subject": "RE: RENOV AGOSTO",
+  "sender_name": "Mesa Hermosillo",
+  "delivery_time": "2025-08-04T20:57:25",
+  "creation_time": "2025-08-04T20:57:28.650378",
+  "modification_time": "2025-08-04T20:57:31.931699",
+  "attachment_count": 1,
+  "eml_file": "emails/email_001196.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 853685,
+      "path": "attachments/email_001196/attachment_0"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 24137
+}

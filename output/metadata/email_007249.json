@@ -1,0 +1,31 @@
+{
+  "id": "email_007249",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:29.939262",
+  "subject": "EMISIONES SISEGUROS 6284/ot-0711153 sura cano gonzalez carlos felipe renovacion.pdf",
+  "sender_name": "SISEGUROS",
+  "delivery_time": "2025-08-19T23:35:38.449781",
+  "creation_time": "2025-08-20T15:08:50.712106",
+  "modification_time": "2025-08-20T15:09:34.589498",
+  "attachment_count": 3,
+  "eml_file": "emails/email_007249.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 5040,
+      "path": "attachments/email_007249/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 128421,
+      "path": "attachments/email_007249/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 141235,
+      "path": "attachments/email_007249/attachment_2"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 8948
+}

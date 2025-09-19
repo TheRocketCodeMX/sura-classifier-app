@@ -1,0 +1,36 @@
+{
+  "id": "email_001612",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:14.634504",
+  "subject": "RE: CANCELAR Y REEXPEDIR POLIZA AUTO 2415656 RAMO 211 OFICINA 1 AGENTE 9052 / RIVERA Y ASC ADMINISTRADORES DE RIESGO",
+  "sender_name": "Trejo Chavez Jaquelin",
+  "delivery_time": "2025-08-06T22:27:25.616074",
+  "creation_time": "2025-08-20T19:36:22.656816",
+  "modification_time": "2025-08-20T19:36:44.431065",
+  "attachment_count": 4,
+  "eml_file": "emails/email_001612.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 229025,
+      "path": "attachments/email_001612/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 853685,
+      "path": "attachments/email_001612/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 31235,
+      "path": "attachments/email_001612/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 82224,
+      "path": "attachments/email_001612/attachment_3"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 60443
+}

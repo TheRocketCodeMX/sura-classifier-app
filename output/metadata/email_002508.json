@@ -1,0 +1,26 @@
+{
+  "id": "email_002508",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:35.664223",
+  "subject": "RV: 2 211 77859",
+  "sender_name": "Mesa Puebla",
+  "delivery_time": "2025-08-14T15:21:29.347411",
+  "creation_time": "2025-08-14T23:38:19.383135",
+  "modification_time": "2025-08-14T23:38:24.672783",
+  "attachment_count": 2,
+  "eml_file": "emails/email_002508.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 853685,
+      "path": "attachments/email_002508/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 3958,
+      "path": "attachments/email_002508/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 19797
+}

@@ -1,0 +1,31 @@
+{
+  "id": "email_006556",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:12.559208",
+  "subject": "RV: 72 211 100201489 ",
+  "sender_name": "Valencia Fimbres Dulce Maria",
+  "delivery_time": "2025-08-14T15:51:22.048193",
+  "creation_time": "2025-08-15T15:22:52.556306",
+  "modification_time": "2025-08-15T15:26:56.411617",
+  "attachment_count": 3,
+  "eml_file": "emails/email_006556.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 24774,
+      "path": "attachments/email_006556/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 853685,
+      "path": "attachments/email_006556/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 853685,
+      "path": "attachments/email_006556/attachment_2"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 25400
+}

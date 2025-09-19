@@ -1,0 +1,31 @@
+{
+  "id": "email_007293",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:30.734401",
+  "subject": "Solicitud de endoso de corrección póliza 4 420 10482",
+  "sender_name": "carlos.b@grupobeltrancorona.com",
+  "delivery_time": "2025-08-19T22:21:37.640353",
+  "creation_time": "2025-08-21T16:47:51.002086",
+  "modification_time": "2025-08-21T16:56:32.184630",
+  "attachment_count": 3,
+  "eml_file": "emails/email_007293.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 103765,
+      "path": "attachments/email_007293/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 99728,
+      "path": "attachments/email_007293/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 63572,
+      "path": "attachments/email_007293/attachment_2"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 5374
+}

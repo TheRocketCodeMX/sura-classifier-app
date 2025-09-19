@@ -1,0 +1,46 @@
+{
+  "id": "email_001865",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:20.450666",
+  "subject": "RV: Cotización Equipo de Contratistas y Remolques  - Davis Lopez",
+  "sender_name": "Mesa Guadalajara",
+  "delivery_time": "2025-08-06T16:54:21.010675",
+  "creation_time": "2025-08-20T19:53:01.969230",
+  "modification_time": "2025-08-20T20:08:02.097978",
+  "attachment_count": 6,
+  "eml_file": "emails/email_001865.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 38998,
+      "path": "attachments/email_001865/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 76800,
+      "path": "attachments/email_001865/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 71168,
+      "path": "attachments/email_001865/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 116850,
+      "path": "attachments/email_001865/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 27570,
+      "path": "attachments/email_001865/attachment_4"
+    },
+    {
+      "filename": "attachment_5",
+      "size": 3958,
+      "path": "attachments/email_001865/attachment_5"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 33065
+}

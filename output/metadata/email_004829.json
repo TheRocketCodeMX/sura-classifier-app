@@ -1,0 +1,21 @@
+{
+  "id": "email_004829",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:29.747564",
+  "subject": "Propuesta de renovación Póliza 1-607-2249",
+  "sender_name": "Enriquez Rodriguez Hugo Alberto",
+  "delivery_time": "2025-08-05T14:28:49.683777",
+  "creation_time": "2025-08-05T22:51:13.250674",
+  "modification_time": "2025-08-05T22:52:25.191252",
+  "attachment_count": 1,
+  "eml_file": "emails/email_004829.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 17686,
+      "path": "attachments/email_004829/attachment_0"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 3836
+}

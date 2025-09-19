@@ -1,0 +1,21 @@
+{
+  "id": "email_001282",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:05.764859",
+  "subject": "RV: COLEGIO SUMMERHILL COTIZACIÓN RENOVACIÓN 2 605 20002373 AGENTE 479",
+  "sender_name": "Mesa Puebla",
+  "delivery_time": "2025-08-04T14:40:44.997309",
+  "creation_time": "2025-08-05T14:26:35.156763",
+  "modification_time": "2025-08-05T14:48:13.922109",
+  "attachment_count": 1,
+  "eml_file": "emails/email_001282.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 3958,
+      "path": "attachments/email_001282/attachment_0"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 11735
+}

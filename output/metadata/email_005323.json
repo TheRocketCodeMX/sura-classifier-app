@@ -1,0 +1,36 @@
+{
+  "id": "email_005323",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:42.247783",
+  "subject": "RV: 1754349554/ 2 211 100074194",
+  "sender_name": "Mesa Puebla",
+  "delivery_time": "2025-08-05T14:51:19.109512",
+  "creation_time": "2025-08-05T23:35:14.715546",
+  "modification_time": "2025-08-05T23:35:33.763116",
+  "attachment_count": 4,
+  "eml_file": "emails/email_005323.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 986610,
+      "path": "attachments/email_005323/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 853685,
+      "path": "attachments/email_005323/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 14786,
+      "path": "attachments/email_005323/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 3958,
+      "path": "attachments/email_005323/attachment_3"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 15058
+}

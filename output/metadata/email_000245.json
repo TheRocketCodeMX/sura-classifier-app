@@ -1,0 +1,51 @@
+{
+  "id": "email_000245",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:24:41.231224",
+  "subject": "RV: URGENTE | OT-0001317326 // XYLEM WATER SOLUTIONS MEXICO // ENDOSO // VIDA // 9-902-90000399",
+  "sender_name": "Animas Guerrero Hector Alfonso",
+  "delivery_time": "2025-08-05T18:31:20.455273",
+  "creation_time": "2025-08-06T03:16:50.285998",
+  "modification_time": "2025-08-06T03:17:14.591094",
+  "attachment_count": 7,
+  "eml_file": "emails/email_000245.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 20200,
+      "path": "attachments/email_000245/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 137185,
+      "path": "attachments/email_000245/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 853685,
+      "path": "attachments/email_000245/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 46685,
+      "path": "attachments/email_000245/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 560712,
+      "path": "attachments/email_000245/attachment_4"
+    },
+    {
+      "filename": "attachment_5",
+      "size": 651708,
+      "path": "attachments/email_000245/attachment_5"
+    },
+    {
+      "filename": "attachment_6",
+      "size": 512828,
+      "path": "attachments/email_000245/attachment_6"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 134444
+}

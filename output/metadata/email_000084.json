@@ -1,0 +1,26 @@
+{
+  "id": "email_000084",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:24:37.555599",
+  "subject": "CT-31986//MAS SEGUROS Nueva//TRANSPORTES VELA DEL BAJIO S DE RL DE CV//SURA Agte 9260",
+  "sender_name": "Karen Rodríguez Ruíz",
+  "delivery_time": "2025-08-05T22:22:00.558926",
+  "creation_time": "2025-08-07T14:22:42.140042",
+  "modification_time": "2025-08-07T14:25:37.242696",
+  "attachment_count": 2,
+  "eml_file": "emails/email_000084.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 110031,
+      "path": "attachments/email_000084/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 29082,
+      "path": "attachments/email_000084/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 2668
+}

@@ -1,0 +1,46 @@
+{
+  "id": "email_006200",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:03.015784",
+  "subject": "RV: RE: Actualizar los datos fiscales Póliza 1-430-48657  //  SOL 2525801",
+  "sender_name": "Garcia Garcia Berenice Gabriela",
+  "delivery_time": "2025-08-05T18:06:24.140633",
+  "creation_time": "2025-08-20T20:22:04.857936",
+  "modification_time": "2025-08-20T20:22:32.840225",
+  "attachment_count": 6,
+  "eml_file": "emails/email_006200.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 680792,
+      "path": "attachments/email_006200/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 46526,
+      "path": "attachments/email_006200/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 16248,
+      "path": "attachments/email_006200/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 15220,
+      "path": "attachments/email_006200/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 853685,
+      "path": "attachments/email_006200/attachment_4"
+    },
+    {
+      "filename": "attachment_5",
+      "size": 133167,
+      "path": "attachments/email_006200/attachment_5"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 44501
+}

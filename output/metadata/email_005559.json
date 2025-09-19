@@ -1,0 +1,21 @@
+{
+  "id": "email_005559",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:48.165641",
+  "subject": "Re: 01/2941/420/COTIZACION/VIGERSA S DE RL DE CV Y/O RESIDENCIAL LOMA LARGA urgente",
+  "sender_name": "José Luis López",
+  "delivery_time": "2025-08-06T23:57:15.437932",
+  "creation_time": "2025-08-20T19:32:17.044684",
+  "modification_time": "2025-08-20T19:34:21.714723",
+  "attachment_count": 1,
+  "eml_file": "emails/email_005559.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 908015,
+      "path": "attachments/email_005559/attachment_0"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 3260
+}

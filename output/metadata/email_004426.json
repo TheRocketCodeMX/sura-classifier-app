@@ -1,0 +1,31 @@
+{
+  "id": "email_004426",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:20.275372",
+  "subject": "RV: ACTUALIZACION DE DATOS FISCALES POLIZA  211-2415611",
+  "sender_name": "Licona Tamayo Cristopher",
+  "delivery_time": "2025-08-05T23:27:04.110832",
+  "creation_time": "2025-08-07T14:21:15.768405",
+  "modification_time": "2025-08-07T14:21:59.741283",
+  "attachment_count": 3,
+  "eml_file": "emails/email_004426.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 188069,
+      "path": "attachments/email_004426/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 27179,
+      "path": "attachments/email_004426/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 85045,
+      "path": "attachments/email_004426/attachment_2"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 21025
+}

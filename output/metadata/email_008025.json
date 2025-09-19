@@ -1,0 +1,66 @@
+{
+  "id": "email_008025",
+  "folder": "Principio del archivo de datos de Outlook/DEPURADOS",
+  "extraction_date": "2025-09-19T12:27:46.427046",
+  "subject": "RE: OFICINA 1 RAMO 606  POLIZA 6061029032-26// 2512340  ",
+  "sender_name": "Carmen Rojas (Mash)",
+  "delivery_time": "2025-08-04T20:42:16.543331",
+  "creation_time": "2025-08-11T20:18:37.879815",
+  "modification_time": "2025-08-11T20:18:43.567676",
+  "attachment_count": 10,
+  "eml_file": "emails/email_008025.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 923141,
+      "path": "attachments/email_008025/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 18937,
+      "path": "attachments/email_008025/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 15879,
+      "path": "attachments/email_008025/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 5924,
+      "path": "attachments/email_008025/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 5860,
+      "path": "attachments/email_008025/attachment_4"
+    },
+    {
+      "filename": "attachment_5",
+      "size": 27570,
+      "path": "attachments/email_008025/attachment_5"
+    },
+    {
+      "filename": "attachment_6",
+      "size": 3540,
+      "path": "attachments/email_008025/attachment_6"
+    },
+    {
+      "filename": "attachment_7",
+      "size": 5914,
+      "path": "attachments/email_008025/attachment_7"
+    },
+    {
+      "filename": "attachment_8",
+      "size": 5823,
+      "path": "attachments/email_008025/attachment_8"
+    },
+    {
+      "filename": "attachment_9",
+      "size": 5824,
+      "path": "attachments/email_008025/attachment_9"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 70472
+}

@@ -1,0 +1,31 @@
+{
+  "id": "email_001868",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:20.482189",
+  "subject": "RV: SOL. COT. TRANSPORTES FRALSE SA DE CV | 2025-2026",
+  "sender_name": "Martinez Juarez Cynthia Alejandra",
+  "delivery_time": "2025-08-06T16:49:31.721192",
+  "creation_time": "2025-08-20T19:53:17.973941",
+  "modification_time": "2025-08-20T20:08:18.539519",
+  "attachment_count": 3,
+  "eml_file": "emails/email_001868.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 37154,
+      "path": "attachments/email_001868/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 853685,
+      "path": "attachments/email_001868/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 823,
+      "path": "attachments/email_001868/attachment_2"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 64752
+}

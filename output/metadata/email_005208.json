@@ -1,0 +1,66 @@
+{
+  "id": "email_005208",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:38.438781",
+  "subject": "RENOVACIÓN ANTICIPADA 420 | MULTIPLE FAMILIAR | SEPTIEMBRE 2025 | OFICINA HERMOSILLO | 006851 MICHELLE MARGARITA PADILLA LIZARRAGA",
+  "sender_name": "Mesa Hermosillo",
+  "delivery_time": "2025-08-05T15:59:05",
+  "creation_time": "2025-08-05T15:59:15.873005",
+  "modification_time": "2025-08-05T21:42:54.059529",
+  "attachment_count": 10,
+  "eml_file": "emails/email_005208.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 99717,
+      "path": "attachments/email_005208/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 99632,
+      "path": "attachments/email_005208/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 98668,
+      "path": "attachments/email_005208/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 98667,
+      "path": "attachments/email_005208/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 100018,
+      "path": "attachments/email_005208/attachment_4"
+    },
+    {
+      "filename": "attachment_5",
+      "size": 98670,
+      "path": "attachments/email_005208/attachment_5"
+    },
+    {
+      "filename": "attachment_6",
+      "size": 99657,
+      "path": "attachments/email_005208/attachment_6"
+    },
+    {
+      "filename": "attachment_7",
+      "size": 99994,
+      "path": "attachments/email_005208/attachment_7"
+    },
+    {
+      "filename": "attachment_8",
+      "size": 129574,
+      "path": "attachments/email_005208/attachment_8"
+    },
+    {
+      "filename": "attachment_9",
+      "size": 60934,
+      "path": "attachments/email_005208/attachment_9"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 69532
+}

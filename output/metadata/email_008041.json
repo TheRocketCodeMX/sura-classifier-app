@@ -1,0 +1,21 @@
+{
+  "id": "email_008041",
+  "folder": "Principio del archivo de datos de Outlook/DEPURADOS",
+  "extraction_date": "2025-09-19T12:27:46.517046",
+  "subject": "Re: RENOVACIÓN ANTICIPADA 430 | MULTIPLE EMPRESARIAL(420,501) | SEPTIEMBRE 2025 | OFICINA CIUDAD DE MEXICO (Alma Daniela) | 006392 RICARDO DAVID MARTINEZ MORENO",
+  "sender_name": "Mario Carrillo",
+  "delivery_time": "2025-08-04T21:50:46.446658",
+  "creation_time": "2025-08-11T20:18:22.020889",
+  "modification_time": "2025-08-11T20:18:24.858176",
+  "attachment_count": 1,
+  "eml_file": "emails/email_008041.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 60934,
+      "path": "attachments/email_008041/attachment_0"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 33756
+}

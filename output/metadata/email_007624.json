@@ -1,0 +1,41 @@
+{
+  "id": "email_007624",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:38.310920",
+  "subject": "RV: Electric Components // Indicativo urgente",
+  "sender_name": "Martinez Juarez Cynthia Alejandra",
+  "delivery_time": "2025-08-18T22:28:34.132908",
+  "creation_time": "2025-08-20T15:13:55.204888",
+  "modification_time": "2025-08-20T15:18:36.398847",
+  "attachment_count": 5,
+  "eml_file": "emails/email_007624.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 22727,
+      "path": "attachments/email_007624/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 58922,
+      "path": "attachments/email_007624/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 713921,
+      "path": "attachments/email_007624/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 823,
+      "path": "attachments/email_007624/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 853685,
+      "path": "attachments/email_007624/attachment_4"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 25169
+}

@@ -1,0 +1,36 @@
+{
+  "id": "email_004558",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:22.866801",
+  "subject": "RE: EXPEDIR POLIZA | RAMO 202 OFICINA 1 | AGENTE 009052-RIVERA Y ASC | VOLTEO TIPO GONDOLA 2024",
+  "sender_name": "Coordinación",
+  "delivery_time": "2025-08-05T19:36:52.883643",
+  "creation_time": "2025-08-05T22:31:08.191142",
+  "modification_time": "2025-08-05T22:31:32.056346",
+  "attachment_count": 4,
+  "eml_file": "emails/email_004558.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 82224,
+      "path": "attachments/email_004558/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 34833,
+      "path": "attachments/email_004558/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 5668,
+      "path": "attachments/email_004558/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 784850,
+      "path": "attachments/email_004558/attachment_3"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 69206
+}

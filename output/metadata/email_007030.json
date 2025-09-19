@@ -1,0 +1,21 @@
+{
+  "id": "email_007030",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:25.349733",
+  "subject": "430 | MÚLTIPLE EMPRESARIAL | COTIZACIÓN | MARCA TRES SA DE CV | 1 | PÓLIZA | 5696",
+  "sender_name": "José Eulices Ramírez Martínez",
+  "delivery_time": "2025-08-15T17:40:38.250532",
+  "creation_time": "2025-08-19T13:05:43.403617",
+  "modification_time": "2025-08-19T13:06:03.305298",
+  "attachment_count": 1,
+  "eml_file": "emails/email_007030.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 242700,
+      "path": "attachments/email_007030/attachment_0"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 19187
+}

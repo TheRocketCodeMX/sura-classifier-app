@@ -1,0 +1,21 @@
+{
+  "id": "email_000669",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:24:50.999223",
+  "subject": "RV: RENOVACIONES AGOSTO 2025 ( AGENTE 1274)",
+  "sender_name": "Enriquez Rodriguez Hugo Alberto",
+  "delivery_time": "2025-08-04T18:50:47.258869",
+  "creation_time": "2025-08-04T19:20:12.141521",
+  "modification_time": "2025-08-04T23:51:36.974980",
+  "attachment_count": 1,
+  "eml_file": "emails/email_000669.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 17686,
+      "path": "attachments/email_000669/attachment_0"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 14748
+}

@@ -1,0 +1,46 @@
+{
+  "id": "email_000998",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:24:59.423557",
+  "subject": "RV: Tu renovación esta lista, bienvenido a SURA _3_211_M_751928_0\\CONSOLIDADO_3_211_M_751928_0",
+  "sender_name": "Suaste Rivas Adriana",
+  "delivery_time": "2025-08-04T23:22:03.342275",
+  "creation_time": "2025-08-05T19:37:12.882725",
+  "modification_time": "2025-08-05T19:24:19.020611",
+  "attachment_count": 6,
+  "eml_file": "emails/email_000998.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 2569,
+      "path": "attachments/email_000998/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 853685,
+      "path": "attachments/email_000998/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 8296,
+      "path": "attachments/email_000998/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 8474,
+      "path": "attachments/email_000998/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 8132,
+      "path": "attachments/email_000998/attachment_4"
+    },
+    {
+      "filename": "attachment_5",
+      "size": 58408,
+      "path": "attachments/email_000998/attachment_5"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 78186
+}

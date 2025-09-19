@@ -1,0 +1,26 @@
+{
+  "id": "email_001666",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:15.754489",
+  "subject": "72 211 210784",
+  "sender_name": "Atencion Cobranza",
+  "delivery_time": "2025-08-06T21:18:24.570674",
+  "creation_time": "2025-08-20T19:39:34.037392",
+  "modification_time": "2025-08-20T19:41:36.167625",
+  "attachment_count": 2,
+  "eml_file": "emails/email_001666.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 29444,
+      "path": "attachments/email_001666/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 853685,
+      "path": "attachments/email_001666/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 26860
+}

@@ -1,0 +1,46 @@
+{
+  "id": "email_007993",
+  "folder": "Principio del archivo de datos de Outlook/DEPURADOS",
+  "extraction_date": "2025-09-19T12:27:46.114348",
+  "subject": "RE: VIDA/INDIVIDUAL/OBJETIVO SEGURO/RECIBOS SUBSECUENTES/KARIMEN RUIZ RAMIREZ / V0110011217-0",
+  "sender_name": "Oscar Fabian Lopez Moreno",
+  "delivery_time": "2025-08-04T15:38:33.129153",
+  "creation_time": "2025-08-11T20:19:49.974853",
+  "modification_time": "2025-08-11T20:20:15.928027",
+  "attachment_count": 6,
+  "eml_file": "emails/email_007993.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 1664,
+      "path": "attachments/email_007993/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 1956,
+      "path": "attachments/email_007993/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 53153,
+      "path": "attachments/email_007993/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 202906,
+      "path": "attachments/email_007993/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 15949,
+      "path": "attachments/email_007993/attachment_4"
+    },
+    {
+      "filename": "attachment_5",
+      "size": 853685,
+      "path": "attachments/email_007993/attachment_5"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 32758
+}

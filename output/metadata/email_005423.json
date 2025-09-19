@@ -1,0 +1,26 @@
+{
+  "id": "email_005423",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:44.567932",
+  "subject": "COTIZACION GMM PARA ASESORES CORLINE SA DE CV",
+  "sender_name": "M Gonzalez",
+  "delivery_time": "2025-08-04T19:49:58.332148",
+  "creation_time": "2025-08-06T09:24:54.842414",
+  "modification_time": "2025-08-06T09:26:21.387164",
+  "attachment_count": 2,
+  "eml_file": "emails/email_005423.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 23400,
+      "path": "attachments/email_005423/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 39639,
+      "path": "attachments/email_005423/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 4258
+}

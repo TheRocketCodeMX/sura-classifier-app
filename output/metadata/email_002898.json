@@ -1,0 +1,36 @@
+{
+  "id": "email_002898",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:45.106050",
+  "subject": "RV: CHEVEZ/COTIZACION/GMM&EXCESOS&CASH/25-26/20250814",
+  "sender_name": "Animas Guerrero Hector Alfonso",
+  "delivery_time": "2025-08-14T23:35:53.994890",
+  "creation_time": "2025-08-18T17:31:35.786366",
+  "modification_time": "2025-08-18T17:31:56.362190",
+  "attachment_count": 4,
+  "eml_file": "emails/email_002898.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 181320,
+      "path": "attachments/email_002898/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 59641,
+      "path": "attachments/email_002898/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 263006,
+      "path": "attachments/email_002898/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 853685,
+      "path": "attachments/email_002898/attachment_3"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 18680
+}

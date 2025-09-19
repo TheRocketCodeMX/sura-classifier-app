@@ -1,0 +1,36 @@
+{
+  "id": "email_008341",
+  "folder": "Principio del archivo de datos de Outlook/DEPURADOS",
+  "extraction_date": "2025-09-19T12:27:51.220246",
+  "subject": "RE: APOYO EN COTIZACION DE RENOVACION // POLIZA: 8-605-69 // CENTRO EDUCATIVO DESPERTAR A LA VIDA",
+  "sender_name": "controladministrativo@aipseguros.com",
+  "delivery_time": "2025-08-04T18:41:34.172278",
+  "creation_time": "2025-08-04T19:02:34.170453",
+  "modification_time": "2025-08-04T19:01:36.474000",
+  "attachment_count": 4,
+  "eml_file": "emails/email_008341.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 138932,
+      "path": "attachments/email_008341/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 116850,
+      "path": "attachments/email_008341/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 27570,
+      "path": "attachments/email_008341/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 3958,
+      "path": "attachments/email_008341/attachment_3"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 42536
+}

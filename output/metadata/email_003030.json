@@ -1,0 +1,31 @@
+{
+  "id": "email_003030",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:48.955742",
+  "subject": "Re: ALTA INCISO PÓLIZA 1-202-101344913 CALVE AGENTE 009605 NÚMERO DE SERIE VSSBFCKM9SR095132",
+  "sender_name": "Fernando Ramírez Rodríguez",
+  "delivery_time": "2025-08-15T17:09:58.161420",
+  "creation_time": "2025-08-18T13:14:24.296436",
+  "modification_time": "2025-08-18T13:14:48.970837",
+  "attachment_count": 3,
+  "eml_file": "emails/email_003030.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 853685,
+      "path": "attachments/email_003030/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 137163,
+      "path": "attachments/email_003030/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 271897,
+      "path": "attachments/email_003030/attachment_2"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 35702
+}

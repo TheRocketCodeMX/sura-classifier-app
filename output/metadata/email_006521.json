@@ -1,0 +1,26 @@
+{
+  "id": "email_006521",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:11.668677",
+  "subject": "RV: Sura - Cotización VIDA (Operativos) | FXI DE CUAUTITLAN",
+  "sender_name": "Mesa Monterrey",
+  "delivery_time": "2025-08-14T15:29:34.645268",
+  "creation_time": "2025-08-15T14:07:25.974312",
+  "modification_time": "2025-08-15T14:22:02.427703",
+  "attachment_count": 2,
+  "eml_file": "emails/email_006521.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 81993,
+      "path": "attachments/email_006521/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 3958,
+      "path": "attachments/email_006521/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 28084
+}

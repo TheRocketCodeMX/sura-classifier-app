@@ -1,0 +1,41 @@
+{
+  "id": "email_007757",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:41.048511",
+  "subject": "Apoyo para actualizar propuesta  IGLESIA CRISTIANA INTERDENOMINACIONAL Colima",
+  "sender_name": "Silvia Garduño",
+  "delivery_time": "2025-08-18T18:53:26.689462",
+  "creation_time": "2025-08-18T23:29:41.257074",
+  "modification_time": "2025-08-18T23:30:08.776942",
+  "attachment_count": 5,
+  "eml_file": "emails/email_007757.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 583343,
+      "path": "attachments/email_007757/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 583343,
+      "path": "attachments/email_007757/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 853685,
+      "path": "attachments/email_007757/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 25872,
+      "path": "attachments/email_007757/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 666273,
+      "path": "attachments/email_007757/attachment_4"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 33923
+}

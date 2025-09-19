@@ -1,0 +1,41 @@
+{
+  "id": "email_002796",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:43.490368",
+  "subject": "RV: EMISION / PROBOCA / EPRESARIAL 2025",
+  "sender_name": "Mesa Monterrey",
+  "delivery_time": "2025-08-14T21:32:21.818521",
+  "creation_time": "2025-08-18T14:27:55.970050",
+  "modification_time": "2025-08-18T17:28:14.597511",
+  "attachment_count": 5,
+  "eml_file": "emails/email_002796.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 110535,
+      "path": "attachments/email_002796/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 853685,
+      "path": "attachments/email_002796/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 441542,
+      "path": "attachments/email_002796/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 1059100,
+      "path": "attachments/email_002796/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 3958,
+      "path": "attachments/email_002796/attachment_4"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 254847
+}

@@ -1,0 +1,41 @@
+{
+  "id": "email_001538",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:12.904309",
+  "subject": "RV: OT 10184553 | RC CJF CM 1 | ESTAFETA | 1-430-400043192 / 4",
+  "sender_name": "Martinez Juarez Cynthia Alejandra",
+  "delivery_time": "2025-08-07T02:09:49.933346",
+  "creation_time": "2025-08-20T19:30:14.702211",
+  "modification_time": "2025-08-20T19:30:37.567324",
+  "attachment_count": 5,
+  "eml_file": "emails/email_001538.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 88429,
+      "path": "attachments/email_001538/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 5948,
+      "path": "attachments/email_001538/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 17416,
+      "path": "attachments/email_001538/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 16334,
+      "path": "attachments/email_001538/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 853685,
+      "path": "attachments/email_001538/attachment_4"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 26250
+}

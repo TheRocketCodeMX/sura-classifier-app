@@ -1,0 +1,31 @@
+{
+  "id": "email_000027",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:24:36.016981",
+  "subject": "CT-31986//MAS SEGUROS Renovación//ADANELY REYES SOTELO\t//SURA Agte 9260",
+  "sender_name": "Karen Rodríguez Ruíz",
+  "delivery_time": "2025-08-06T00:29:04.172424",
+  "creation_time": "2025-08-07T00:15:34.025873",
+  "modification_time": "2025-08-07T00:16:01.816518",
+  "attachment_count": 3,
+  "eml_file": "emails/email_000027.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 109988,
+      "path": "attachments/email_000027/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 21736,
+      "path": "attachments/email_000027/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 29082,
+      "path": "attachments/email_000027/attachment_2"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 2619
+}

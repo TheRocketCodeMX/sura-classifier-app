@@ -1,0 +1,26 @@
+{
+  "id": "email_005076",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:35.670889",
+  "subject": "COTIZACION / 605 / M. TEPATITLAN DE MORELOS / 8735 GRALCO",
+  "sender_name": "Ahiled Renteria",
+  "delivery_time": "2025-08-05T18:13:04.363042",
+  "creation_time": "2025-08-07T15:03:34.343020",
+  "modification_time": "2025-08-07T15:03:52.084360",
+  "attachment_count": 2,
+  "eml_file": "emails/email_005076.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 68884,
+      "path": "attachments/email_005076/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 17720,
+      "path": "attachments/email_005076/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 4425
+}

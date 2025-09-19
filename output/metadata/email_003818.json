@@ -1,0 +1,36 @@
+{
+  "id": "email_003818",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:26:06.245265",
+  "subject": "RV: SOLICITUD DE COTIZACION GMM / STUCKI / SURA",
+  "sender_name": "Mesa Monterrey",
+  "delivery_time": "2025-08-18T18:00:38.467277",
+  "creation_time": "2025-08-19T00:17:03.205978",
+  "modification_time": "2025-08-19T00:17:46.005718",
+  "attachment_count": 4,
+  "eml_file": "emails/email_003818.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 7912,
+      "path": "attachments/email_003818/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 117612,
+      "path": "attachments/email_003818/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 64996,
+      "path": "attachments/email_003818/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 3958,
+      "path": "attachments/email_003818/attachment_3"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 14462
+}

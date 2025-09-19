@@ -1,0 +1,21 @@
+{
+  "id": "email_000054",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:24:36.520461",
+  "subject": "Seguros Sura | Documentos para Rehabilitación de Póliza.",
+  "sender_name": "Atencion Cobranza",
+  "delivery_time": "2025-08-05T23:20:27.146627",
+  "creation_time": "2025-08-07T14:21:19.504915",
+  "modification_time": "2025-08-07T14:21:23.709636",
+  "attachment_count": 1,
+  "eml_file": "emails/email_000054.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 853685,
+      "path": "attachments/email_000054/attachment_0"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 36266
+}

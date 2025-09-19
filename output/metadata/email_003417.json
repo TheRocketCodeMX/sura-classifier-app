@@ -1,0 +1,41 @@
+{
+  "id": "email_003417",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:57.086064",
+  "subject": "RE: COVAF + DEVOLUCION NC  |  42190",
+  "sender_name": "Gomez Andrade Melissa",
+  "delivery_time": "2025-08-19T18:33:47.128958",
+  "creation_time": "2025-08-21T16:56:08.644030",
+  "modification_time": "2025-08-21T17:03:16.870680",
+  "attachment_count": 5,
+  "eml_file": "emails/email_003417.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 853685,
+      "path": "attachments/email_003417/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 27148,
+      "path": "attachments/email_003417/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 3452,
+      "path": "attachments/email_003417/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 9088,
+      "path": "attachments/email_003417/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 7753,
+      "path": "attachments/email_003417/attachment_4"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 23190
+}

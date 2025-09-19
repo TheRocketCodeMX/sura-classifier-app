@@ -1,0 +1,21 @@
+{
+  "id": "email_001302",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:06.302775",
+  "subject": "ALTAS POL. 202 NITROPISO",
+  "sender_name": "Malinalli Juarez Perez",
+  "delivery_time": "2025-08-04T18:15:10.721823",
+  "creation_time": "2025-08-05T14:25:43.796336",
+  "modification_time": "2025-08-05T14:48:29.308693",
+  "attachment_count": 1,
+  "eml_file": "emails/email_001302.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 10666,
+      "path": "attachments/email_001302/attachment_0"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 2331
+}

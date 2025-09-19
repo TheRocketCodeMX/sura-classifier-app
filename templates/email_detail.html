@@ -1,0 +1,384 @@
+{% extends "base.html" %}
+
+{% block title %}Email {{ email_id }} - Detalle{% endblock %}
+
+{% block content %}
+<div class="d-flex justify-content-between align-items-center mb-4">
+    <h1 class="h2 fw-bold mb-0">Detalle del Email</h1>
+    <div>
+        <a href="/search" class="btn btn-outline-secondary btn-minimal">
+            ← Volver
+        </a>
+        <a href="{{ GOOGLE_DRIVE_FOLDER_URL }}" target="_blank" class="btn btn-success btn-minimal">
+            Ver en Google Drive
+        </a>
+        <a href="/download/{{ email_id }}" class="btn btn-primary btn-minimal">
+            Descargar Local
+        </a>
+    </div>
+</div>
+
+<!-- Información del Email -->
+<div class="card mb-4">
+    <div class="card-header">
+        <h5>Información General</h5>
+    </div>
+    <div class="card-body">
+        <div class="row">
+            <div class="col-md-6">
+                <table class="table table-sm">
+                    <tr>
+                        <td><strong>ID del Email:</strong></td>
+                        <td><code>{{ email_id }}</code></td>
+                    </tr>
+                    <tr>
+                        <td><strong>Asunto:</strong></td>
+                        <td>{{ email.metadata.subject or 'Sin asunto' }}</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Remitente:</strong></td>
+                        <td>
+                            {{ email.metadata.sender_name or 'N/A' }}
+                            {% if email.metadata.sender_email %}
+                            <br><small class="text-muted">{{ email.metadata.sender_email }}</small>
+                            {% endif %}
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><strong>Fecha de Entrega:</strong></td>
+                        <td>{{ email.metadata.delivery_time or 'N/A' }}</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Carpeta de Origen:</strong></td>
+                        <td>{{ email.metadata.folder or 'N/A' }}</td>
+                    </tr>
+                </table>
+            </div>
+            <div class="col-md-6">
+                <table class="table table-sm">
+                    <tr>
+                        <td><strong>Tamaño:</strong></td>
+                        <td>{{ (email.metadata.size or 0) | filesizeformat }}</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Adjuntos:</strong></td>
+                        <td>{{ email.metadata.attachment_count or 0 }}</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Texto Plano:</strong></td>
+                        <td>{{ email.metadata.plain_text_length or 0 }} caracteres</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Contenido HTML:</strong></td>
+                        <td>{{ email.metadata.html_content_length or 0 }} caracteres</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Fecha de Extracción:</strong></td>
+                        <td>{{ email.metadata.extraction_date or 'N/A' }}</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Clasificación -->
+{% if email.classification %}
+<div class="card mb-4">
+    <div class="card-header">
+        <h5>Clasificación Automática</h5>
+    </div>
+    <div class="card-body">
+        <div class="row">
+            <div class="col-md-4">
+                <h6>Clasificación Principal</h6>
+                {% set primary = email.classification.primary_classification %}
+                {% if primary.type == 'cotizacion' %}
+                    <span class="badge cotizacion badge-minimal fs-6">Cotización</span>
+                {% elif primary.type == 'renovacion' %}
+                    <span class="badge renovacion badge-minimal fs-6">Renovación</span>
+                {% elif primary.type == 'endoso' %}
+                    <span class="badge endoso badge-minimal fs-6">Endoso</span>
+                {% else %}
+                    <span class="badge sin_clasificar badge-minimal fs-6">Sin Clasificar</span>
+                {% endif %}
+                <p class="mt-2 mb-0">
+                    <strong>Confianza:</strong> {{ primary.confidence }}%<br>
+                    <strong>Estado:</strong> {{ primary.status or 'N/A' }}
+                </p>
+            </div>
+            <div class="col-md-8">
+                <h6>Criterios Detectados</h6>
+                {% for criteria in primary.details.criteria_met or [] %}
+                <span class="badge bg-light text-dark me-1 mb-1">{{ criteria }}</span>
+                {% endfor %}
+
+                {% if primary.details.agente_code %}
+                <p class="mt-2 mb-1"><strong>Código de Agente:</strong> {{ primary.details.agente_code }}</p>
+                {% endif %}
+
+                {% if primary.details.poliza_number %}
+                <p class="mb-1"><strong>Número de Póliza:</strong> {{ primary.details.poliza_number }}</p>
+                {% endif %}
+            </div>
+        </div>
+
+        <!-- Todas las clasificaciones -->
+        <div class="mt-3">
+            <h6>Todas las Puntuaciones</h6>
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="border rounded p-2">
+                        <strong>Cotización:</strong> {{ email.classification.classifications.cotizacion.confidence }}%
+                        {% if email.classification.classifications.cotizacion.is_cotizacion %}
+                        <span class="badge bg-success">✓</span>
+                        {% endif %}
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="border rounded p-2">
+                        <strong>Renovación:</strong> {{ email.classification.classifications.renovacion.confidence }}%
+                        {% if email.classification.classifications.renovacion.is_renovacion %}
+                        <span class="badge bg-success">✓</span>
+                        {% endif %}
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="border rounded p-2">
+                        <strong>Endoso:</strong> {{ email.classification.classifications.endoso.confidence }}%
+                        {% if email.classification.classifications.endoso.is_endoso %}
+                        <span class="badge bg-success">✓</span>
+                        {% endif %}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endif %}
+
+<!-- Adjuntos -->
+{% if email.attachments %}
+<div class="card mb-4">
+    <div class="card-header">
+        <h5>Adjuntos ({{ email.attachments|length }})</h5>
+    </div>
+    <div class="card-body">
+        <div class="table-responsive">
+            <table class="table table-hover">
+                <thead>
+                    <tr>
+                        <th>Archivo</th>
+                        <th>Tipo</th>
+                        <th>Tamaño</th>
+                        <th>Acciones</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for attachment in email.attachments %}
+                    <tr class="attachment-row">
+                        <td>
+                            <div class="d-flex align-items-center">
+                                <div class="me-2">
+                                    <span class="badge {{ attachment.color_class }} badge-minimal">
+                                        {{ attachment.extension.upper() or 'FILE' }}
+                                    </span>
+                                </div>
+                                <div>
+                                    <div class="fw-medium">{{ attachment.name }}</div>
+                                    <small class="text-muted">{{ attachment.mime_type }}</small>
+                                </div>
+                            </div>
+                        </td>
+                        <td>
+                            <span class="badge {{ attachment.color_class }} badge-minimal">
+                                {{ attachment.type }}
+                            </span>
+                        </td>
+                        <td class="text-muted">
+                            {{ attachment.size | filesizeformat }}
+                        </td>
+                        <td>
+                            <a href="{{ GOOGLE_DRIVE_FOLDER_URL }}" target="_blank"
+                               class="btn btn-sm btn-outline-success btn-minimal">
+                                Ver en Drive
+                            </a>
+                            <a href="/download/attachment/{{ email_id }}/{{ attachment.name }}"
+                               class="btn btn-sm btn-outline-primary btn-minimal"
+                               download="{{ attachment.name }}">
+                                Local
+                            </a>
+                        </td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+{% endif %}
+
+<!-- Contenido del Email -->
+<div class="card mb-4">
+    <div class="card-header">
+        <div class="d-flex justify-content-between align-items-center">
+            <h5>Contenido del Email</h5>
+            <div class="btn-group" role="group">
+                <input type="radio" class="btn-check" name="contentType" id="plainText" autocomplete="off" checked>
+                <label class="btn btn-outline-primary" for="plainText">Texto Plano</label>
+
+                <input type="radio" class="btn-check" name="contentType" id="htmlContent" autocomplete="off">
+                <label class="btn btn-outline-primary" for="htmlContent">HTML</label>
+            </div>
+        </div>
+    </div>
+    <div class="card-body">
+        <!-- Texto Plano -->
+        <div id="plainTextContent" class="content-section">
+            {% if email.content.plain_text %}
+            <pre class="bg-light p-3 rounded" style="white-space: pre-wrap; max-height: 400px; overflow-y: auto;">{{ email.content.plain_text }}</pre>
+            {% else %}
+            <div class="alert alert-info">No hay contenido en texto plano disponible.</div>
+            {% endif %}
+        </div>
+
+        <!-- Contenido HTML -->
+        <div id="htmlContentSection" class="content-section d-none">
+            {% if email.content.html_content %}
+            <div class="mb-2">
+                <button class="btn btn-sm btn-outline-secondary btn-minimal" onclick="toggleHtmlView()">
+                    Alternar Vista (Código/Renderizado)
+                </button>
+            </div>
+
+            <!-- Código HTML -->
+            <div id="htmlCode">
+                <pre class="bg-light p-3 rounded" style="white-space: pre-wrap; max-height: 400px; overflow-y: auto; font-size: 0.8em;">{{ email.content.html_content }}</pre>
+            </div>
+
+            <!-- HTML Renderizado -->
+            <div id="htmlRendered" class="d-none border p-3 rounded" style="max-height: 400px; overflow-y: auto;">
+                <!-- HTML content will be inserted here safely -->
+            </div>
+            {% else %}
+            <div class="alert alert-info">No hay contenido HTML disponible.</div>
+            {% endif %}
+        </div>
+    </div>
+</div>
+
+<!-- Análisis Técnico -->
+<div class="card">
+    <div class="card-header">
+        <h5>Análisis Técnico</h5>
+    </div>
+    <div class="card-body">
+        <div class="row">
+            {% if email.classification %}
+            <div class="col-md-6">
+                <h6>Análisis de Adjuntos</h6>
+                {% set attachment_analysis = email.classification.attachment_analysis %}
+                <ul class="list-unstyled">
+                    <li><strong>Total de adjuntos:</strong> {{ attachment_analysis.total_attachments }}</li>
+                    <li><strong>Tiene SLIP:</strong>
+                        {% if attachment_analysis.has_slip %}
+                        <span class="badge bg-success">Sí</span>
+                        {% else %}
+                        <span class="badge bg-secondary">No</span>
+                        {% endif %}
+                    </li>
+                    {% if attachment_analysis.has_slip %}
+                    <li><strong>SLIP completo:</strong>
+                        {% if attachment_analysis.slip_complete %}
+                        <span class="badge bg-success">Sí</span>
+                        {% else %}
+                        <span class="badge bg-warning">No</span>
+                        {% endif %}
+                    </li>
+                    {% endif %}
+                    <li><strong>PDFs de cotización:</strong> {{ attachment_analysis.pdf_cotizacion|length }}</li>
+                    <li><strong>PDFs de póliza:</strong> {{ attachment_analysis.pdf_poliza|length }}</li>
+                    <li><strong>PDFs de renovación:</strong> {{ attachment_analysis.pdf_renovacion|length }}</li>
+                    <li><strong>PDFs de endoso:</strong> {{ attachment_analysis.pdf_endoso|length }}</li>
+                </ul>
+            </div>
+            {% endif %}
+
+            <div class="col-md-6">
+                <h6>Archivos Generados</h6>
+                <ul class="list-unstyled">
+                    <li><a href="/download/{{ email_id }}" download>{{ email_id }}.eml</a></li>
+                    <li><code>{{ email_id }}_metadata.json</code></li>
+                    {% if email.attachments %}
+                    <li>{{ email.attachments|length }} adjunto(s)</li>
+                    {% endif %}
+                </ul>
+
+                <div class="mt-3">
+                    <a href="/download/{{ email_id }}" class="btn btn-success btn-sm btn-minimal">
+                        Descargar Paquete Completo
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+    // Toggle content type
+    document.querySelectorAll('input[name="contentType"]').forEach(radio => {
+        radio.addEventListener('change', function() {
+            document.querySelectorAll('.content-section').forEach(section => {
+                section.classList.add('d-none');
+            });
+
+            if (this.id === 'plainText') {
+                document.getElementById('plainTextContent').classList.remove('d-none');
+            } else if (this.id === 'htmlContent') {
+                document.getElementById('htmlContentSection').classList.remove('d-none');
+            }
+        });
+    });
+
+    let htmlViewMode = 'code'; // 'code' or 'rendered'
+
+    function toggleHtmlView() {
+        const htmlCode = document.getElementById('htmlCode');
+        const htmlRendered = document.getElementById('htmlRendered');
+
+        if (htmlViewMode === 'code') {
+            htmlCode.classList.add('d-none');
+            htmlRendered.classList.remove('d-none');
+
+            // Safely render HTML content
+            const htmlContent = {{ email.content.html_content | tojson }};
+            if (htmlContent) {
+                // Create a sanitized version (basic safety)
+                const sanitized = htmlContent
+                    .replace(/<script\b[^<]*(?:(?!<\/script>)<[^<]*)*<\/script>/gi, '')
+                    .replace(/javascript:/gi, 'javascript-removed:')
+                    .replace(/on\w+\s*=/gi, 'on-event-removed=');
+
+                htmlRendered.innerHTML = sanitized;
+            }
+
+            htmlViewMode = 'rendered';
+        } else {
+            htmlCode.classList.remove('d-none');
+            htmlRendered.classList.add('d-none');
+            htmlViewMode = 'code';
+        }
+    }
+
+    // File size formatter
+    function formatFileSize(bytes) {
+        if (bytes === 0) return '0 Bytes';
+        const k = 1024;
+        const sizes = ['Bytes', 'KB', 'MB', 'GB'];
+        const i = Math.floor(Math.log(bytes) / Math.log(k));
+        return parseFloat((bytes / Math.pow(k, i)).toFixed(2)) + ' ' + sizes[i];
+    }
+</script>
+{% endblock %}

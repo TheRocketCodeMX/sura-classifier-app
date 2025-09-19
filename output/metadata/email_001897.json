@@ -1,0 +1,26 @@
+{
+  "id": "email_001897",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:20.853512",
+  "subject": "RV: RENOVACIÓN HOGAR | SEPTIEMBRE 2024// LAURA ALICIA CALLEROS TORRE //300069317",
+  "sender_name": "Enriquez Rodriguez Hugo Alberto",
+  "delivery_time": "2025-08-06T15:43:54.141516",
+  "creation_time": "2025-08-20T19:54:51.120168",
+  "modification_time": "2025-08-20T20:10:58.522863",
+  "attachment_count": 2,
+  "eml_file": "emails/email_001897.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 160532,
+      "path": "attachments/email_001897/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 17686,
+      "path": "attachments/email_001897/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 12186
+}

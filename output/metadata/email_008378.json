@@ -1,0 +1,41 @@
+{
+  "id": "email_008378",
+  "folder": "Principio del archivo de datos de Outlook/DEPURADOS",
+  "extraction_date": "2025-09-19T12:27:51.631433",
+  "subject": "RE: CPA POL NUEVA 06-024-007-CVTO-B001 Mejoras para renivelación de muros",
+  "sender_name": "Cesar Zamora",
+  "delivery_time": "2025-08-05T18:06:50.200544",
+  "creation_time": "2025-08-05T19:16:17.257171",
+  "modification_time": "2025-08-05T19:16:20.807369",
+  "attachment_count": 5,
+  "eml_file": "emails/email_008378.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 25258,
+      "path": "attachments/email_008378/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 116850,
+      "path": "attachments/email_008378/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 27570,
+      "path": "attachments/email_008378/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 3958,
+      "path": "attachments/email_008378/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 2556,
+      "path": "attachments/email_008378/attachment_4"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 46265
+}

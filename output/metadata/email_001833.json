@@ -1,0 +1,26 @@
+{
+  "id": "email_001833",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:19.623925",
+  "subject": "RE: RENOVACIÓN / PÓLIZA 1-403-300001211 / CENTRO ASTURIANO DE MEXICO",
+  "sender_name": "Trejo Chavez Jaquelin",
+  "delivery_time": "2025-08-06T17:20:17.561617",
+  "creation_time": "2025-08-20T19:50:34.855708",
+  "modification_time": "2025-08-20T20:03:42.981907",
+  "attachment_count": 2,
+  "eml_file": "emails/email_001833.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 853685,
+      "path": "attachments/email_001833/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 19698,
+      "path": "attachments/email_001833/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 60564
+}

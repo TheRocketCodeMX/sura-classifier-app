@@ -1,0 +1,21 @@
+{
+  "id": "email_003722",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:26:04.200804",
+  "subject": "RV: Total de recibos de las pólizas 2-211-78846, 2-211-78848, 2-211-78849 y 2-211-79186",
+  "sender_name": "Mesa Puebla",
+  "delivery_time": "2025-08-18T21:30:34.354593",
+  "creation_time": "2025-08-20T13:08:58.718751",
+  "modification_time": "2025-08-20T13:09:02.401288",
+  "attachment_count": 1,
+  "eml_file": "emails/email_003722.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 3958,
+      "path": "attachments/email_003722/attachment_0"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 11845
+}

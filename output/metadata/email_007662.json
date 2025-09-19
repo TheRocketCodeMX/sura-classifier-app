@@ -1,0 +1,36 @@
+{
+  "id": "email_007662",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:39.235418",
+  "subject": "RV: 8806/ COTIZACION POLIZA DE TRANSPORTE /MARMOLES ARCA",
+  "sender_name": "Mesa Monterrey",
+  "delivery_time": "2025-08-18T22:16:25.643959",
+  "creation_time": "2025-08-20T14:02:25.036346",
+  "modification_time": "2025-08-20T14:04:06.211988",
+  "attachment_count": 4,
+  "eml_file": "emails/email_007662.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 20485,
+      "path": "attachments/email_007662/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 267729,
+      "path": "attachments/email_007662/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 149034,
+      "path": "attachments/email_007662/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 3958,
+      "path": "attachments/email_007662/attachment_3"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 15758
+}

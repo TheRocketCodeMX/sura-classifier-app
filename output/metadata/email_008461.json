@@ -1,0 +1,21 @@
+{
+  "id": "email_008461",
+  "folder": "Principio del archivo de datos de Outlook/DEPURADOS",
+  "extraction_date": "2025-09-19T12:27:52.170240",
+  "subject": "No se puede entregar: RE: RECIBO SUBSECUENTE DE POLIZA VIDA No. 1 - 901 - 6111 ASEGURADO RICARDO JAVIER SANCHEZ BAKER // AGENTE 5679.- JUSTO AGUSTIN RAMIREZ VALLE.// 2529109  ",
+  "sender_name": "Microsoft Outlook",
+  "delivery_time": "2025-08-07T22:08:53.538223",
+  "creation_time": "2025-08-07T22:08:53.282728",
+  "modification_time": "2025-08-07T22:08:55.677891",
+  "attachment_count": 1,
+  "eml_file": "emails/email_008461.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 10526,
+      "path": "attachments/email_008461/attachment_0"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 13455
+}

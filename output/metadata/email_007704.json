@@ -1,0 +1,26 @@
+{
+  "id": "email_007704",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:39.922095",
+  "subject": "RV: RENOVACION VG GS1 2025 - SURA",
+  "sender_name": "Animas Guerrero Hector Alfonso",
+  "delivery_time": "2025-08-18T21:35:10.089953",
+  "creation_time": "2025-08-20T15:13:32.044973",
+  "modification_time": "2025-08-20T15:18:28.174393",
+  "attachment_count": 2,
+  "eml_file": "emails/email_007704.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 285184,
+      "path": "attachments/email_007704/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 853685,
+      "path": "attachments/email_007704/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 19645
+}

@@ -1,0 +1,26 @@
+{
+  "id": "email_004969",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:33.235548",
+  "subject": "606/ALA AZUL/RENOVACIÓN JULIO-AGOSTO/BARAJAS PEÑA VERONICA/3/30002030/007239 // AA571",
+  "sender_name": "arodriguez@bessonseguros.com",
+  "delivery_time": "2025-08-04T22:27:24.895635",
+  "creation_time": "2025-08-06T13:46:07.348743",
+  "modification_time": "2025-08-05T14:40:46.643638",
+  "attachment_count": 2,
+  "eml_file": "emails/email_004969.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 122827,
+      "path": "attachments/email_004969/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 64776,
+      "path": "attachments/email_004969/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 4126
+}

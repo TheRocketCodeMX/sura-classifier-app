@@ -1,0 +1,36 @@
+{
+  "id": "email_004545",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:22.696259",
+  "subject": "RE: PLD //  DESARROLLADORA BOSQUES DEL ENCINO // ESTATUS // DBE0603087W6",
+  "sender_name": "Lopez Manzano Jennifer",
+  "delivery_time": "2025-08-05T19:54:05.935372",
+  "creation_time": "2025-08-05T22:29:39.595505",
+  "modification_time": "2025-08-05T22:30:04.990954",
+  "attachment_count": 4,
+  "eml_file": "emails/email_004545.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 1148466,
+      "path": "attachments/email_004545/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 853685,
+      "path": "attachments/email_004545/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 11427,
+      "path": "attachments/email_004545/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 3958,
+      "path": "attachments/email_004545/attachment_3"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 49142
+}

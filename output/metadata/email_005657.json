@@ -1,0 +1,46 @@
+{
+  "id": "email_005657",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:50.480455",
+  "subject": "TRAMITE: SOLICITUD ENDOSO B-10 || FECHA: 18-07-2025 || POLIZA: 197-0 || CONTRATANTE: COMPAÑIA EDITORIAL ULTRA || OF: 01 || RAMO: 430/DAÑOS || CIA: SURA || AGENTE_00584 || LA-011-L6J-011L6J001-N-77-2025",
+  "sender_name": "Jose Vargas",
+  "delivery_time": "2025-08-06T21:14:20.482109",
+  "creation_time": "2025-08-20T19:39:42.411311",
+  "modification_time": "2025-08-20T19:43:43.677097",
+  "attachment_count": 6,
+  "eml_file": "emails/email_005657.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 156249,
+      "path": "attachments/email_005657/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 513707,
+      "path": "attachments/email_005657/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 454664,
+      "path": "attachments/email_005657/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 518410,
+      "path": "attachments/email_005657/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 398620,
+      "path": "attachments/email_005657/attachment_4"
+    },
+    {
+      "filename": "attachment_5",
+      "size": 162524,
+      "path": "attachments/email_005657/attachment_5"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 8174
+}

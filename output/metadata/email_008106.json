@@ -1,0 +1,26 @@
+{
+  "id": "email_008106",
+  "folder": "Principio del archivo de datos de Outlook/DEPURADOS",
+  "extraction_date": "2025-09-19T12:27:47.069252",
+  "subject": "Seguros Sura | Documentos para Rehabilitación de Póliza.",
+  "sender_name": "Atencion Cobranza",
+  "delivery_time": "2025-08-05T23:18:05.656253",
+  "creation_time": "2025-08-11T20:16:28.406121",
+  "modification_time": "2025-08-11T20:16:37.428655",
+  "attachment_count": 2,
+  "eml_file": "emails/email_008106.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 853685,
+      "path": "attachments/email_008106/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 853685,
+      "path": "attachments/email_008106/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 20880
+}

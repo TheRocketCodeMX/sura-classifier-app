@@ -1,0 +1,31 @@
+{
+  "id": "email_005801",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:53.905374",
+  "subject": "RV: Cotización (negocio NUEVO) VG y GMM - HAPAG LLOYD (Sura) [CID-1365048003]",
+  "sender_name": "Animas Guerrero Hector Alfonso",
+  "delivery_time": "2025-08-06T17:39:39.557691",
+  "creation_time": "2025-08-20T19:49:12.296039",
+  "modification_time": "2025-08-20T20:01:20.091046",
+  "attachment_count": 3,
+  "eml_file": "emails/email_005801.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 320,
+      "path": "attachments/email_005801/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 983481,
+      "path": "attachments/email_005801/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 853685,
+      "path": "attachments/email_005801/attachment_2"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 27858
+}

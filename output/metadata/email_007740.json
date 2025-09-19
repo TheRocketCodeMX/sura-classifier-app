@@ -1,0 +1,21 @@
+{
+  "id": "email_007740",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:40.721257",
+  "subject": "RV: LISTADO ANTIGUEDAD SGMM PERSONAL EL ECONOMISTA ",
+  "sender_name": "Vazquez Romero Adrian",
+  "delivery_time": "2025-08-18T19:34:12.248645",
+  "creation_time": "2025-08-18T23:10:09.268026",
+  "modification_time": "2025-08-18T23:10:27.491224",
+  "attachment_count": 1,
+  "eml_file": "emails/email_007740.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 723075,
+      "path": "attachments/email_007740/attachment_0"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 323933
+}

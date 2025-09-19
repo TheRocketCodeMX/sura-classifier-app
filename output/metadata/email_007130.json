@@ -1,0 +1,26 @@
+{
+  "id": "email_007130",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:27.872512",
+  "subject": "RV: Actualización de datos fiscales / POL 1-211-2414347 ",
+  "sender_name": "Aviles Perez Beatriz Clotilde",
+  "delivery_time": "2025-08-15T20:29:17.953809",
+  "creation_time": "2025-08-19T13:08:39.606493",
+  "modification_time": "2025-08-19T13:08:58.252297",
+  "attachment_count": 2,
+  "eml_file": "emails/email_007130.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 138160,
+      "path": "attachments/email_007130/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 853685,
+      "path": "attachments/email_007130/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 19199
+}

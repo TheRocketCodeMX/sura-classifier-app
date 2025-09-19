@@ -1,0 +1,51 @@
+{
+  "id": "email_005420",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:44.455740",
+  "subject": "RV: Propuesta Renovación Seguro Flotilla || Grupo Premsol || Grupo 5031",
+  "sender_name": "Arizmendi Zuniga Giselle Airam",
+  "delivery_time": "2025-08-04T19:05:05.738821",
+  "creation_time": "2025-08-06T09:24:59.592426",
+  "modification_time": "2025-08-06T09:26:23.032861",
+  "attachment_count": 7,
+  "eml_file": "emails/email_005420.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 3973,
+      "path": "attachments/email_005420/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 853685,
+      "path": "attachments/email_005420/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 116850,
+      "path": "attachments/email_005420/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 27570,
+      "path": "attachments/email_005420/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 3958,
+      "path": "attachments/email_005420/attachment_4"
+    },
+    {
+      "filename": "attachment_5",
+      "size": 175562,
+      "path": "attachments/email_005420/attachment_5"
+    },
+    {
+      "filename": "attachment_6",
+      "size": 26832,
+      "path": "attachments/email_005420/attachment_6"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 105652
+}

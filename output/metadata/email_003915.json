@@ -1,0 +1,26 @@
+{
+  "id": "email_003915",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:26:08.313549",
+  "subject": "RV: SURA || Cotización programa GMM || INLAB IM || Vigencia 19 de Septiembre",
+  "sender_name": "Mesa Monterrey",
+  "delivery_time": "2025-08-18T16:02:17.350183",
+  "creation_time": "2025-08-18T23:56:09.910306",
+  "modification_time": "2025-08-18T23:56:29.842115",
+  "attachment_count": 2,
+  "eml_file": "emails/email_003915.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 3958,
+      "path": "attachments/email_003915/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 788895,
+      "path": "attachments/email_003915/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 83929
+}

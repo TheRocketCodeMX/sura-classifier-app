@@ -1,0 +1,36 @@
+{
+  "id": "email_002903",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:45.190286",
+  "subject": "RV: Solicitud PYMES Inter | GRUPO FERROCARRILERO DEL SURESTE",
+  "sender_name": "Martinez Juarez Cynthia Alejandra",
+  "delivery_time": "2025-08-14T23:47:59.371027",
+  "creation_time": "2025-08-18T17:31:25.835209",
+  "modification_time": "2025-08-18T17:35:03.770637",
+  "attachment_count": 4,
+  "eml_file": "emails/email_002903.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 113714,
+      "path": "attachments/email_002903/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 853685,
+      "path": "attachments/email_002903/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 823,
+      "path": "attachments/email_002903/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 14546,
+      "path": "attachments/email_002903/attachment_3"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 53117
+}

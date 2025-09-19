@@ -1,0 +1,26 @@
+{
+  "id": "email_001593",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:14.187998",
+  "subject": "RV: COTIZACION EMPRESARIAL PAPAYA PLAYA",
+  "sender_name": "Gomez Andrade Melissa",
+  "delivery_time": "2025-08-06T23:04:33.090831",
+  "creation_time": "2025-08-20T19:34:56.240761",
+  "modification_time": "2025-08-20T19:35:47.637121",
+  "attachment_count": 2,
+  "eml_file": "emails/email_001593.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 346383,
+      "path": "attachments/email_001593/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 853685,
+      "path": "attachments/email_001593/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 33303
+}

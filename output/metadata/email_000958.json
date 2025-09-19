@@ -1,0 +1,31 @@
+{
+  "id": "email_000958",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:24:58.606651",
+  "subject": "FLOW MEXA  3-430-100006653 COTIZACION INCREMENTO SUMA ASEGURADA EN RC URGENTE",
+  "sender_name": "Lourdes del Carmen Magdaleno Torrescano",
+  "delivery_time": "2025-08-04T19:35:11.025457",
+  "creation_time": "2025-08-06T13:52:16.232878",
+  "modification_time": "2025-08-06T14:06:12.279913",
+  "attachment_count": 3,
+  "eml_file": "emails/email_000958.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 88167,
+      "path": "attachments/email_000958/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 188102,
+      "path": "attachments/email_000958/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 159732,
+      "path": "attachments/email_000958/attachment_2"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 6432
+}

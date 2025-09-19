@@ -1,0 +1,31 @@
+{
+  "id": "email_000668",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:24:50.996275",
+  "subject": "RV: PROMOCIÓN Y OPERACIÓN, S.A. DE C.V. || RCG || SURA",
+  "sender_name": "Arzate Jimenez Estephanie Julieta",
+  "delivery_time": "2025-08-04T18:50:47.547040",
+  "creation_time": "2025-08-05T15:04:04.527615",
+  "modification_time": "2025-08-05T15:11:01.006855",
+  "attachment_count": 3,
+  "eml_file": "emails/email_000668.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 576646,
+      "path": "attachments/email_000668/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 59521,
+      "path": "attachments/email_000668/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 853685,
+      "path": "attachments/email_000668/attachment_2"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 15820
+}

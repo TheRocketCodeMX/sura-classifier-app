@@ -1,0 +1,21 @@
+{
+  "id": "email_006960",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:24.273228",
+  "subject": "RV: ASADERo CIEN || PROPUESTA EMPRESARIAL || RENOVACIÓN",
+  "sender_name": "Gandara Godinez Lia",
+  "delivery_time": "2025-08-15T15:10:35.142549",
+  "creation_time": "2025-08-18T17:30:37.392669",
+  "modification_time": "2025-08-18T17:32:06.615302",
+  "attachment_count": 1,
+  "eml_file": "emails/email_006960.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 853685,
+      "path": "attachments/email_006960/attachment_0"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 15664
+}

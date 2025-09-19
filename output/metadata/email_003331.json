@@ -1,0 +1,31 @@
+{
+  "id": "email_003331",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:55.196199",
+  "subject": "RV: COTIZACION SEGURO EMPRESARIAL TORRE ALBERO 2",
+  "sender_name": "Del Valle Carpinteiro Alfredo",
+  "delivery_time": "2025-08-19T21:27:04.701816",
+  "creation_time": "2025-08-21T13:42:30.902304",
+  "modification_time": "2025-08-21T13:45:12.166616",
+  "attachment_count": 3,
+  "eml_file": "emails/email_003331.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 48128,
+      "path": "attachments/email_003331/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 557185,
+      "path": "attachments/email_003331/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 853685,
+      "path": "attachments/email_003331/attachment_2"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 14097
+}

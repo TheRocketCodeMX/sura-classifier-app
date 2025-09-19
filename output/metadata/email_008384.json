@@ -1,0 +1,46 @@
+{
+  "id": "email_008384",
+  "folder": "Principio del archivo de datos de Outlook/DEPURADOS",
+  "extraction_date": "2025-09-19T12:27:51.709807",
+  "subject": "RE: Póliza de obra - Proyecto IN-CDMX-B001 UTEP Cubierta Pol. 1147 OT  17021641",
+  "sender_name": "Cesar Zamora",
+  "delivery_time": "2025-08-05T18:20:44.514804",
+  "creation_time": "2025-08-05T19:21:51.251528",
+  "modification_time": "2025-08-05T19:22:22.712397",
+  "attachment_count": 6,
+  "eml_file": "emails/email_008384.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 25215,
+      "path": "attachments/email_008384/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 587206,
+      "path": "attachments/email_008384/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 853685,
+      "path": "attachments/email_008384/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 59568,
+      "path": "attachments/email_008384/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 2556,
+      "path": "attachments/email_008384/attachment_4"
+    },
+    {
+      "filename": "attachment_5",
+      "size": 31614,
+      "path": "attachments/email_008384/attachment_5"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 121835
+}

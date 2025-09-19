@@ -1,0 +1,26 @@
+{
+  "id": "email_003798",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:26:05.771412",
+  "subject": "EMISIONES SISEGUROS 6284/sis ot-0711006 sura villa tapia ilda margarita, chevrolet sonic 2014.pdf",
+  "sender_name": "SISEGUROS",
+  "delivery_time": "2025-08-18T18:16:41.271567",
+  "creation_time": "2025-08-18T18:25:01.827624",
+  "modification_time": "2025-08-18T18:25:19.178441",
+  "attachment_count": 2,
+  "eml_file": "emails/email_003798.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 5040,
+      "path": "attachments/email_003798/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 224886,
+      "path": "attachments/email_003798/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 8895
+}

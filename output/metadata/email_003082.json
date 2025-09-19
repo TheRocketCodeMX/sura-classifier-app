@@ -1,0 +1,36 @@
+{
+  "id": "email_003082",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:50.032224",
+  "subject": "RV: Emisión Tiida Sura",
+  "sender_name": "Licona Tamayo Cristopher",
+  "delivery_time": "2025-08-15T18:29:03.882482",
+  "creation_time": "2025-08-19T00:19:22.816059",
+  "modification_time": "2025-08-19T00:19:42.052469",
+  "attachment_count": 4,
+  "eml_file": "emails/email_003082.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 29614,
+      "path": "attachments/email_003082/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 853685,
+      "path": "attachments/email_003082/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 319423,
+      "path": "attachments/email_003082/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 331264,
+      "path": "attachments/email_003082/attachment_3"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 42495
+}

@@ -1,0 +1,36 @@
+{
+  "id": "email_004792",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:29.131563",
+  "subject": "RE: CT-31915//MAS SEGUROS Nueva//GUSTAVO ADOLFO NUÑEZ GUTIERREZ//SURA Agte 9260",
+  "sender_name": "Estrada Huerta Alejandra Berenice",
+  "delivery_time": "2025-08-05T15:07:31.449923",
+  "creation_time": "2025-08-06T14:12:53.553636",
+  "modification_time": "2025-08-06T14:14:02.309874",
+  "attachment_count": 4,
+  "eml_file": "emails/email_004792.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 103508,
+      "path": "attachments/email_004792/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 14849264,
+      "path": "attachments/email_004792/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 2531,
+      "path": "attachments/email_004792/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 3958,
+      "path": "attachments/email_004792/attachment_3"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 36501
+}

@@ -1,0 +1,26 @@
+{
+  "id": "email_002468",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:34.839757",
+  "subject": "COTIZAR // NEGOCIO NUEVO // Inmobiliaria Lajum SA de CV // EMPRESARIAL",
+  "sender_name": "FRANCISCO SALVADOR ALVAREZ MANZANO",
+  "delivery_time": "2025-08-15T19:42:42.085037",
+  "creation_time": "2025-08-19T15:01:57.559407",
+  "modification_time": "2025-08-19T15:02:16.770834",
+  "attachment_count": 2,
+  "eml_file": "emails/email_002468.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 2210973,
+      "path": "attachments/email_002468/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 550117,
+      "path": "attachments/email_002468/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 11383
+}

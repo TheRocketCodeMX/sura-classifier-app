@@ -1,0 +1,41 @@
+{
+  "id": "email_000963",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:24:58.834272",
+  "subject": "RV: COTIZACION MG GT 2024 S-2524085",
+  "sender_name": "alejandroserrano@onlifeseguros.com",
+  "delivery_time": "2025-08-04T20:01:05.496931",
+  "creation_time": "2025-08-06T13:51:07.720640",
+  "modification_time": "2025-08-06T14:04:14.964704",
+  "attachment_count": 5,
+  "eml_file": "emails/email_000963.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 853685,
+      "path": "attachments/email_000963/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 20076,
+      "path": "attachments/email_000963/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 21683,
+      "path": "attachments/email_000963/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 3473,
+      "path": "attachments/email_000963/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 43392,
+      "path": "attachments/email_000963/attachment_4"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 49649
+}

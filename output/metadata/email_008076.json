@@ -1,0 +1,36 @@
+{
+  "id": "email_008076",
+  "folder": "Principio del archivo de datos de Outlook/DEPURADOS",
+  "extraction_date": "2025-09-19T12:27:46.870940",
+  "subject": "RE: 420 / Hogar / Sol. Endoso / Ernesto Guillermo Ita Gonzalez / Of. 1 / Pól. 300069847 / Agte 3013",
+  "sender_name": "Nancy Castellanos",
+  "delivery_time": "2025-08-05T17:53:01.751122",
+  "creation_time": "2025-08-11T20:17:11.502836",
+  "modification_time": "2025-08-11T20:17:21.083784",
+  "attachment_count": 4,
+  "eml_file": "emails/email_008076.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 196648,
+      "path": "attachments/email_008076/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 7686,
+      "path": "attachments/email_008076/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 853685,
+      "path": "attachments/email_008076/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 196412,
+      "path": "attachments/email_008076/attachment_3"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 14549
+}

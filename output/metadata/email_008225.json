@@ -1,0 +1,26 @@
+{
+  "id": "email_008225",
+  "folder": "Principio del archivo de datos de Outlook/DEPURADOS",
+  "extraction_date": "2025-09-19T12:27:49.260192",
+  "subject": "****6910*****APOYO COTIZACION GUARDERIA NIDO******",
+  "sender_name": "sofiapino@jaraseguros.mx",
+  "delivery_time": "2025-08-04T16:35:56.461835",
+  "creation_time": "2025-08-05T21:34:44.361566",
+  "modification_time": "2025-08-05T21:34:45.622693",
+  "attachment_count": 2,
+  "eml_file": "emails/email_008225.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 45733,
+      "path": "attachments/email_008225/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 45733,
+      "path": "attachments/email_008225/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 13890
+}

@@ -1,0 +1,26 @@
+{
+  "id": "email_000929",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:24:57.974114",
+  "subject": "ENDOSO/ Certificado 122 DE JORGE HUMBERTO OCAMPO QUINTERO/ 902/ 3043 JORGE VILLASEÑOR",
+  "sender_name": "Paola Padilla",
+  "delivery_time": "2025-08-04T17:50:49.146320",
+  "creation_time": "2025-08-06T14:42:25.171649",
+  "modification_time": "2025-08-04T23:51:18.475613",
+  "attachment_count": 2,
+  "eml_file": "emails/email_000929.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 357879,
+      "path": "attachments/email_000929/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 256915,
+      "path": "attachments/email_000929/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 3342
+}

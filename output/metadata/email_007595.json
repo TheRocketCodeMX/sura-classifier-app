@@ -1,0 +1,31 @@
+{
+  "id": "email_007595",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:37.222574",
+  "subject": "RE: CT-31216//MAS SEGUROS Renovación//GRUPO ALCANTARA //SURA Agte 9260",
+  "sender_name": "Karen Rodríguez Ruíz",
+  "delivery_time": "2025-08-18T23:05:34.598140",
+  "creation_time": "2025-08-19T23:28:42.385738",
+  "modification_time": "2025-08-19T23:28:45.643039",
+  "attachment_count": 3,
+  "eml_file": "emails/email_007595.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 29082,
+      "path": "attachments/email_007595/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 35252,
+      "path": "attachments/email_007595/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 656308,
+      "path": "attachments/email_007595/attachment_2"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 7416
+}

@@ -1,0 +1,41 @@
+{
+  "id": "email_000108",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:24:37.962634",
+  "subject": "RV: COTIZACION FLOTILLA DIST ROCHA TULA",
+  "sender_name": "Mesa Puebla",
+  "delivery_time": "2025-08-05T21:44:01.550335",
+  "creation_time": "2025-08-05T23:01:56.654772",
+  "modification_time": "2025-08-05T23:11:15.528136",
+  "attachment_count": 5,
+  "eml_file": "emails/email_000108.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 122099,
+      "path": "attachments/email_000108/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 80294,
+      "path": "attachments/email_000108/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 85284,
+      "path": "attachments/email_000108/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 10830,
+      "path": "attachments/email_000108/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 3958,
+      "path": "attachments/email_000108/attachment_4"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 16660
+}

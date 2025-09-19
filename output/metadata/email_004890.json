@@ -1,0 +1,36 @@
+{
+  "id": "email_004890",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:30.956018",
+  "subject": "RE: COTIZACIÓN/ PLAN PISO/ 4918 ROSARIO ESCOBEDO",
+  "sender_name": "Mendoza Garcia Alma",
+  "delivery_time": "2025-08-04T16:27:55.521567",
+  "creation_time": "2025-08-04T23:38:35.271089",
+  "modification_time": "2025-08-04T23:40:17.038718",
+  "attachment_count": 4,
+  "eml_file": "emails/email_004890.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 823,
+      "path": "attachments/email_004890/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 853685,
+      "path": "attachments/email_004890/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 17276,
+      "path": "attachments/email_004890/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 853685,
+      "path": "attachments/email_004890/attachment_3"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 23825
+}

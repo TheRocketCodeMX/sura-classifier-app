@@ -1,0 +1,31 @@
+{
+  "id": "email_007847",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:42.860002",
+  "subject": "MARSH 7523: COTIZACIÓN: DECATHLON // GMM // HUB FLEX // SURA",
+  "sender_name": "Salazar Espinoza Julian",
+  "delivery_time": "2025-08-18T17:12:25.707987",
+  "creation_time": "2025-08-18T23:30:44.349407",
+  "modification_time": "2025-08-18T23:31:06.952930",
+  "attachment_count": 3,
+  "eml_file": "emails/email_007847.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 23800,
+      "path": "attachments/email_007847/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 1248256,
+      "path": "attachments/email_007847/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 853685,
+      "path": "attachments/email_007847/attachment_2"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 42605
+}

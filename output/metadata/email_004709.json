@@ -1,0 +1,31 @@
+{
+  "id": "email_004709",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:26.909447",
+  "subject": "RV: SURA | Briggs Equipment | Diversos",
+  "sender_name": "Arzate Jimenez Estephanie Julieta",
+  "delivery_time": "2025-08-05T16:59:02.609604",
+  "creation_time": "2025-08-06T18:19:00.296713",
+  "modification_time": "2025-08-06T18:21:12.489642",
+  "attachment_count": 3,
+  "eml_file": "emails/email_004709.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 128815,
+      "path": "attachments/email_004709/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 20033,
+      "path": "attachments/email_004709/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 853685,
+      "path": "attachments/email_004709/attachment_2"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 15242
+}

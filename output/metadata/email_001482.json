@@ -1,0 +1,36 @@
+{
+  "id": "email_001482",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:11.531880",
+  "subject": "RE: COTIZACION // MOTORAD // VIDA GRUPO /",
+  "sender_name": "Arturo Monjaras Vega",
+  "delivery_time": "2025-08-05T18:26:18.026323",
+  "creation_time": "2025-08-06T09:21:46.262106",
+  "modification_time": "2025-08-06T09:22:06.352605",
+  "attachment_count": 4,
+  "eml_file": "emails/email_001482.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 116693,
+      "path": "attachments/email_001482/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 3958,
+      "path": "attachments/email_001482/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 30661,
+      "path": "attachments/email_001482/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 146432,
+      "path": "attachments/email_001482/attachment_3"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 49693
+}

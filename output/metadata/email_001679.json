@@ -1,0 +1,21 @@
+{
+  "id": "email_001679",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:15.929945",
+  "subject": "RE: REFERENCIA PARA PAGO 8-12  POLIZA 211-2397281",
+  "sender_name": "Atencion Cobranza",
+  "delivery_time": "2025-08-06T21:10:20.242346",
+  "creation_time": "2025-08-20T19:40:38.219842",
+  "modification_time": "2025-08-20T19:48:10.154032",
+  "attachment_count": 1,
+  "eml_file": "emails/email_001679.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 169976,
+      "path": "attachments/email_001679/attachment_0"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 19049
+}

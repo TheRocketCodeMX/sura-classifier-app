@@ -1,0 +1,21 @@
+{
+  "id": "email_002433",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:34.082605",
+  "subject": "RV: OFICINA 9 RAMO 421 POLIZA 90000055  CREA PIME AGENTE 03506",
+  "sender_name": "Alvarado Arteaga Maria Gabriela",
+  "delivery_time": "2025-08-14T23:13:27.787926",
+  "creation_time": "2025-08-18T14:53:51.782806",
+  "modification_time": "2025-08-18T14:53:55.290732",
+  "attachment_count": 1,
+  "eml_file": "emails/email_002433.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 853685,
+      "path": "attachments/email_002433/attachment_0"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 19150
+}

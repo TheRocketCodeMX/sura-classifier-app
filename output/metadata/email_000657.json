@@ -1,0 +1,36 @@
+{
+  "id": "email_000657",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:24:50.891816",
+  "subject": "OF1, 501, AG003895, EMI, NA  + /  / EMISIÓN PÓLIZA RC HOTELERIA PAQUETES PALENCIA //HOTEL HASHAARIM SA DE CV Y/O HOTEL CASA BLANCA ",
+  "sender_name": "Mario A Villaseñor S",
+  "delivery_time": "2025-08-04T19:06:24.631927",
+  "creation_time": "2025-08-05T14:09:19.495139",
+  "modification_time": "2025-08-05T23:42:42.122155",
+  "attachment_count": 4,
+  "eml_file": "emails/email_000657.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 18210,
+      "path": "attachments/email_000657/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 7709,
+      "path": "attachments/email_000657/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 163113,
+      "path": "attachments/email_000657/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 60442,
+      "path": "attachments/email_000657/attachment_3"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 101882
+}

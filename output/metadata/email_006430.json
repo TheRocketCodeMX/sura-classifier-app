@@ -1,0 +1,31 @@
+{
+  "id": "email_006430",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:09.563810",
+  "subject": "RE: AGENTE 005213 // EMISION POLIZA ",
+  "sender_name": "Barrueta Alcala Maria Alejandra",
+  "delivery_time": "2025-08-15T03:01:39.893655",
+  "creation_time": "2025-08-18T14:53:07.948788",
+  "modification_time": "2025-08-18T14:53:14.353371",
+  "attachment_count": 3,
+  "eml_file": "emails/email_006430.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 1582672,
+      "path": "attachments/email_006430/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 315607,
+      "path": "attachments/email_006430/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 853685,
+      "path": "attachments/email_006430/attachment_2"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 27302
+}

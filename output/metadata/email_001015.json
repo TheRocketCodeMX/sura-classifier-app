@@ -1,0 +1,31 @@
+{
+  "id": "email_001015",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:24:59.979733",
+  "subject": "Re: COTIZACIÓN/ PLAN PISO/ 4918 ROSARIO ESCOBEDO",
+  "sender_name": "Alexa Aceves",
+  "delivery_time": "2025-08-05T02:39:47.724024",
+  "creation_time": "2025-08-05T23:01:54.869389",
+  "modification_time": "2025-08-05T21:51:16.709013",
+  "attachment_count": 3,
+  "eml_file": "emails/email_001015.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 853685,
+      "path": "attachments/email_001015/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 823,
+      "path": "attachments/email_001015/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 93186,
+      "path": "attachments/email_001015/attachment_2"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 38753
+}

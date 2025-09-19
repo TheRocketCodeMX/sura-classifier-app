@@ -1,0 +1,36 @@
+{
+  "id": "email_007170",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:28.622709",
+  "subject": "RV: RENOVACIÓN ANTICIPADA DAÑOS | SEPTIEMBRE 2025 | OFICINA CDMX AGENTES | 007440 JOSE LUIS RAUL NAVARRETE SANCHEZ",
+  "sender_name": "Yanitzia Arroyo",
+  "delivery_time": "2025-08-15T23:06:07.261268",
+  "creation_time": "2025-08-18T15:31:16.665226",
+  "modification_time": "2025-08-20T03:47:37.687277",
+  "attachment_count": 4,
+  "eml_file": "emails/email_007170.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 60934,
+      "path": "attachments/email_007170/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 4559,
+      "path": "attachments/email_007170/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 178210,
+      "path": "attachments/email_007170/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 130948,
+      "path": "attachments/email_007170/attachment_3"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 34405
+}

@@ -1,0 +1,36 @@
+{
+  "id": "email_003787",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:26:05.626778",
+  "subject": "OF1, 430, AG005126 / FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO",
+  "sender_name": "Herrera Paz Alejandro",
+  "delivery_time": "2025-08-18T18:33:51.654745",
+  "creation_time": "2025-08-20T13:49:06.156283",
+  "modification_time": "2025-08-20T13:49:28.252954",
+  "attachment_count": 4,
+  "eml_file": "emails/email_003787.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 802304,
+      "path": "attachments/email_003787/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 57624,
+      "path": "attachments/email_003787/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 1090304,
+      "path": "attachments/email_003787/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 44727,
+      "path": "attachments/email_003787/attachment_3"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 4626
+}

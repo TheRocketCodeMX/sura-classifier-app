@@ -1,0 +1,46 @@
+{
+  "id": "email_006678",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:16.637636",
+  "subject": "RE:  ACTUALIZACIÓN DE DATOS FISCALES PÓLIZA 1 - 211 - 2415514  SOL.2531432",
+  "sender_name": "Licona Tamayo Cristopher",
+  "delivery_time": "2025-08-14T19:02:10.958713",
+  "creation_time": "2025-08-14T23:23:23.981267",
+  "modification_time": "2025-08-14T23:23:28.994052",
+  "attachment_count": 6,
+  "eml_file": "emails/email_006678.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 823,
+      "path": "attachments/email_006678/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 83393,
+      "path": "attachments/email_006678/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 27570,
+      "path": "attachments/email_006678/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 3482,
+      "path": "attachments/email_006678/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 950,
+      "path": "attachments/email_006678/attachment_4"
+    },
+    {
+      "filename": "attachment_5",
+      "size": 711,
+      "path": "attachments/email_006678/attachment_5"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 59895
+}

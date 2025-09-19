@@ -1,0 +1,26 @@
+{
+  "id": "email_008339",
+  "folder": "Principio del archivo de datos de Outlook/DEPURADOS",
+  "extraction_date": "2025-09-19T12:27:51.210423",
+  "subject": "APLICACION DE SALDO A FAVOR | ALTA DE ELOY Y JOSE MARTIN | DALTUM | 007188 | GMM 4-607",
+  "sender_name": "Yulia Mendoza",
+  "delivery_time": "2025-08-04T17:59:37.222657",
+  "creation_time": "2025-08-04T18:48:49.679274",
+  "modification_time": "2025-08-04T18:49:06.014995",
+  "attachment_count": 2,
+  "eml_file": "emails/email_008339.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 21339,
+      "path": "attachments/email_008339/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 21623,
+      "path": "attachments/email_008339/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 1338
+}

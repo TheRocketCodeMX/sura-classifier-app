@@ -1,0 +1,36 @@
+{
+  "id": "email_002329",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:31.338383",
+  "subject": "COT FLOTILLA JISA",
+  "sender_name": "promotoria1@grupoolea.mx",
+  "delivery_time": "2025-08-14T23:54:47.820206",
+  "creation_time": "2025-08-19T15:26:32.110236",
+  "modification_time": "2025-08-19T15:26:53.681886",
+  "attachment_count": 4,
+  "eml_file": "emails/email_002329.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 569,
+      "path": "attachments/email_002329/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 66322,
+      "path": "attachments/email_002329/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 14713,
+      "path": "attachments/email_002329/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 101985,
+      "path": "attachments/email_002329/attachment_3"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 6513
+}

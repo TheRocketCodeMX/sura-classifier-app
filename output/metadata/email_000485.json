@@ -1,0 +1,26 @@
+{
+  "id": "email_000485",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:24:47.207088",
+  "subject": "RV: Cotización MUTIPLE EMPRESARIAL Contratante RESIDENCIAL REFORMA 2310 RFC RRD160622-D70",
+  "sender_name": "Arzate Jimenez Estephanie Julieta",
+  "delivery_time": "2025-08-05T01:57:56.216371",
+  "creation_time": "2025-08-06T14:18:45.750688",
+  "modification_time": "2025-08-06T14:23:32.328525",
+  "attachment_count": 2,
+  "eml_file": "emails/email_000485.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 122205,
+      "path": "attachments/email_000485/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 853685,
+      "path": "attachments/email_000485/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 13106
+}

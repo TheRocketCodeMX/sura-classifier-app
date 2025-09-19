@@ -1,0 +1,31 @@
+{
+  "id": "email_008555",
+  "folder": "Principio del archivo de datos de Outlook/DEPURADOS",
+  "extraction_date": "2025-09-19T12:27:53.364004",
+  "subject": "RE: SOLICITUD DE SEGUIMIENTO // ENDOSO NUMERO DE SERIE Y PLACAS  // POLIZA 400016928 // FOLIO 260155",
+  "sender_name": "Karla Sarahi Ovando Hernandez",
+  "delivery_time": "2025-08-13T16:36:46.088163",
+  "creation_time": "2025-08-15T16:46:39.690964",
+  "modification_time": "2025-08-15T16:46:43.507749",
+  "attachment_count": 3,
+  "eml_file": "emails/email_008555.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 119500,
+      "path": "attachments/email_008555/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 34675,
+      "path": "attachments/email_008555/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 40677,
+      "path": "attachments/email_008555/attachment_2"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 48295
+}

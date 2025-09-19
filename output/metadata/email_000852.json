@@ -1,0 +1,36 @@
+{
+  "id": "email_000852",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:24:55.968742",
+  "subject": "COTIZACION FLOTAS // ROVE // ROVE AGENTE DE SEGUROS // SURA 9260",
+  "sender_name": "Daniel Barraza",
+  "delivery_time": "2025-08-04T13:50:23.934970",
+  "creation_time": "2025-08-05T14:45:26.559737",
+  "modification_time": "2025-08-05T14:45:58.125000",
+  "attachment_count": 4,
+  "eml_file": "emails/email_000852.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 1157313,
+      "path": "attachments/email_000852/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 315607,
+      "path": "attachments/email_000852/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 82252,
+      "path": "attachments/email_000852/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 112688,
+      "path": "attachments/email_000852/attachment_3"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 26811
+}

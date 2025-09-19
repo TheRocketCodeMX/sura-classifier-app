@@ -1,0 +1,51 @@
+{
+  "id": "email_002617",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:39.364911",
+  "subject": "RV: REGISTRO || CTU IMPULSO SA DE CV || OBRA CIVIL",
+  "sender_name": "Martinez Juarez Cynthia Alejandra",
+  "delivery_time": "2025-08-14T17:17:05.880246",
+  "creation_time": "2025-08-15T18:01:11.831581",
+  "modification_time": "2025-08-15T18:04:59.874641",
+  "attachment_count": 7,
+  "eml_file": "emails/email_002617.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 270561,
+      "path": "attachments/email_002617/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 8958545,
+      "path": "attachments/email_002617/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 15526750,
+      "path": "attachments/email_002617/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 140486,
+      "path": "attachments/email_002617/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 386995,
+      "path": "attachments/email_002617/attachment_4"
+    },
+    {
+      "filename": "attachment_5",
+      "size": 823,
+      "path": "attachments/email_002617/attachment_5"
+    },
+    {
+      "filename": "attachment_6",
+      "size": 853685,
+      "path": "attachments/email_002617/attachment_6"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 22041
+}

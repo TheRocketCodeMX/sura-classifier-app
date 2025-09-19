@@ -1,0 +1,26 @@
+{
+  "id": "email_006363",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:07.844281",
+  "subject": "ALTA DE ASEGURADOS | TECNICOS MONARCH | 9-605-90002016",
+  "sender_name": "Alfredo Raudell García Moreno",
+  "delivery_time": "2025-08-13T19:42:23.323565",
+  "creation_time": "2025-08-15T14:20:05.621431",
+  "modification_time": "2025-08-15T14:20:23.871982",
+  "attachment_count": 2,
+  "eml_file": "emails/email_006363.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 133928,
+      "path": "attachments/email_006363/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 190841,
+      "path": "attachments/email_006363/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 13057
+}

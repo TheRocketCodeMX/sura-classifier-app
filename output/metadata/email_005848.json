@@ -1,0 +1,31 @@
+{
+  "id": "email_005848",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:55.028426",
+  "subject": "RV: Cotización Vida Grupo // TRANSPECIAL TRASLADOS CORPORATIVOS",
+  "sender_name": "Licona Tamayo Cristopher",
+  "delivery_time": "2025-08-06T16:55:07.561325",
+  "creation_time": "2025-08-20T19:52:34.143667",
+  "modification_time": "2025-08-20T20:07:35.293009",
+  "attachment_count": 3,
+  "eml_file": "emails/email_005848.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 3839128,
+      "path": "attachments/email_005848/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 75233,
+      "path": "attachments/email_005848/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 55849,
+      "path": "attachments/email_005848/attachment_2"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 8799
+}

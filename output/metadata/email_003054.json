@@ -1,0 +1,106 @@
+{
+  "id": "email_003054",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:49.272985",
+  "subject": "Re: BVBC-218-25 GMM // PROPUESTA COTIZACIÓN / ZAMABRANDS (ALISUR) / SURA SOL.2530436",
+  "sender_name": "Sara Sánchez Álvarez",
+  "delivery_time": "2025-08-15T17:55:08.127929",
+  "creation_time": "2025-08-19T00:19:42.104003",
+  "modification_time": "2025-08-19T00:19:48.822446",
+  "attachment_count": 18,
+  "eml_file": "emails/email_003054.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 27570,
+      "path": "attachments/email_003054/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 3958,
+      "path": "attachments/email_003054/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 1653,
+      "path": "attachments/email_003054/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 1511,
+      "path": "attachments/email_003054/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 1582,
+      "path": "attachments/email_003054/attachment_4"
+    },
+    {
+      "filename": "attachment_5",
+      "size": 84582,
+      "path": "attachments/email_003054/attachment_5"
+    },
+    {
+      "filename": "attachment_6",
+      "size": 723,
+      "path": "attachments/email_003054/attachment_6"
+    },
+    {
+      "filename": "attachment_7",
+      "size": 766,
+      "path": "attachments/email_003054/attachment_7"
+    },
+    {
+      "filename": "attachment_8",
+      "size": 474,
+      "path": "attachments/email_003054/attachment_8"
+    },
+    {
+      "filename": "attachment_9",
+      "size": 833,
+      "path": "attachments/email_003054/attachment_9"
+    },
+    {
+      "filename": "attachment_10",
+      "size": 2001,
+      "path": "attachments/email_003054/attachment_10"
+    },
+    {
+      "filename": "attachment_11",
+      "size": 1779,
+      "path": "attachments/email_003054/attachment_11"
+    },
+    {
+      "filename": "attachment_12",
+      "size": 1935,
+      "path": "attachments/email_003054/attachment_12"
+    },
+    {
+      "filename": "attachment_13",
+      "size": 96560,
+      "path": "attachments/email_003054/attachment_13"
+    },
+    {
+      "filename": "attachment_14",
+      "size": 725,
+      "path": "attachments/email_003054/attachment_14"
+    },
+    {
+      "filename": "attachment_15",
+      "size": 769,
+      "path": "attachments/email_003054/attachment_15"
+    },
+    {
+      "filename": "attachment_16",
+      "size": 477,
+      "path": "attachments/email_003054/attachment_16"
+    },
+    {
+      "filename": "attachment_17",
+      "size": 833,
+      "path": "attachments/email_003054/attachment_17"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 56225
+}

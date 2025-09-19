@@ -1,0 +1,36 @@
+{
+  "id": "email_007167",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:28.459255",
+  "subject": "RE: SURA // SOLICITUD COTIZACION EMPRESARIAL // VISTANGEL, S.A.P.I. DE C.V.  ",
+  "sender_name": "Jose Nicolas Bucio Macedonio",
+  "delivery_time": "2025-08-15T22:55:36.937620",
+  "creation_time": "2025-08-18T15:31:01.377766",
+  "modification_time": "2025-08-19T13:55:15.246258",
+  "attachment_count": 4,
+  "eml_file": "emails/email_007167.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 26787,
+      "path": "attachments/email_007167/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 32424,
+      "path": "attachments/email_007167/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 32366,
+      "path": "attachments/email_007167/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 1013939,
+      "path": "attachments/email_007167/attachment_3"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 15266
+}

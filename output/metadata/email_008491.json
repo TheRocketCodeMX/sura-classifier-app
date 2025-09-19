@@ -1,0 +1,14 @@
+{
+  "id": "email_008491",
+  "folder": "Principio del archivo de datos de Outlook/DEPURADOS",
+  "extraction_date": "2025-09-19T12:27:52.285685",
+  "subject": "Seguridad de Microsoft 365: hay mensajes en cuarentena",
+  "sender_name": "quarantine@messaging.microsoft.com",
+  "delivery_time": "2025-08-10T01:50:38.180993",
+  "creation_time": "2025-08-10T01:50:37.895216",
+  "modification_time": "2025-08-10T01:50:40.195702",
+  "eml_file": "emails/email_008491.eml",
+  "attachments": [],
+  "plain_text_length": 0,
+  "html_content_length": 26725
+}

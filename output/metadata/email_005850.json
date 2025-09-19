@@ -1,0 +1,36 @@
+{
+  "id": "email_005850",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:55.151404",
+  "subject": "RV: PROPUESTA DE RENOVACION PÓLIZA| 3 400 100000364 GRUPO PARLON Y ASOCIADOS ",
+  "sender_name": "Mesa Guadalajara",
+  "delivery_time": "2025-08-06T16:54:52.271275",
+  "creation_time": "2025-08-20T19:52:51.320908",
+  "modification_time": "2025-08-20T20:07:34.204512",
+  "attachment_count": 4,
+  "eml_file": "emails/email_005850.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 853685,
+      "path": "attachments/email_005850/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 116850,
+      "path": "attachments/email_005850/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 27570,
+      "path": "attachments/email_005850/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 3958,
+      "path": "attachments/email_005850/attachment_3"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 23332
+}

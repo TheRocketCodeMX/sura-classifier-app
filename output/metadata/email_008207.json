@@ -1,0 +1,21 @@
+{
+  "id": "email_008207",
+  "folder": "Principio del archivo de datos de Outlook/DEPURADOS",
+  "extraction_date": "2025-09-19T12:27:48.943516",
+  "subject": "No se puede entregar: RENOVACIÓN ANTICIPADA DAÑOS | SEPTIEMBRE 2025 | OFICINA GUADALAJARA | 006358 NANCY LIZBETH SOTO GUTIERREZ",
+  "sender_name": "Microsoft Outlook",
+  "delivery_time": "2025-08-04T20:58:16.632719",
+  "creation_time": "2025-08-05T21:34:14.989767",
+  "modification_time": "2025-08-04T21:02:06.688000",
+  "attachment_count": 1,
+  "eml_file": "emails/email_008207.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 11186,
+      "path": "attachments/email_008207/attachment_0"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 11278
+}

@@ -1,0 +1,21 @@
+{
+  "id": "email_006242",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:04.335627",
+  "subject": "SOLICITUD DE PROPUESTA // EQUIPO DE CONTRATISTAS // CONCRETERA DEL SURESTE, S.A. DE C.V.  // C-179712",
+  "sender_name": "Carlos Pacheco",
+  "delivery_time": "2025-08-13T22:12:29.793088",
+  "creation_time": "2025-08-15T14:53:39.071698",
+  "modification_time": "2025-08-15T14:54:02.335487",
+  "attachment_count": 1,
+  "eml_file": "emails/email_006242.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 116059,
+      "path": "attachments/email_006242/attachment_0"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 6698
+}

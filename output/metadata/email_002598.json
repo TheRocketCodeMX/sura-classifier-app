@@ -1,0 +1,26 @@
+{
+  "id": "email_002598",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:37.825611",
+  "subject": "Póliza 1-607-2214 / reconocimiento de antigüedad / DIEGO IGNACIO SALAZAR CHACALTANA",
+  "sender_name": "ACguraT",
+  "delivery_time": "2025-08-14T16:58:13.583008",
+  "creation_time": "2025-08-15T14:13:02.588490",
+  "modification_time": "2025-08-15T14:32:39.003219",
+  "attachment_count": 2,
+  "eml_file": "emails/email_002598.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 241188,
+      "path": "attachments/email_002598/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 133500,
+      "path": "attachments/email_002598/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 1674
+}

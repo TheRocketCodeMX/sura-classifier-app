@@ -1,0 +1,26 @@
+{
+  "id": "email_000242",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:24:41.139815",
+  "subject": "RV: RENOVACION POLIZA GASTOS MEDICOS  1-606-6883 NORMA ISABEL VALDOVINOS",
+  "sender_name": "alfredo gutierrez",
+  "delivery_time": "2025-08-05T18:33:50.900781",
+  "creation_time": "2025-08-06T14:17:45.023284",
+  "modification_time": "2025-08-06T14:20:22.748143",
+  "attachment_count": 2,
+  "eml_file": "emails/email_000242.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 3958,
+      "path": "attachments/email_000242/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 125290,
+      "path": "attachments/email_000242/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 19138
+}

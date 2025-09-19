@@ -1,0 +1,21 @@
+{
+  "id": "email_006381",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:08.144760",
+  "subject": "ALTAS  CLEVELAND | 9-607-900000141 | CLEVELAND DIE QRO | CDQ110503QF3",
+  "sender_name": "Alfredo Raudell García Moreno",
+  "delivery_time": "2025-08-13T22:14:47.804852",
+  "creation_time": "2025-08-15T14:19:19.335869",
+  "modification_time": "2025-08-15T14:19:21.542630",
+  "attachment_count": 1,
+  "eml_file": "emails/email_006381.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 133928,
+      "path": "attachments/email_006381/attachment_0"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 11725
+}

@@ -1,0 +1,36 @@
+{
+  "id": "email_008385",
+  "folder": "Principio del archivo de datos de Outlook/DEPURADOS",
+  "extraction_date": "2025-09-19T12:27:51.730847",
+  "subject": "RE: Solicitud OT | MULTIPLE EMPRESARIAL (Póliza 004-430-3391/0), Cliente AGROCARICA SA DE CV (5538994) OT 17020684",
+  "sender_name": "Cesar Zamora",
+  "delivery_time": "2025-08-05T18:22:29.667061",
+  "creation_time": "2025-08-05T19:22:04.969078",
+  "modification_time": "2025-08-05T19:22:23.077046",
+  "attachment_count": 4,
+  "eml_file": "emails/email_008385.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 25459,
+      "path": "attachments/email_008385/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 587206,
+      "path": "attachments/email_008385/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 853685,
+      "path": "attachments/email_008385/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 60098,
+      "path": "attachments/email_008385/attachment_3"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 126735
+}

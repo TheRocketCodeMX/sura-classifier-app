@@ -1,0 +1,26 @@
+{
+  "id": "email_006209",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:03.111363",
+  "subject": "RV: 605//ACCIDENTES PERSONALES COLECTIVO//ASOCIACIÓN INTERAMERICANA DE CASTORES SCOUTS//OF. 1",
+  "sender_name": "Velazquez Villalpando Andrea",
+  "delivery_time": "2025-08-05T17:59:35.302703",
+  "creation_time": "2025-08-20T20:22:39.070131",
+  "modification_time": "2025-08-06T04:15:54.325344",
+  "attachment_count": 2,
+  "eml_file": "emails/email_006209.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 823,
+      "path": "attachments/email_006209/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 853685,
+      "path": "attachments/email_006209/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 46028
+}

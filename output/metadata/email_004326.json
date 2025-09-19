@@ -1,0 +1,31 @@
+{
+  "id": "email_004326",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:17.690022",
+  "subject": "Póliza 1-607-2072 / Reconocimiento de Antigüedad / Adrian Victoria Dominguez",
+  "sender_name": "Alejandra Orta",
+  "delivery_time": "2025-08-04T23:33:50.963199",
+  "creation_time": "2025-08-05T22:51:47.061250",
+  "modification_time": "2025-08-05T22:55:38.804226",
+  "attachment_count": 3,
+  "eml_file": "emails/email_004326.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 140800,
+      "path": "attachments/email_004326/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 29165,
+      "path": "attachments/email_004326/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 27714,
+      "path": "attachments/email_004326/attachment_2"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 5082
+}

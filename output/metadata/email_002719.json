@@ -1,0 +1,31 @@
+{
+  "id": "email_002719",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:42.029814",
+  "subject": "RV: SOLICITUD DE AJUSTES // VIDA 2024-2025 // HUSSMANN",
+  "sender_name": "Guzman Plata Karina",
+  "delivery_time": "2025-08-14T19:23:24.015047",
+  "creation_time": "2025-08-15T15:20:21.675408",
+  "modification_time": "2025-08-15T15:22:24.667419",
+  "attachment_count": 3,
+  "eml_file": "emails/email_002719.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 421,
+      "path": "attachments/email_002719/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 853685,
+      "path": "attachments/email_002719/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 2066944,
+      "path": "attachments/email_002719/attachment_2"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 47460
+}

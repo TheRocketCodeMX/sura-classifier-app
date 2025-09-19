@@ -1,0 +1,26 @@
+{
+  "id": "email_003882",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:26:07.556173",
+  "subject": "RV: ENDOSO DE DEVOLUCION EMPORIO ASE AUTOMOTRIZ 900023007-9",
+  "sender_name": "Lopez Cadena Olimpia",
+  "delivery_time": "2025-08-18T16:29:13.581973",
+  "creation_time": "2025-08-20T15:13:02.017314",
+  "modification_time": "2025-08-20T15:18:18.374992",
+  "attachment_count": 2,
+  "eml_file": "emails/email_003882.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 210799,
+      "path": "attachments/email_003882/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 853685,
+      "path": "attachments/email_003882/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 27248
+}

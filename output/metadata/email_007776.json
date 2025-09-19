@@ -1,0 +1,36 @@
+{
+  "id": "email_007776",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:41.437506",
+  "subject": "RV: ENDOSO ALTA DE UBICACIOÓN OT-2025051259/CLICK//  POLIZA 74790 Jimenez Buendia Martha Georgina Del Carmen",
+  "sender_name": "Licona Tamayo Cristopher",
+  "delivery_time": "2025-08-18T18:32:50.805006",
+  "creation_time": "2025-08-18T23:54:36.386603",
+  "modification_time": "2025-08-18T23:55:11.598651",
+  "attachment_count": 4,
+  "eml_file": "emails/email_007776.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 158442,
+      "path": "attachments/email_007776/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 853685,
+      "path": "attachments/email_007776/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 141653,
+      "path": "attachments/email_007776/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 107421,
+      "path": "attachments/email_007776/attachment_3"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 52812
+}

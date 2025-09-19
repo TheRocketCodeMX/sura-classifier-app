@@ -1,0 +1,31 @@
+{
+  "id": "email_007819",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:42.221634",
+  "subject": "RV: 11 501 100001018 / PRORROGA",
+  "sender_name": "Mesa Hermosillo",
+  "delivery_time": "2025-08-18T17:50:59.920974",
+  "creation_time": "2025-08-18T23:30:34.823873",
+  "modification_time": "2025-08-18T23:30:38.081325",
+  "attachment_count": 3,
+  "eml_file": "emails/email_007819.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 853685,
+      "path": "attachments/email_007819/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 26266,
+      "path": "attachments/email_007819/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 3958,
+      "path": "attachments/email_007819/attachment_2"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 26449
+}

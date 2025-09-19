@@ -1,0 +1,41 @@
+{
+  "id": "email_003596",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:26:01.272589",
+  "subject": "RV: VICENTE EGUIA 47 | COTIZACION SEGURO EMPRESARIAL EDIFICIO HABITACIONAL",
+  "sender_name": "Arellano Escamilla Dioney Alueri",
+  "delivery_time": "2025-08-18T23:17:49.164150",
+  "creation_time": "2025-08-20T13:05:53.750268",
+  "modification_time": "2025-08-20T13:06:40.071986",
+  "attachment_count": 5,
+  "eml_file": "emails/email_003596.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 34701,
+      "path": "attachments/email_003596/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 973877,
+      "path": "attachments/email_003596/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 973360,
+      "path": "attachments/email_003596/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 973317,
+      "path": "attachments/email_003596/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 853685,
+      "path": "attachments/email_003596/attachment_4"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 30466
+}

@@ -1,0 +1,26 @@
+{
+  "id": "email_001617",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:14.736289",
+  "subject": "ALTA DE ASEGURADOS POLIZA 1-605- 15475  ESTUDIOS ALFA OMEGA",
+  "sender_name": "cviveros@mmr-risiko.mx",
+  "delivery_time": "2025-08-06T22:12:37.664160",
+  "creation_time": "2025-08-20T19:36:37.925015",
+  "modification_time": "2025-08-20T19:36:57.559684",
+  "attachment_count": 2,
+  "eml_file": "emails/email_001617.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 4149873,
+      "path": "attachments/email_001617/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 9734,
+      "path": "attachments/email_001617/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 3470
+}

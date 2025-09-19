@@ -1,0 +1,36 @@
+{
+  "id": "email_001864",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:20.441717",
+  "subject": "RV: 003898||ALTAS DE 3 UNIDADES//TRANSITION TO OPERATIONS LOGISTICS",
+  "sender_name": "Mesa Guadalajara",
+  "delivery_time": "2025-08-06T16:54:22.195719",
+  "creation_time": "2025-08-20T19:52:58.688907",
+  "modification_time": "2025-08-20T20:07:37.610626",
+  "attachment_count": 4,
+  "eml_file": "emails/email_001864.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 853685,
+      "path": "attachments/email_001864/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 116850,
+      "path": "attachments/email_001864/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 27570,
+      "path": "attachments/email_001864/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 3958,
+      "path": "attachments/email_001864/attachment_3"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 36170
+}

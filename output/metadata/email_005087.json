@@ -1,0 +1,61 @@
+{
+  "id": "email_005087",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:36.103567",
+  "subject": "RV: 3_202_637071_3_202_637072_2525028",
+  "sender_name": "Martinez Velazquez Viridiana",
+  "delivery_time": "2025-08-05T18:57:39.127528",
+  "creation_time": "2025-08-05T22:46:07.066145",
+  "modification_time": "2025-08-05T22:46:50.502417",
+  "attachment_count": 9,
+  "eml_file": "emails/email_005087.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 803766,
+      "path": "attachments/email_005087/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 13183,
+      "path": "attachments/email_005087/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 13190,
+      "path": "attachments/email_005087/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 42815,
+      "path": "attachments/email_005087/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 42815,
+      "path": "attachments/email_005087/attachment_4"
+    },
+    {
+      "filename": "attachment_5",
+      "size": 58832,
+      "path": "attachments/email_005087/attachment_5"
+    },
+    {
+      "filename": "attachment_6",
+      "size": 84578,
+      "path": "attachments/email_005087/attachment_6"
+    },
+    {
+      "filename": "attachment_7",
+      "size": 84578,
+      "path": "attachments/email_005087/attachment_7"
+    },
+    {
+      "filename": "attachment_8",
+      "size": 853685,
+      "path": "attachments/email_005087/attachment_8"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 34553
+}

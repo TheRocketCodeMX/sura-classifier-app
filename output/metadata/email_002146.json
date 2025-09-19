@@ -1,0 +1,46 @@
+{
+  "id": "email_002146",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:26.522946",
+  "subject": "RV: COTIZACIÓN FLOTILLA| AGLE SA DE CV| SURA",
+  "sender_name": "Mesa Guadalajara",
+  "delivery_time": "2025-08-05T19:29:39.370604",
+  "creation_time": "2025-08-20T20:12:47.844897",
+  "modification_time": "2025-08-20T20:13:11.248250",
+  "attachment_count": 6,
+  "eml_file": "emails/email_002146.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 14141,
+      "path": "attachments/email_002146/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 141112,
+      "path": "attachments/email_002146/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 853685,
+      "path": "attachments/email_002146/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 116850,
+      "path": "attachments/email_002146/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 27570,
+      "path": "attachments/email_002146/attachment_4"
+    },
+    {
+      "filename": "attachment_5",
+      "size": 3958,
+      "path": "attachments/email_002146/attachment_5"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 35966
+}

@@ -1,0 +1,21 @@
+{
+  "id": "email_001087",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:01.542509",
+  "subject": "Cotizacion RC Montaje y Desmontaje Expo // GCL INDUSTRIAL",
+  "sender_name": "Paulina Alfaro",
+  "delivery_time": "2025-08-05T18:09:12.063547",
+  "creation_time": "2025-08-06T22:31:24.359497",
+  "modification_time": "2025-08-06T22:32:19.492622",
+  "attachment_count": 1,
+  "eml_file": "emails/email_001087.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 192124,
+      "path": "attachments/email_001087/attachment_0"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 7513
+}

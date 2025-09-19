@@ -1,0 +1,41 @@
+{
+  "id": "email_007876",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:43.493631",
+  "subject": "RV: SOLICITUD POLIZA AP FAMILIAR",
+  "sender_name": "MXMesadecontrolCEC",
+  "delivery_time": "2025-08-18T16:14:21.075754",
+  "creation_time": "2025-08-19T00:17:18.969724",
+  "modification_time": "2025-08-19T00:18:09.392952",
+  "attachment_count": 5,
+  "eml_file": "emails/email_007876.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 101965,
+      "path": "attachments/email_007876/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 112396,
+      "path": "attachments/email_007876/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 3669924,
+      "path": "attachments/email_007876/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 1185607,
+      "path": "attachments/email_007876/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 3958,
+      "path": "attachments/email_007876/attachment_4"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 13729
+}

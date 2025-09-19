@@ -1,0 +1,56 @@
+{
+  "id": "email_005370",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:43.247790",
+  "subject": "RE: ARGAZA PRODUCTS, S.A. DE C.V. || PÓLIZA: 44303399 || VIGENCIA: 16/10/2024 - 16/10/2025 || ENDOSO ACTUALIZAR DE DOMICILIO DE RIESGO | 264271-4",
+  "sender_name": "Elizondo Garcia Carlos Alberto",
+  "delivery_time": "2025-08-04T02:38:57.203615",
+  "creation_time": "2025-08-05T08:45:52.037004",
+  "modification_time": "2025-08-05T08:46:12.085204",
+  "attachment_count": 8,
+  "eml_file": "emails/email_005370.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 171173,
+      "path": "attachments/email_005370/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 46521,
+      "path": "attachments/email_005370/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 3958,
+      "path": "attachments/email_005370/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 40761,
+      "path": "attachments/email_005370/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 823,
+      "path": "attachments/email_005370/attachment_4"
+    },
+    {
+      "filename": "attachment_5",
+      "size": 131080,
+      "path": "attachments/email_005370/attachment_5"
+    },
+    {
+      "filename": "attachment_6",
+      "size": 116850,
+      "path": "attachments/email_005370/attachment_6"
+    },
+    {
+      "filename": "attachment_7",
+      "size": 27570,
+      "path": "attachments/email_005370/attachment_7"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 129031
+}

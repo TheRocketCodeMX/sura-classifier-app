@@ -1,0 +1,21 @@
+{
+  "id": "email_004412",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:19.977458",
+  "subject": "ALTAS III / POLIZA / 1-605-16277 / CLUB DEPORTIVO BERIMBAU / 009724 AIL",
+  "sender_name": "Leidy Janis Vazquez Montiel",
+  "delivery_time": "2025-08-05T23:43:52.079208",
+  "creation_time": "2025-08-07T13:49:35.520140",
+  "modification_time": "2025-08-07T13:53:27.815918",
+  "attachment_count": 1,
+  "eml_file": "emails/email_004412.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 12393,
+      "path": "attachments/email_004412/attachment_0"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 3030
+}

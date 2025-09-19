@@ -1,0 +1,26 @@
+{
+  "id": "email_004656",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:25.578054",
+  "subject": "RE: KARLA ELIZABET DIAZ ALCALA",
+  "sender_name": "Martin Avalos Carlos Francisco",
+  "delivery_time": "2025-08-05T17:49:04.113156",
+  "creation_time": "2025-08-05T22:30:16.787049",
+  "modification_time": "2025-08-05T22:30:28.025395",
+  "attachment_count": 2,
+  "eml_file": "emails/email_004656.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 323612,
+      "path": "attachments/email_004656/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 853685,
+      "path": "attachments/email_004656/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 19496
+}

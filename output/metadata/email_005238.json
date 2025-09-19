@@ -1,0 +1,36 @@
+{
+  "id": "email_005238",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:38.898799",
+  "subject": "RENOVACIÓN ANTICIPADA 501 | RESPONSABILIDAD CIVIL | SEPTIEMBRE 2025 | OFICINA HERMOSILLO | 005148 RODRIGO RUIZ CASTILLO",
+  "sender_name": "Mesa Hermosillo",
+  "delivery_time": "2025-08-05T16:24:31",
+  "creation_time": "2025-08-05T16:24:33.275961",
+  "modification_time": "2025-08-05T16:24:59.315978",
+  "attachment_count": 4,
+  "eml_file": "emails/email_005238.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 178004,
+      "path": "attachments/email_005238/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 89523,
+      "path": "attachments/email_005238/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 129574,
+      "path": "attachments/email_005238/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 60934,
+      "path": "attachments/email_005238/attachment_3"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 69518
+}

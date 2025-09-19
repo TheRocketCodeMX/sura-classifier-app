@@ -1,0 +1,21 @@
+{
+  "id": "email_000874",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:24:56.301745",
+  "subject": "RV: POLIZA 500019439 RAMO 211 OFICINA 10 A NOMBRE DE RESTAURANTES DE TAXCO",
+  "sender_name": "MXMesa Valle de Mexico",
+  "delivery_time": "2025-08-04T15:10:57.319182",
+  "creation_time": "2025-08-04T22:37:13.610553",
+  "modification_time": "2025-08-04T18:57:26.944213",
+  "attachment_count": 1,
+  "eml_file": "emails/email_000874.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 3958,
+      "path": "attachments/email_000874/attachment_0"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 15166
+}

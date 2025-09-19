@@ -1,0 +1,31 @@
+{
+  "id": "email_004519",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:22.163091",
+  "subject": "RV: INTER PRICE LOGISTICA SA DE CV 2025",
+  "sender_name": "Ivan Najera Lopez",
+  "delivery_time": "2025-08-05T20:39:34.244984",
+  "creation_time": "2025-08-05T23:02:11.245845",
+  "modification_time": "2025-08-05T23:11:57.762670",
+  "attachment_count": 3,
+  "eml_file": "emails/email_004519.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 91382,
+      "path": "attachments/email_004519/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 147839,
+      "path": "attachments/email_004519/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 853685,
+      "path": "attachments/email_004519/attachment_2"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 20857
+}

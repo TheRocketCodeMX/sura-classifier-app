@@ -1,0 +1,36 @@
+{
+  "id": "email_004531",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:22.446394",
+  "subject": "Envio Emision OT  24-2988566-EMPACADORA SAN MARCOS-II INCENDIO                       ",
+  "sender_name": "Local.emisiondanos@marsh.com",
+  "delivery_time": "2025-08-05T20:11:54.983383",
+  "creation_time": "2025-08-06T14:27:49.774441",
+  "modification_time": "2025-08-06T14:41:28.952089",
+  "attachment_count": 4,
+  "eml_file": "emails/email_004531.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 9742,
+      "path": "attachments/email_004531/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 574524,
+      "path": "attachments/email_004531/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 597583,
+      "path": "attachments/email_004531/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 2209367,
+      "path": "attachments/email_004531/attachment_3"
+    }
+  ],
+  "plain_text_length": 722,
+  "html_content_length": 0
+}

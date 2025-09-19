@@ -1,0 +1,26 @@
+{
+  "id": "email_001910",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:20.981189",
+  "subject": "RV: RENOVACION | SEPTIEMBRE SURA 2025",
+  "sender_name": "Mesa Monterrey",
+  "delivery_time": "2025-08-06T15:07:51.869976",
+  "creation_time": "2025-08-20T19:55:26.417861",
+  "modification_time": "2025-08-20T20:12:03.759697",
+  "attachment_count": 2,
+  "eml_file": "emails/email_001910.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 117510,
+      "path": "attachments/email_001910/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 3958,
+      "path": "attachments/email_001910/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 20656
+}

@@ -1,0 +1,46 @@
+{
+  "id": "email_002109",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:25.544890",
+  "subject": "+++URGENTE+++RE: LAY OUT GENERAL SISEGUROS 01-08-2025 CORTE A LAS 6  POLIZA 211-2415746 ot-0710169 sura soluciones educativos y psicopedagogicas aceleradas s.a. de c.v., attitude 2009.pdf",
+  "sender_name": "Myrna Muñoz",
+  "delivery_time": "2025-08-05T20:06:59.292159",
+  "creation_time": "2025-08-20T20:09:58.896473",
+  "modification_time": "2025-08-20T20:10:26.587601",
+  "attachment_count": 6,
+  "eml_file": "emails/email_002109.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 183505,
+      "path": "attachments/email_002109/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 5040,
+      "path": "attachments/email_002109/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 3583,
+      "path": "attachments/email_002109/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 350,
+      "path": "attachments/email_002109/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 6360,
+      "path": "attachments/email_002109/attachment_4"
+    },
+    {
+      "filename": "attachment_5",
+      "size": 81354,
+      "path": "attachments/email_002109/attachment_5"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 33479
+}

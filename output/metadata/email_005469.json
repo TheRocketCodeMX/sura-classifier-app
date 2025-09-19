@@ -1,0 +1,31 @@
+{
+  "id": "email_005469",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:46.130988",
+  "subject": "RE: CPA POL NUEVA 90000203-CTRL-B045 CPAADN;  25MTY004-Mejoras Parque (Sistema de Filtrado agua de pozo)",
+  "sender_name": "Cesar Zamora",
+  "delivery_time": "2025-08-05T18:20:42.169609",
+  "creation_time": "2025-08-05T19:21:58.412263",
+  "modification_time": "2025-08-05T19:22:33.395507",
+  "attachment_count": 3,
+  "eml_file": "emails/email_005469.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 13542,
+      "path": "attachments/email_005469/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 2556,
+      "path": "attachments/email_005469/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 9178,
+      "path": "attachments/email_005469/attachment_2"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 22177
+}

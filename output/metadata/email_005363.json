@@ -1,0 +1,21 @@
+{
+  "id": "email_005363",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:43.050764",
+  "subject": "Renovación flotilla Emi lite",
+  "sender_name": "Angel Anguiano Seguros Afar",
+  "delivery_time": "2025-08-05T22:10:46.787811",
+  "creation_time": "2025-08-07T16:03:53.033156",
+  "modification_time": "2025-08-08T18:41:00.123190",
+  "attachment_count": 1,
+  "eml_file": "emails/email_005363.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 107811,
+      "path": "attachments/email_005363/attachment_0"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 4344
+}

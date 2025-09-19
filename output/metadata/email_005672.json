@@ -1,0 +1,51 @@
+{
+  "id": "email_005672",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:50.673643",
+  "subject": "RV: Propuesta Renovación || Flotilla LA Financial || Grupo 5467",
+  "sender_name": "Mesa Monterrey",
+  "delivery_time": "2025-08-06T21:08:30.294379",
+  "creation_time": "2025-08-20T19:40:52.321564",
+  "modification_time": "2025-08-20T19:48:15.319751",
+  "attachment_count": 7,
+  "eml_file": "emails/email_005672.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 52433,
+      "path": "attachments/email_005672/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 853685,
+      "path": "attachments/email_005672/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 3973,
+      "path": "attachments/email_005672/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 3958,
+      "path": "attachments/email_005672/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 11041,
+      "path": "attachments/email_005672/attachment_4"
+    },
+    {
+      "filename": "attachment_5",
+      "size": 16627,
+      "path": "attachments/email_005672/attachment_5"
+    },
+    {
+      "filename": "attachment_6",
+      "size": 1806,
+      "path": "attachments/email_005672/attachment_6"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 39544
+}

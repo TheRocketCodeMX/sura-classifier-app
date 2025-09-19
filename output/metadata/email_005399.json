@@ -1,0 +1,31 @@
+{
+  "id": "email_005399",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:44.113486",
+  "subject": "Envio Emision OT  81-2988044-GRUPO INDUSTRIAL MONCLOVA-DS PROTECCION EMPRESARIAL         ",
+  "sender_name": "Regionalesdanos@marsh.com",
+  "delivery_time": "2025-08-04T17:53:13.427770",
+  "creation_time": "2025-08-06T09:25:15.484421",
+  "modification_time": "2025-08-06T09:26:24.884911",
+  "attachment_count": 3,
+  "eml_file": "emails/email_005399.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 10102,
+      "path": "attachments/email_005399/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 151174,
+      "path": "attachments/email_005399/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 1224800,
+      "path": "attachments/email_005399/attachment_2"
+    }
+  ],
+  "plain_text_length": 720,
+  "html_content_length": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "email_007024",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:25.326923",
+  "subject": "RV: COTIZACION RC AMBIENTAL// GSAE SA DE CV// AGETE 5914",
+  "sender_name": "MXCalidadCEC",
+  "delivery_time": "2025-08-15T17:24:50.850232",
+  "creation_time": "2025-08-19T13:06:29.283979",
+  "modification_time": "2025-08-19T13:07:03.830392",
+  "attachment_count": 2,
+  "eml_file": "emails/email_007024.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 318515,
+      "path": "attachments/email_007024/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 140260,
+      "path": "attachments/email_007024/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 8069
+}

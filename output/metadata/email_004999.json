@@ -1,0 +1,36 @@
+{
+  "id": "email_004999",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:34.038040",
+  "subject": "REEXPEDICION 3- 413-83/ OP SURA ALTA IMAGEN/ 3810 MARTIN DURAN",
+  "sender_name": "Alexa Aceves",
+  "delivery_time": "2025-08-05T02:08:06.688398",
+  "creation_time": "2025-08-05T23:02:04.163595",
+  "modification_time": "2025-08-05T23:02:29.713916",
+  "attachment_count": 4,
+  "eml_file": "emails/email_004999.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 374375,
+      "path": "attachments/email_004999/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 395759,
+      "path": "attachments/email_004999/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 33964,
+      "path": "attachments/email_004999/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 7288558,
+      "path": "attachments/email_004999/attachment_3"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 4303
+}

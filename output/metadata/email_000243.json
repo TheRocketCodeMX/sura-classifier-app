@@ -1,0 +1,26 @@
+{
+  "id": "email_000243",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:24:41.152845",
+  "subject": "CANCELACION SURA  || VENTA || 040825",
+  "sender_name": "Valero Rodriguez Carlos Francisco",
+  "delivery_time": "2025-08-05T18:32:49.476675",
+  "creation_time": "2025-08-06T13:32:04.173092",
+  "modification_time": "2025-08-06T13:33:17.639660",
+  "attachment_count": 2,
+  "eml_file": "emails/email_000243.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 145226,
+      "path": "attachments/email_000243/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 853685,
+      "path": "attachments/email_000243/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 21302
+}

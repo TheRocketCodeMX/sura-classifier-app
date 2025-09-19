@@ -1,0 +1,31 @@
+{
+  "id": "email_004882",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:30.877401",
+  "subject": "Re: Renovaciones Rigoberto Esqueda - Agosto 2025/ 7199",
+  "sender_name": "Paola Padilla",
+  "delivery_time": "2025-08-04T16:11:06.008651",
+  "creation_time": "2025-08-04T23:38:47.831920",
+  "modification_time": "2025-08-04T22:34:56.005000",
+  "attachment_count": 3,
+  "eml_file": "emails/email_004882.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 823,
+      "path": "attachments/email_004882/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 853685,
+      "path": "attachments/email_004882/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 294002,
+      "path": "attachments/email_004882/attachment_2"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 142089
+}

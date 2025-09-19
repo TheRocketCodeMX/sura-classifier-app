@@ -1,0 +1,21 @@
+{
+  "id": "email_004133",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:14.052958",
+  "subject": "BAJAS- FUJI- GMM- SUREXS",
+  "sender_name": "Silvia García",
+  "delivery_time": "2025-08-04T17:29:45.629460",
+  "creation_time": "2025-08-04T17:41:07.630296",
+  "modification_time": "2025-08-04T23:52:09.515572",
+  "attachment_count": 1,
+  "eml_file": "emails/email_004133.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 9883,
+      "path": "attachments/email_004133/attachment_0"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 15566
+}

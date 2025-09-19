@@ -1,0 +1,21 @@
+{
+  "id": "email_003604",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:26:01.438140",
+  "subject": "DAÑOS - COTIZACION - RC CONTAMINACION DE PREDIOS - MAQUILAS TETA KAWI, S.A. DE C.V. - AGENTE 8268",
+  "sender_name": "Valero Rodriguez Carlos Francisco",
+  "delivery_time": "2025-08-18T23:09:23.494115",
+  "creation_time": "2025-08-19T14:41:19.914425",
+  "modification_time": "2025-08-21T01:41:42.366790",
+  "attachment_count": 1,
+  "eml_file": "emails/email_003604.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 2958537,
+      "path": "attachments/email_003604/attachment_0"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 12120
+}

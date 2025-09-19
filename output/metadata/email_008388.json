@@ -1,0 +1,26 @@
+{
+  "id": "email_008388",
+  "folder": "Principio del archivo de datos de Outlook/DEPURADOS",
+  "extraction_date": "2025-09-19T12:27:51.812312",
+  "subject": "Revive el streaming regional sobre Riesgos Emergentes",
+  "sender_name": "SURA Corporativo",
+  "delivery_time": "2025-08-05T18:57:53.127534",
+  "creation_time": "2025-08-05T19:27:23.602673",
+  "modification_time": "2025-08-05T19:27:47.861443",
+  "attachment_count": 2,
+  "eml_file": "emails/email_008388.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 242840,
+      "path": "attachments/email_008388/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 6192762,
+      "path": "attachments/email_008388/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 2259
+}

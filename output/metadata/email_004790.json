@@ -1,0 +1,46 @@
+{
+  "id": "email_004790",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:28.793494",
+  "subject": "RV: OFICINA 01/APERTURA GRUPO ADICIONAL/4559/RAMO 902/AGENTE 2282",
+  "sender_name": "Lidia Santillan Alba|",
+  "delivery_time": "2025-08-05T15:09:59.889150",
+  "creation_time": "2025-08-06T03:19:26.851313",
+  "modification_time": "2025-08-06T03:20:08.473390",
+  "attachment_count": 6,
+  "eml_file": "emails/email_004790.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 271665,
+      "path": "attachments/email_004790/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 36752,
+      "path": "attachments/email_004790/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 47359,
+      "path": "attachments/email_004790/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 16890,
+      "path": "attachments/email_004790/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 43136,
+      "path": "attachments/email_004790/attachment_4"
+    },
+    {
+      "filename": "attachment_5",
+      "size": 20255995,
+      "path": "attachments/email_004790/attachment_5"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 34375
+}

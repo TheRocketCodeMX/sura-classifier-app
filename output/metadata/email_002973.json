@@ -1,0 +1,36 @@
+{
+  "id": "email_002973",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:48.062094",
+  "subject": "RE: 1-211-501934116 ... Por favor generar recibos subsecuentes ... Pablo Ramírez Sánchez ... ¡¡¡Gracias!!!",
+  "sender_name": "Andrea Espino Mondragon",
+  "delivery_time": "2025-08-15T15:08:08.823801",
+  "creation_time": "2025-08-15T20:09:16.689790",
+  "modification_time": "2025-08-15T20:10:17.220561",
+  "attachment_count": 4,
+  "eml_file": "emails/email_002973.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 171,
+      "path": "attachments/email_002973/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 286,
+      "path": "attachments/email_002973/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 171,
+      "path": "attachments/email_002973/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 45588,
+      "path": "attachments/email_002973/attachment_3"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 41779
+}

@@ -1,0 +1,26 @@
+{
+  "id": "email_003484",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:58.347358",
+  "subject": "RE: Rehabilitación Póliza 04/211/200088345 / Guilebaldo López Luna",
+  "sender_name": "Atencion Cobranza",
+  "delivery_time": "2025-08-19T16:11:15.736123",
+  "creation_time": "2025-08-20T13:34:01.467177",
+  "modification_time": "2025-08-20T13:34:04.357277",
+  "attachment_count": 2,
+  "eml_file": "emails/email_003484.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 34440,
+      "path": "attachments/email_003484/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 23425,
+      "path": "attachments/email_003484/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 13412
+}

@@ -1,0 +1,36 @@
+{
+  "id": "email_007129",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:27.860906",
+  "subject": "RV: SOLICITUD ENDOSO // CASSIEL ASESORES PROFESIONALES // 1-430-48790 // AGENTE 006700 SOL.2527080  ",
+  "sender_name": "CASSIEL ASESORES PROFESIONALES S.C.",
+  "delivery_time": "2025-08-15T20:25:53.113849",
+  "creation_time": "2025-08-19T13:08:42.124200",
+  "modification_time": "2025-08-19T13:08:45.248172",
+  "attachment_count": 4,
+  "eml_file": "emails/email_007129.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 116850,
+      "path": "attachments/email_007129/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 27570,
+      "path": "attachments/email_007129/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 3958,
+      "path": "attachments/email_007129/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 26417,
+      "path": "attachments/email_007129/attachment_3"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 29267
+}

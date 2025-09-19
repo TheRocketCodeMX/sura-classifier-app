@@ -1,0 +1,36 @@
+{
+  "id": "email_007255",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:30.014062",
+  "subject": "COTIZACION CONDOMINIO UNICO EJE 8",
+  "sender_name": "Daños Fianzas Prevenir Asesores",
+  "delivery_time": "2025-08-19T23:20:28.457435",
+  "creation_time": "2025-08-21T14:21:19.725472",
+  "modification_time": "2025-08-21T14:21:38.958490",
+  "attachment_count": 4,
+  "eml_file": "emails/email_007255.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 6480,
+      "path": "attachments/email_007255/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 34252,
+      "path": "attachments/email_007255/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 15049,
+      "path": "attachments/email_007255/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 217499,
+      "path": "attachments/email_007255/attachment_3"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 5331
+}

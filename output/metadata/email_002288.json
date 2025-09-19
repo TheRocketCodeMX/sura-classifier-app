@@ -1,0 +1,21 @@
+{
+  "id": "email_002288",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:30.180816",
+  "subject": "PAGO DIFERENCIA AUTO RC SURA PÓLIZA 700009596",
+  "sender_name": "Asistente Ruiz",
+  "delivery_time": "2025-08-14T17:12:25.734585",
+  "creation_time": "2025-08-18T14:44:19.421708",
+  "modification_time": "2025-08-18T14:45:15.562733",
+  "attachment_count": 1,
+  "eml_file": "emails/email_002288.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 1802123,
+      "path": "attachments/email_002288/attachment_0"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 1647
+}

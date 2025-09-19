@@ -1,0 +1,26 @@
+{
+  "id": "email_003621",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:26:02.174926",
+  "subject": "RV: COTIZACION - NUEVOS SERVICIOS ADMINISTRATIVOS - RENOVACION ANTICIPADA",
+  "sender_name": "Arellano Escamilla Dioney Alueri",
+  "delivery_time": "2025-08-18T22:49:22.689889",
+  "creation_time": "2025-08-19T14:32:11.666925",
+  "modification_time": "2025-08-21T01:41:45.380633",
+  "attachment_count": 2,
+  "eml_file": "emails/email_003621.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 5543690,
+      "path": "attachments/email_003621/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 853685,
+      "path": "attachments/email_003621/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 25446
+}

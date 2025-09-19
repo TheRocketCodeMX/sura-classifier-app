@@ -1,0 +1,26 @@
+{
+  "id": "email_008511",
+  "folder": "Principio del archivo de datos de Outlook/DEPURADOS",
+  "extraction_date": "2025-09-19T12:27:52.741445",
+  "subject": "RE: COTIZACION FLOTILLA ADMINISTRACION TULTITLAN ",
+  "sender_name": "Romero Thompson Silvia",
+  "delivery_time": "2025-08-14T23:30:35.120961",
+  "creation_time": "2025-08-18T14:49:25.804501",
+  "modification_time": "2025-08-18T14:49:35.680728",
+  "attachment_count": 2,
+  "eml_file": "emails/email_008511.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 21378,
+      "path": "attachments/email_008511/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 2243,
+      "path": "attachments/email_008511/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 76942
+}

@@ -1,0 +1,36 @@
+{
+  "id": "email_001997",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:23.129514",
+  "subject": "IDENTIFICACION 492/ABIGAIL ORTEGA MIRON/DAÑOS",
+  "sender_name": "YESENIA VILLALBA MARTINEZ",
+  "delivery_time": "2025-08-05T23:30:22.194836",
+  "creation_time": "2025-08-20T20:02:29.428833",
+  "modification_time": "2025-08-20T20:19:22.645609",
+  "attachment_count": 4,
+  "eml_file": "emails/email_001997.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 726048,
+      "path": "attachments/email_001997/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 294292,
+      "path": "attachments/email_001997/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 659045,
+      "path": "attachments/email_001997/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 605514,
+      "path": "attachments/email_001997/attachment_3"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 3637
+}

@@ -1,0 +1,41 @@
+{
+  "id": "email_006472",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:10.351348",
+  "subject": "ENDOSO / AGREGAR UBICACIÓN / PÓLIZA 1-430-47867 || AGENTE: 000427.- GRUPO SAHAGUN CONSULTORES",
+  "sender_name": "Pena Pena Alejandro",
+  "delivery_time": "2025-08-14T14:18:30.258136",
+  "creation_time": "2025-08-15T14:14:38.571678",
+  "modification_time": "2025-08-15T14:33:48.256640",
+  "attachment_count": 5,
+  "eml_file": "emails/email_006472.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 19698,
+      "path": "attachments/email_006472/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 13747,
+      "path": "attachments/email_006472/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 853685,
+      "path": "attachments/email_006472/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 163437,
+      "path": "attachments/email_006472/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 606167,
+      "path": "attachments/email_006472/attachment_4"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 53775
+}

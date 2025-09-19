@@ -1,0 +1,71 @@
+{
+  "id": "email_005379",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:43.483325",
+  "subject": "RV: EMISION // GASTOS MEDICOS // CENTROS EDUCATIVOS Y CULTURALES",
+  "sender_name": "Gonzalez Morales Brenda Alejandra",
+  "delivery_time": "2025-08-04T15:21:18.251131",
+  "creation_time": "2025-08-05T08:43:58.804799",
+  "modification_time": "2025-08-05T08:44:28.981552",
+  "attachment_count": 11,
+  "eml_file": "emails/email_005379.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 227972,
+      "path": "attachments/email_005379/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 1143822,
+      "path": "attachments/email_005379/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 156758,
+      "path": "attachments/email_005379/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 323189,
+      "path": "attachments/email_005379/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 153970,
+      "path": "attachments/email_005379/attachment_4"
+    },
+    {
+      "filename": "attachment_5",
+      "size": 2687725,
+      "path": "attachments/email_005379/attachment_5"
+    },
+    {
+      "filename": "attachment_6",
+      "size": 581716,
+      "path": "attachments/email_005379/attachment_6"
+    },
+    {
+      "filename": "attachment_7",
+      "size": 14629,
+      "path": "attachments/email_005379/attachment_7"
+    },
+    {
+      "filename": "attachment_8",
+      "size": 13376,
+      "path": "attachments/email_005379/attachment_8"
+    },
+    {
+      "filename": "attachment_9",
+      "size": 1454726,
+      "path": "attachments/email_005379/attachment_9"
+    },
+    {
+      "filename": "attachment_10",
+      "size": 853685,
+      "path": "attachments/email_005379/attachment_10"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 16609
+}

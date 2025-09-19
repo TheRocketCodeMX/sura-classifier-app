@@ -1,0 +1,31 @@
+{
+  "id": "email_002380",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:32.646684",
+  "subject": "COTIZACIONES ORFANDAD Y AP //CENTRO ESCOLAR DEL TEPEYAC S.C ",
+  "sender_name": "Arian Barcenas Martinez",
+  "delivery_time": "2025-08-13T19:54:37.907719",
+  "creation_time": "2025-08-15T14:19:56.016023",
+  "modification_time": "2025-08-15T14:20:16.220429",
+  "attachment_count": 3,
+  "eml_file": "emails/email_002380.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 1362222,
+      "path": "attachments/email_002380/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 504991,
+      "path": "attachments/email_002380/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 35511,
+      "path": "attachments/email_002380/attachment_2"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 53274
+}

@@ -1,0 +1,61 @@
+{
+  "id": "email_000210",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:24:40.352363",
+  "subject": "RV: SOLICITUD CAMBIO CONTRATANTE Y CONDUCTOR HABITUAL POLIZAS  3_211_M_752552 y 3_211_M_752761",
+  "sender_name": "Mesa Guadalajara",
+  "delivery_time": "2025-08-05T19:23:58.810871",
+  "creation_time": "2025-08-07T14:23:07.355529",
+  "modification_time": "2025-08-07T14:29:18.726589",
+  "attachment_count": 9,
+  "eml_file": "emails/email_000210.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 1051,
+      "path": "attachments/email_000210/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 2569,
+      "path": "attachments/email_000210/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 269527,
+      "path": "attachments/email_000210/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 269553,
+      "path": "attachments/email_000210/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 14266,
+      "path": "attachments/email_000210/attachment_4"
+    },
+    {
+      "filename": "attachment_5",
+      "size": 853685,
+      "path": "attachments/email_000210/attachment_5"
+    },
+    {
+      "filename": "attachment_6",
+      "size": 116850,
+      "path": "attachments/email_000210/attachment_6"
+    },
+    {
+      "filename": "attachment_7",
+      "size": 27570,
+      "path": "attachments/email_000210/attachment_7"
+    },
+    {
+      "filename": "attachment_8",
+      "size": 3958,
+      "path": "attachments/email_000210/attachment_8"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 43999
+}

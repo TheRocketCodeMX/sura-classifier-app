@@ -1,0 +1,26 @@
+{
+  "id": "email_004250",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:16.074234",
+  "subject": "Fw: 4143// AGUSTIN RIEGO GAONA// 1// 211// 202337313//LBRINTO ARQUITECTURA DISEÑO Y ENTORNO// CORRECCIÓN DOMICILIO FISCAL//",
+  "sender_name": "Agustín Riego Gaona",
+  "delivery_time": "2025-08-04T21:08:29.955845",
+  "creation_time": "2025-08-06T14:19:25.982200",
+  "modification_time": "2025-08-06T14:30:07.188476",
+  "attachment_count": 2,
+  "eml_file": "emails/email_004250.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 140385,
+      "path": "attachments/email_004250/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 226894,
+      "path": "attachments/email_004250/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 4377
+}

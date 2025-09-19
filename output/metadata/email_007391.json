@@ -1,0 +1,36 @@
+{
+  "id": "email_007391",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:32.658466",
+  "subject": "RV: SOLICITUD DE PÓLIZAS ALA AZUL VIGENCIA AGOSTO-SEPTIEMBRE",
+  "sender_name": "Mesa Puebla",
+  "delivery_time": "2025-08-19T18:45:18.246585",
+  "creation_time": "2025-08-21T13:43:33.377896",
+  "modification_time": "2025-08-21T13:46:10.947474",
+  "attachment_count": 4,
+  "eml_file": "emails/email_007391.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 847598,
+      "path": "attachments/email_007391/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 52643,
+      "path": "attachments/email_007391/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 853685,
+      "path": "attachments/email_007391/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 3958,
+      "path": "attachments/email_007391/attachment_3"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 25222
+}

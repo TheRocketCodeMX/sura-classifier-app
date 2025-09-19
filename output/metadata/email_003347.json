@@ -1,0 +1,36 @@
+{
+  "id": "email_003347",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:55.574573",
+  "subject": "RV: RV: GMI/OFICINA 1/EMISION DE POLIZA/ RAMO 606/AGENTE 2282",
+  "sender_name": "Lidia Santillan Alba|",
+  "delivery_time": "2025-08-19T20:37:14.579490",
+  "creation_time": "2025-08-21T15:08:35.389011",
+  "modification_time": "2025-08-21T15:09:06.390305",
+  "attachment_count": 4,
+  "eml_file": "emails/email_003347.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 26784,
+      "path": "attachments/email_003347/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 844987,
+      "path": "attachments/email_003347/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 17068,
+      "path": "attachments/email_003347/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 1711433,
+      "path": "attachments/email_003347/attachment_3"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 30675
+}

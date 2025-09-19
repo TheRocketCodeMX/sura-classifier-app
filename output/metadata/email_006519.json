@@ -1,0 +1,26 @@
+{
+  "id": "email_006519",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:11.658742",
+  "subject": "Régimen y C.P. /MARO HEALTH",
+  "sender_name": "Aviles Macedo Diana Cecilia",
+  "delivery_time": "2025-08-14T15:28:53.532922",
+  "creation_time": "2025-08-15T14:08:18.258721",
+  "modification_time": "2025-08-15T14:22:39.498215",
+  "attachment_count": 2,
+  "eml_file": "emails/email_006519.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 853685,
+      "path": "attachments/email_006519/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 125535,
+      "path": "attachments/email_006519/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 8611
+}

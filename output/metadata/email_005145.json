@@ -1,0 +1,31 @@
+{
+  "id": "email_005145",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:37.293489",
+  "subject": "Cotización Equipo de Contratistas y Remolques  - Davis Lopez",
+  "sender_name": "Blanca Rodríguez",
+  "delivery_time": "2025-08-05T23:04:33.591835",
+  "creation_time": "2025-08-06T16:56:46.565187",
+  "modification_time": "2025-08-06T16:57:04.745667",
+  "attachment_count": 3,
+  "eml_file": "emails/email_005145.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 38998,
+      "path": "attachments/email_005145/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 76800,
+      "path": "attachments/email_005145/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 71168,
+      "path": "attachments/email_005145/attachment_2"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 14681
+}

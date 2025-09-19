@@ -1,0 +1,61 @@
+{
+  "id": "email_001664",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:15.735109",
+  "subject": "RV:  Cotización | GE International | Sura",
+  "sender_name": "Cuevas Munoz Nisiel Alexis",
+  "delivery_time": "2025-08-06T21:22:07.486925",
+  "creation_time": "2025-08-20T19:39:13.699520",
+  "modification_time": "2025-08-20T19:39:48.412959",
+  "attachment_count": 9,
+  "eml_file": "emails/email_001664.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 179173,
+      "path": "attachments/email_001664/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 319312,
+      "path": "attachments/email_001664/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 319438,
+      "path": "attachments/email_001664/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 204244,
+      "path": "attachments/email_001664/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 363696,
+      "path": "attachments/email_001664/attachment_4"
+    },
+    {
+      "filename": "attachment_5",
+      "size": 1091169,
+      "path": "attachments/email_001664/attachment_5"
+    },
+    {
+      "filename": "attachment_6",
+      "size": 271978,
+      "path": "attachments/email_001664/attachment_6"
+    },
+    {
+      "filename": "attachment_7",
+      "size": 1677541,
+      "path": "attachments/email_001664/attachment_7"
+    },
+    {
+      "filename": "attachment_8",
+      "size": 853685,
+      "path": "attachments/email_001664/attachment_8"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 20337
+}

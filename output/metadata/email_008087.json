@@ -1,0 +1,41 @@
+{
+  "id": "email_008087",
+  "folder": "Principio del archivo de datos de Outlook/DEPURADOS",
+  "extraction_date": "2025-09-19T12:27:46.945416",
+  "subject": "RE: PROPUESTA GASTOS MEDICOS GRUPO SIMEC INTERNATIONAL AGENTE 000710",
+  "sender_name": "MXsuscripcion saludyvida",
+  "delivery_time": "2025-08-05T18:40:57.966301",
+  "creation_time": "2025-08-11T20:16:56.979785",
+  "modification_time": "2025-08-11T20:17:20.756711",
+  "attachment_count": 5,
+  "eml_file": "emails/email_008087.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 537657,
+      "path": "attachments/email_008087/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 10650,
+      "path": "attachments/email_008087/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 3958,
+      "path": "attachments/email_008087/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 49525,
+      "path": "attachments/email_008087/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 853685,
+      "path": "attachments/email_008087/attachment_4"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 56910
+}

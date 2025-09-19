@@ -1,0 +1,41 @@
+{
+  "id": "email_006547",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:12.385726",
+  "subject": "RE: Propuestas de Renovación Pólizas APE ",
+  "sender_name": "Cruz Aguila Xenia Cecilia",
+  "delivery_time": "2025-08-14T15:39:48.437652",
+  "creation_time": "2025-08-15T14:08:08.830295",
+  "modification_time": "2025-08-15T14:22:28.736577",
+  "attachment_count": 5,
+  "eml_file": "emails/email_006547.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 853685,
+      "path": "attachments/email_006547/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 15016,
+      "path": "attachments/email_006547/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 1266,
+      "path": "attachments/email_006547/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 1413,
+      "path": "attachments/email_006547/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 1329,
+      "path": "attachments/email_006547/attachment_4"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 82001
+}

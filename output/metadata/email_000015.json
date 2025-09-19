@@ -1,0 +1,31 @@
+{
+  "id": "email_000015",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:24:35.596996",
+  "subject": "Fw: Solicitud CAR Pimosa Pilas PROYECTO NSM_Northridge School México",
+  "sender_name": "Martinez Juarez Cynthia Alejandra",
+  "delivery_time": "2025-08-06T02:29:33.724760",
+  "creation_time": "2025-08-07T14:20:58.952297",
+  "modification_time": "2025-08-07T14:21:28.013734",
+  "attachment_count": 3,
+  "eml_file": "emails/email_000015.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 14943481,
+      "path": "attachments/email_000015/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 179354,
+      "path": "attachments/email_000015/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 181067,
+      "path": "attachments/email_000015/attachment_2"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 18294
+}

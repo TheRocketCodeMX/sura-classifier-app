@@ -1,0 +1,21 @@
+{
+  "id": "email_001191",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:03.881737",
+  "subject": "RE: 11 420 500001628 INMOBILIARIA LENGUETA RENOVACION AGOSTO/005526",
+  "sender_name": "Mesa Hermosillo",
+  "delivery_time": "2025-08-04T19:12:35",
+  "creation_time": "2025-08-04T19:12:38.051199",
+  "modification_time": "2025-08-04T19:17:43.460519",
+  "attachment_count": 1,
+  "eml_file": "emails/email_001191.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 3958,
+      "path": "attachments/email_001191/attachment_0"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 11766
+}

@@ -1,0 +1,31 @@
+{
+  "id": "email_003314",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:55.063010",
+  "subject": "OF1, 605, AG006754, END, G + ALTAS POLIZA 1/605/16156",
+  "sender_name": "Beneficios Prevenir",
+  "delivery_time": "2025-08-19T22:10:39.520122",
+  "creation_time": "2025-08-21T14:21:39.051264",
+  "modification_time": "2025-08-21T14:21:59.087259",
+  "attachment_count": 3,
+  "eml_file": "emails/email_003314.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 92,
+      "path": "attachments/email_003314/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 29611,
+      "path": "attachments/email_003314/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 13957,
+      "path": "attachments/email_003314/attachment_2"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 6496
+}

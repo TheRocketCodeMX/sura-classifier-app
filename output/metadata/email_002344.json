@@ -1,0 +1,21 @@
+{
+  "id": "email_002344",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:31.676143",
+  "subject": "No se puede entregar: RE: EMISION DE POLIZAS / ART PROVEDORA / DAVID REGINO FIGUEROA PRIETO | 2533900",
+  "sender_name": "Microsoft Outlook",
+  "delivery_time": "2025-08-15T18:11:03.340641",
+  "creation_time": "2025-08-15T18:11:29.456110",
+  "modification_time": "2025-08-15T18:11:13.558000",
+  "attachment_count": 1,
+  "eml_file": "emails/email_002344.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 11004,
+      "path": "attachments/email_002344/attachment_0"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 12275
+}

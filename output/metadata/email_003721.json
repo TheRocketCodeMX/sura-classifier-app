@@ -1,0 +1,26 @@
+{
+  "id": "email_003721",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:26:04.198616",
+  "subject": "EMISIONES SISEGUROS 6284/ot-0711038 sura orozco becerril sandra cecilia reexpedicion.pdf",
+  "sender_name": "SISEGUROS",
+  "delivery_time": "2025-08-18T21:31:42.242990",
+  "creation_time": "2025-08-19T15:07:48.715764",
+  "modification_time": "2025-08-19T15:08:10.877819",
+  "attachment_count": 2,
+  "eml_file": "emails/email_003721.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 5040,
+      "path": "attachments/email_003721/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 128394,
+      "path": "attachments/email_003721/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 8899
+}

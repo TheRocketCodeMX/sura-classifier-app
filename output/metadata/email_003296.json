@@ -1,0 +1,36 @@
+{
+  "id": "email_003296",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:54.720113",
+  "subject": "RV:   Solicitud de corrección de Clausula de coaseguro > Geni de México, S.A. de C.V. //COASEGURO",
+  "sender_name": "Arzate Jimenez Estephanie Julieta",
+  "delivery_time": "2025-08-19T22:37:13.985168",
+  "creation_time": "2025-08-21T16:47:18.116656",
+  "modification_time": "2025-08-21T16:56:21.722959",
+  "attachment_count": 4,
+  "eml_file": "emails/email_003296.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 853685,
+      "path": "attachments/email_003296/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 55756,
+      "path": "attachments/email_003296/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 823,
+      "path": "attachments/email_003296/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 1401952,
+      "path": "attachments/email_003296/attachment_3"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 87059
+}

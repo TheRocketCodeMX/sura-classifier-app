@@ -1,0 +1,26 @@
+{
+  "id": "email_008353",
+  "folder": "Principio del archivo de datos de Outlook/DEPURADOS",
+  "extraction_date": "2025-09-19T12:27:51.379197",
+  "subject": "Re: Valoración de Rehabilitación por falta de pago Póliza 40001543 periodo 31 mayo 2025 al 30 de junio 2025",
+  "sender_name": "Jesus Omar Alvarez Sepulveda",
+  "delivery_time": "2025-08-05T15:11:03.673971",
+  "creation_time": "2025-08-05T15:23:53.269144",
+  "modification_time": "2025-08-05T15:23:49.381000",
+  "attachment_count": 2,
+  "eml_file": "emails/email_008353.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 853685,
+      "path": "attachments/email_008353/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 823,
+      "path": "attachments/email_008353/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 201689
+}

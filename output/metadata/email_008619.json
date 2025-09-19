@@ -1,0 +1,46 @@
+{
+  "id": "email_008619",
+  "folder": "Principio del archivo de datos de Outlook/DEPURADOS",
+  "extraction_date": "2025-09-19T12:27:53.847500",
+  "subject": "RE: SOLICITUD DE COTIZACION RENOVACION POLIZA 1-501-12533-0 / RC ESTACIONAMIENO  / OPERADORA SUMA PARK, S. DE R.L. DE C.V. / SOLICITUD 2535311",
+  "sender_name": "MXMesadecontrolCEC",
+  "delivery_time": "2025-08-19T20:06:35.532488",
+  "creation_time": "2025-08-19T20:06:35.142256",
+  "modification_time": "2025-08-19T20:06:37.707496",
+  "attachment_count": 6,
+  "eml_file": "emails/email_008619.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 525421,
+      "path": "attachments/email_008619/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 27570,
+      "path": "attachments/email_008619/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 3958,
+      "path": "attachments/email_008619/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 787,
+      "path": "attachments/email_008619/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 1899,
+      "path": "attachments/email_008619/attachment_4"
+    },
+    {
+      "filename": "attachment_5",
+      "size": 91142,
+      "path": "attachments/email_008619/attachment_5"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 26150
+}

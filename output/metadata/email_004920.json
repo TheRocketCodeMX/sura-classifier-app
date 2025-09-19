@@ -1,0 +1,26 @@
+{
+  "id": "email_004920",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:32.114768",
+  "subject": "COTIZACION FLOTILLA/ LOGISTICA FBR/ 6221 ALAN ACOSTA",
+  "sender_name": "Paola Padilla",
+  "delivery_time": "2025-08-04T17:54:43.073227",
+  "creation_time": "2025-08-06T14:42:22.925549",
+  "modification_time": "2025-08-06T14:42:42.847020",
+  "attachment_count": 2,
+  "eml_file": "emails/email_004920.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 75064,
+      "path": "attachments/email_004920/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 65816,
+      "path": "attachments/email_004920/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 4393
+}

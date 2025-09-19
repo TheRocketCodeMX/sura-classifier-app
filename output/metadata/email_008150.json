@@ -1,0 +1,81 @@
+{
+  "id": "email_008150",
+  "folder": "Principio del archivo de datos de Outlook/DEPURADOS",
+  "extraction_date": "2025-09-19T12:27:47.782099",
+  "subject": "RECOTIZACION FLOTILLA - COTIZACIÓN - ALAN ACOSTA QUINTANILLA 2025-2026/ 6221",
+  "sender_name": "Paola Padilla",
+  "delivery_time": "2025-08-05T20:23:04.373400",
+  "creation_time": "2025-08-06T17:53:07.014576",
+  "modification_time": "2025-08-06T17:53:29.949478",
+  "attachment_count": 13,
+  "eml_file": "emails/email_008150.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 169,
+      "path": "attachments/email_008150/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 27570,
+      "path": "attachments/email_008150/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 3477,
+      "path": "attachments/email_008150/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 13883,
+      "path": "attachments/email_008150/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 13884,
+      "path": "attachments/email_008150/attachment_4"
+    },
+    {
+      "filename": "attachment_5",
+      "size": 1047,
+      "path": "attachments/email_008150/attachment_5"
+    },
+    {
+      "filename": "attachment_6",
+      "size": 13883,
+      "path": "attachments/email_008150/attachment_6"
+    },
+    {
+      "filename": "attachment_7",
+      "size": 3477,
+      "path": "attachments/email_008150/attachment_7"
+    },
+    {
+      "filename": "attachment_8",
+      "size": 3479,
+      "path": "attachments/email_008150/attachment_8"
+    },
+    {
+      "filename": "attachment_9",
+      "size": 173,
+      "path": "attachments/email_008150/attachment_9"
+    },
+    {
+      "filename": "attachment_10",
+      "size": 13882,
+      "path": "attachments/email_008150/attachment_10"
+    },
+    {
+      "filename": "attachment_11",
+      "size": 5857,
+      "path": "attachments/email_008150/attachment_11"
+    },
+    {
+      "filename": "attachment_12",
+      "size": 121105,
+      "path": "attachments/email_008150/attachment_12"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 181912
+}

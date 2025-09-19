@@ -1,0 +1,26 @@
+{
+  "id": "email_006007",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:58.304364",
+  "subject": "RV: EMITIR Endoso B para placas pól. 211/ 301976234-3 Leopoldo González Palma",
+  "sender_name": "Licona Tamayo Cristopher",
+  "delivery_time": "2025-08-05T22:43:12.963840",
+  "creation_time": "2025-08-20T20:03:44.176246",
+  "modification_time": "2025-08-20T20:23:31.166376",
+  "attachment_count": 2,
+  "eml_file": "emails/email_006007.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 229593,
+      "path": "attachments/email_006007/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 186632,
+      "path": "attachments/email_006007/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 13477
+}

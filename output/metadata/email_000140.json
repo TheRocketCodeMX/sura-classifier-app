@@ -1,0 +1,21 @@
+{
+  "id": "email_000140",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:24:38.547214",
+  "subject": "1751667653 ENDOSO",
+  "sender_name": "Atencion Cobranza",
+  "delivery_time": "2025-08-05T20:51:07.831558",
+  "creation_time": "2025-08-05T23:02:09.286545",
+  "modification_time": "2025-08-05T23:10:46.968989",
+  "attachment_count": 1,
+  "eml_file": "emails/email_000140.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 853685,
+      "path": "attachments/email_000140/attachment_0"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 10107
+}

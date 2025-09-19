@@ -1,0 +1,41 @@
+{
+  "id": "email_002310",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:30.533434",
+  "subject": "RE: 6021.-SOL. COT SEG EMP. ISSET",
+  "sender_name": "Mondragon Guillen Marco Antonio",
+  "delivery_time": "2025-08-14T21:02:42.205824",
+  "creation_time": "2025-08-18T14:42:28.536568",
+  "modification_time": "2025-08-18T14:43:06.347548",
+  "attachment_count": 5,
+  "eml_file": "emails/email_002310.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 1262201,
+      "path": "attachments/email_002310/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 853685,
+      "path": "attachments/email_002310/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 1759,
+      "path": "attachments/email_002310/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 3958,
+      "path": "attachments/email_002310/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 57766,
+      "path": "attachments/email_002310/attachment_4"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 53826
+}

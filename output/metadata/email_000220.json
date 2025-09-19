@@ -1,0 +1,26 @@
+{
+  "id": "email_000220",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:24:40.527783",
+  "subject": "RV: COTIZACION DE RENOVACION PÓLIZA NO. 102353254 - 1/1//GUTIERREZ MOLINA JOSE ALBERTO//NISSAN VERSA SENSE AT 1.6L C/A EE BA. AUT.",
+  "sender_name": "Lopez Cadena Olimpia",
+  "delivery_time": "2025-08-05T19:07:08.679771",
+  "creation_time": "2025-08-06T18:18:00.448982",
+  "modification_time": "2025-08-06T18:19:57.389171",
+  "attachment_count": 2,
+  "eml_file": "emails/email_000220.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 47426,
+      "path": "attachments/email_000220/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 853685,
+      "path": "attachments/email_000220/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 9656
+}

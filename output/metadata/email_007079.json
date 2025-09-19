@@ -1,0 +1,56 @@
+{
+  "id": "email_007079",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:26.261369",
+  "subject": "RE: COTIZACIÓN // OBRA CIVIL // SAI PROYECTO Y CONSTRUCCIONES , S.A. DE C.V.",
+  "sender_name": "Arellano Escamilla Dioney Alueri",
+  "delivery_time": "2025-08-15T18:54:35.074222",
+  "creation_time": "2025-08-18T14:26:05.052766",
+  "modification_time": "2025-08-18T14:26:31.535422",
+  "attachment_count": 8,
+  "eml_file": "emails/email_007079.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 853685,
+      "path": "attachments/email_007079/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 13144,
+      "path": "attachments/email_007079/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 3958,
+      "path": "attachments/email_007079/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 42164,
+      "path": "attachments/email_007079/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 41802,
+      "path": "attachments/email_007079/attachment_4"
+    },
+    {
+      "filename": "attachment_5",
+      "size": 86123,
+      "path": "attachments/email_007079/attachment_5"
+    },
+    {
+      "filename": "attachment_6",
+      "size": 1738569,
+      "path": "attachments/email_007079/attachment_6"
+    },
+    {
+      "filename": "attachment_7",
+      "size": 6429257,
+      "path": "attachments/email_007079/attachment_7"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 67191
+}

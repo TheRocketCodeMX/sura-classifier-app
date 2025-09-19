@@ -1,0 +1,21 @@
+{
+  "id": "email_001058",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:00.897863",
+  "subject": "ENDOSO B / REGINA CORDERO",
+  "sender_name": "Carlos Bonales",
+  "delivery_time": "2025-08-05T16:28:18.858564",
+  "creation_time": "2025-08-05T19:35:28.325217",
+  "modification_time": "2025-08-05T19:35:53.210000",
+  "attachment_count": 1,
+  "eml_file": "emails/email_001058.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 105266,
+      "path": "attachments/email_001058/attachment_0"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 6701
+}

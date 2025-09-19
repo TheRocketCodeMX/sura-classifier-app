@@ -1,0 +1,36 @@
+{
+  "id": "email_007432",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:33.715137",
+  "subject": "AGENTE: 007222 / Cot. Empresarial / HUFSCHMIED HERRAMIENTAS INNOVADORAS 25-26 / SURA",
+  "sender_name": "Leonardo Vilchis",
+  "delivery_time": "2025-08-19T17:33:51.977385",
+  "creation_time": "2025-08-19T23:27:20.420081",
+  "modification_time": "2025-08-19T23:27:39.560730",
+  "attachment_count": 4,
+  "eml_file": "emails/email_007432.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 24445,
+      "path": "attachments/email_007432/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 315607,
+      "path": "attachments/email_007432/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 1144016,
+      "path": "attachments/email_007432/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 453591,
+      "path": "attachments/email_007432/attachment_3"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 23569
+}

@@ -1,0 +1,31 @@
+{
+  "id": "email_006836",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:20.265600",
+  "subject": "605 / AP COLECTIVO/EMISION DE RENOVACION DE POLIZA / SELENE CARBAJAL CASTAÑEDA/ OFICINA 1 /poliza 15715 / AGENTE: LAURA CATALAN 5880",
+  "sender_name": "Jesús Ramirez",
+  "delivery_time": "2025-08-14T22:26:24.057906",
+  "creation_time": "2025-08-18T13:15:23.893968",
+  "modification_time": "2025-08-18T13:16:29.261560",
+  "attachment_count": 3,
+  "eml_file": "emails/email_006836.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 17224,
+      "path": "attachments/email_006836/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 370664,
+      "path": "attachments/email_006836/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 492695,
+      "path": "attachments/email_006836/attachment_2"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 18548
+}

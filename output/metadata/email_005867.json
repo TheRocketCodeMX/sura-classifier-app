@@ -1,0 +1,36 @@
+{
+  "id": "email_005867",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:55.334652",
+  "subject": "Re: BISBA | COTIZACIÓN POOL GMM 06 SEP 2025-2026",
+  "sender_name": "Regina Gomez",
+  "delivery_time": "2025-08-06T16:22:55.802108",
+  "creation_time": "2025-08-20T19:53:55.224512",
+  "modification_time": "2025-08-20T20:09:34.780799",
+  "attachment_count": 4,
+  "eml_file": "emails/email_005867.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 823,
+      "path": "attachments/email_005867/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 3958,
+      "path": "attachments/email_005867/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 3958,
+      "path": "attachments/email_005867/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 823,
+      "path": "attachments/email_005867/attachment_3"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 26333
+}

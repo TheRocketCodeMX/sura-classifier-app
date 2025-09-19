@@ -1,0 +1,86 @@
+{
+  "id": "email_003134",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:51.789870",
+  "subject": "Seguros Sura | Endoso",
+  "sender_name": "Atencion Telefonica1",
+  "delivery_time": "2025-08-15T20:04:09.006319",
+  "creation_time": "2025-08-18T14:53:17.202196",
+  "modification_time": "2025-08-19T13:55:20.981589",
+  "attachment_count": 14,
+  "eml_file": "emails/email_003134.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 16722,
+      "path": "attachments/email_003134/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 545,
+      "path": "attachments/email_003134/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 927,
+      "path": "attachments/email_003134/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 610,
+      "path": "attachments/email_003134/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 11574,
+      "path": "attachments/email_003134/attachment_4"
+    },
+    {
+      "filename": "attachment_5",
+      "size": 16453,
+      "path": "attachments/email_003134/attachment_5"
+    },
+    {
+      "filename": "attachment_6",
+      "size": 565,
+      "path": "attachments/email_003134/attachment_6"
+    },
+    {
+      "filename": "attachment_7",
+      "size": 1061,
+      "path": "attachments/email_003134/attachment_7"
+    },
+    {
+      "filename": "attachment_8",
+      "size": 710,
+      "path": "attachments/email_003134/attachment_8"
+    },
+    {
+      "filename": "attachment_9",
+      "size": 823,
+      "path": "attachments/email_003134/attachment_9"
+    },
+    {
+      "filename": "attachment_10",
+      "size": 337381,
+      "path": "attachments/email_003134/attachment_10"
+    },
+    {
+      "filename": "attachment_11",
+      "size": 157617,
+      "path": "attachments/email_003134/attachment_11"
+    },
+    {
+      "filename": "attachment_12",
+      "size": 2452769,
+      "path": "attachments/email_003134/attachment_12"
+    },
+    {
+      "filename": "attachment_13",
+      "size": 14496,
+      "path": "attachments/email_003134/attachment_13"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 65162
+}

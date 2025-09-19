@@ -1,0 +1,31 @@
+{
+  "id": "email_003671",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:26:03.475181",
+  "subject": "RV: SOLICITUD CORRECCION /P & C MEXICO /POLIZA 4 607 40000290 / GRUPO 2",
+  "sender_name": "Mesa Monterrey",
+  "delivery_time": "2025-08-18T22:18:33.034470",
+  "creation_time": "2025-08-20T14:34:17.076088",
+  "modification_time": "2025-08-20T14:34:35.164805",
+  "attachment_count": 3,
+  "eml_file": "emails/email_003671.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 34248,
+      "path": "attachments/email_003671/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 92160,
+      "path": "attachments/email_003671/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 3958,
+      "path": "attachments/email_003671/attachment_2"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 7586
+}

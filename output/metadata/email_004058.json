@@ -1,0 +1,26 @@
+{
+  "id": "email_004058",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:11.380369",
+  "subject": "430 // Emisión Endoso A Extensión de Vigencia // O.C. // CIMBRA PENINSULA // OF 1 // 7096 CAE",
+  "sender_name": "Milter López Rebollar",
+  "delivery_time": "2025-08-04T16:08:39.240985",
+  "creation_time": "2025-08-05T12:57:34.128893",
+  "modification_time": "2025-08-05T12:59:08.522185",
+  "attachment_count": 2,
+  "eml_file": "emails/email_004058.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 690067,
+      "path": "attachments/email_004058/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 491687,
+      "path": "attachments/email_004058/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 5550
+}

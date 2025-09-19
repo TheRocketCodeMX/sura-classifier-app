@@ -1,0 +1,31 @@
+{
+  "id": "email_001793",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:18.639295",
+  "subject": "RV: COTIZACION | SERVICIO LAS JUNTAS, S.A. DE C.V.",
+  "sender_name": "Mesa Monterrey",
+  "delivery_time": "2025-08-06T17:55:48.066511",
+  "creation_time": "2025-08-20T19:47:50.225667",
+  "modification_time": "2025-08-20T19:59:17.887216",
+  "attachment_count": 3,
+  "eml_file": "emails/email_001793.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 119962,
+      "path": "attachments/email_001793/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 2438925,
+      "path": "attachments/email_001793/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 3958,
+      "path": "attachments/email_001793/attachment_2"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 17020
+}

@@ -1,0 +1,41 @@
+{
+  "id": "email_007047",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:25.555504",
+  "subject": "DOCUMENTACIÓN PARA COTIZAR COLECTIVIDAD GMM GRUPPE FLORES, S.A. DE C.V.",
+  "sender_name": "Jesus Guerrero",
+  "delivery_time": "2025-08-15T18:03:21.999229",
+  "creation_time": "2025-08-19T13:09:24.337697",
+  "modification_time": "2025-08-19T13:09:43.256288",
+  "attachment_count": 5,
+  "eml_file": "emails/email_007047.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 2203,
+      "path": "attachments/email_007047/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 215289,
+      "path": "attachments/email_007047/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 153066,
+      "path": "attachments/email_007047/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 11688,
+      "path": "attachments/email_007047/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 13337,
+      "path": "attachments/email_007047/attachment_4"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 13309
+}

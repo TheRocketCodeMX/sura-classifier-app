@@ -1,0 +1,36 @@
+{
+  "id": "email_006237",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:04.158595",
+  "subject": "COT PALMIRA INGENIERIA Y LOGISTICA SA DE CV TRACTOCAMION",
+  "sender_name": "promotoria1@grupoolea.mx",
+  "delivery_time": "2025-08-13T21:45:26.762300",
+  "creation_time": "2025-08-15T14:56:31.485953",
+  "modification_time": "2025-08-15T14:57:06.478264",
+  "attachment_count": 4,
+  "eml_file": "emails/email_006237.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 569,
+      "path": "attachments/email_006237/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 66322,
+      "path": "attachments/email_006237/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 2741116,
+      "path": "attachments/email_006237/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 194187,
+      "path": "attachments/email_006237/attachment_3"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 6776
+}

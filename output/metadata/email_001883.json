@@ -1,0 +1,21 @@
+{
+  "id": "email_001883",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:20.664058",
+  "subject": "Seguros SURA | Contacto",
+  "sender_name": "SURA te escucha",
+  "delivery_time": "2025-08-06T16:17:22.113162",
+  "creation_time": "2025-08-20T19:54:07.968733",
+  "modification_time": "2025-08-20T20:09:40.743626",
+  "attachment_count": 1,
+  "eml_file": "emails/email_001883.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 853685,
+      "path": "attachments/email_001883/attachment_0"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 22020
+}

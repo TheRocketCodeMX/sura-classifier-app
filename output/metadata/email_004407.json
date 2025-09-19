@@ -1,0 +1,26 @@
+{
+  "id": "email_004407",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:19.936213",
+  "subject": "Fw: ALTAS SGMM",
+  "sender_name": "Itziar Usobiaga",
+  "delivery_time": "2025-08-06T00:09:10.576705",
+  "creation_time": "2025-08-07T00:15:40.003598",
+  "modification_time": "2025-08-07T00:16:02.728318",
+  "attachment_count": 2,
+  "eml_file": "emails/email_004407.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 6682,
+      "path": "attachments/email_004407/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 10734,
+      "path": "attachments/email_004407/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 7939
+}

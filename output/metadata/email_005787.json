@@ -1,0 +1,26 @@
+{
+  "id": "email_005787",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:53.511211",
+  "subject": "Apoyo para cotizar Seguro de AP Vicente Fernandez / 4298 Mag agente de seguros y de Fianzas",
+  "sender_name": "Silvia Garduño",
+  "delivery_time": "2025-08-06T17:51:55.281022",
+  "creation_time": "2025-08-20T19:48:15.835323",
+  "modification_time": "2025-08-20T19:59:21.088372",
+  "attachment_count": 2,
+  "eml_file": "emails/email_005787.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 583343,
+      "path": "attachments/email_005787/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 13403,
+      "path": "attachments/email_005787/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 12983
+}

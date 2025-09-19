@@ -1,0 +1,31 @@
+{
+  "id": "email_006819",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:19.982102",
+  "subject": "Endoso (Modificación) no OT-0710899 del Documento 1 - 211 - 2414447 ",
+  "sender_name": "SISEGUROS 4",
+  "delivery_time": "2025-08-14T21:59:06.895909",
+  "creation_time": "2025-08-15T20:11:02.856984",
+  "modification_time": "2025-08-15T20:14:29.505872",
+  "attachment_count": 3,
+  "eml_file": "emails/email_006819.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 950,
+      "path": "attachments/email_006819/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 711,
+      "path": "attachments/email_006819/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 1129333,
+      "path": "attachments/email_006819/attachment_2"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 10912
+}

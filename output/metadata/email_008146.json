@@ -1,0 +1,26 @@
+{
+  "id": "email_008146",
+  "folder": "Principio del archivo de datos de Outlook/DEPURADOS",
+  "extraction_date": "2025-09-19T12:27:47.708747",
+  "subject": "RE: GOB. DE ESTADO DE VERACRUZ   RAMO 430 DAÑOS ",
+  "sender_name": "Daza Melo Rocio Araceli",
+  "delivery_time": "2025-08-05T21:27:13.207875",
+  "creation_time": "2025-08-06T17:52:40.893999",
+  "modification_time": "2025-08-05T21:31:47.153000",
+  "attachment_count": 2,
+  "eml_file": "emails/email_008146.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 853685,
+      "path": "attachments/email_008146/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 13747,
+      "path": "attachments/email_008146/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 28400
+}

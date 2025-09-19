@@ -1,0 +1,36 @@
+{
+  "id": "email_007897",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:44.073409",
+  "subject": "RV: Solicitud de Cotización Responsabilidad Civil Contratista Jidoka Automatización y Energía 2025 Inter Torreon",
+  "sender_name": "Mesa Monterrey",
+  "delivery_time": "2025-08-18T16:03:23.111290",
+  "creation_time": "2025-08-19T12:59:45.834347",
+  "modification_time": "2025-08-19T13:00:08.928940",
+  "attachment_count": 4,
+  "eml_file": "emails/email_007897.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 131072,
+      "path": "attachments/email_007897/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 853685,
+      "path": "attachments/email_007897/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 27570,
+      "path": "attachments/email_007897/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 3958,
+      "path": "attachments/email_007897/attachment_3"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 52177
+}

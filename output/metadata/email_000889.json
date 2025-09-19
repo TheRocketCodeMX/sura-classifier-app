@@ -1,0 +1,36 @@
+{
+  "id": "email_000889",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:24:56.543886",
+  "subject": "PLD/ Renovación 2025-2026 / OPERADORA CUIXMALA S.A. DE C.V. FOLIO 2483049",
+  "sender_name": "Villa Valencia Brenda Berenice",
+  "delivery_time": "2025-08-04T15:45:38.529037",
+  "creation_time": "2025-08-04T23:39:15.009308",
+  "modification_time": "2025-08-04T23:42:20.243789",
+  "attachment_count": 4,
+  "eml_file": "emails/email_000889.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 823,
+      "path": "attachments/email_000889/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 2043450,
+      "path": "attachments/email_000889/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 853685,
+      "path": "attachments/email_000889/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 501211,
+      "path": "attachments/email_000889/attachment_3"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 78636
+}

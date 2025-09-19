@@ -1,0 +1,21 @@
+{
+  "id": "email_005876",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:55.460347",
+  "subject": "RV: Renovación de póliza / 12-902-129 / GLOBAL CONSULTING PROFESSIONALS !!!!!!!!!!!!!!!!!!!URGENTEEEEE!!!!!!!!!!!!!!!!!!!!!!!!!!",
+  "sender_name": "Licona Tamayo Cristopher",
+  "delivery_time": "2025-08-06T15:54:01.025283",
+  "creation_time": "2025-08-20T19:54:24.354613",
+  "modification_time": "2025-08-20T20:10:49.075642",
+  "attachment_count": 1,
+  "eml_file": "emails/email_005876.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 10405,
+      "path": "attachments/email_005876/attachment_0"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 18533
+}

@@ -1,0 +1,21 @@
+{
+  "id": "email_008372",
+  "folder": "Principio del archivo de datos de Outlook/DEPURADOS",
+  "extraction_date": "2025-09-19T12:27:51.571591",
+  "subject": "RE: COTIZACION RENOVACION POLIZA / 40000627 SANDRA CECILIA ELIZONDO VILLASEÑOR",
+  "sender_name": "Gonzalez Morales Brenda Alejandra",
+  "delivery_time": "2025-08-05T16:58:50.887086",
+  "creation_time": "2025-08-05T17:22:38.075124",
+  "modification_time": "2025-08-05T17:22:25.936856",
+  "attachment_count": 1,
+  "eml_file": "emails/email_008372.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 853685,
+      "path": "attachments/email_008372/attachment_0"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 10175
+}

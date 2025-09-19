@@ -1,0 +1,14 @@
+{
+  "id": "email_008244",
+  "folder": "Principio del archivo de datos de Outlook/DEPURADOS",
+  "extraction_date": "2025-09-19T12:27:49.571628",
+  "subject": "Informe de recuperación de mensajes para el mensaje: \"Recuperar: RENOV AGOSTO / Servicios De Arrendamiento Almirante Sa De Cv\"",
+  "sender_name": "Office365Reports@microsoft.com",
+  "delivery_time": "2025-08-04T16:56:11.999220",
+  "creation_time": "2025-08-04T16:59:54.069321",
+  "modification_time": "2025-08-04T17:01:14.210625",
+  "eml_file": "emails/email_008244.eml",
+  "attachments": [],
+  "plain_text_length": 0,
+  "html_content_length": 7175
+}

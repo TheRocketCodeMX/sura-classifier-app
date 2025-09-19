@@ -1,0 +1,31 @@
+{
+  "id": "email_005367",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:43.222665",
+  "subject": "RV: Tracusa: COTIZACIÓN PÓLIZA MULTIEMPRESARIAL 2025-2026 ,",
+  "sender_name": "Salazar Soto Edgar Alfredo",
+  "delivery_time": "2025-08-06T02:09:23.428145",
+  "creation_time": "2025-08-07T16:03:17.812803",
+  "modification_time": "2025-08-07T16:03:49.984080",
+  "attachment_count": 3,
+  "eml_file": "emails/email_005367.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 28833,
+      "path": "attachments/email_005367/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 7001862,
+      "path": "attachments/email_005367/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 853685,
+      "path": "attachments/email_005367/attachment_2"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 34081
+}

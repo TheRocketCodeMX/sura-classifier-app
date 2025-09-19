@@ -1,0 +1,91 @@
+{
+  "id": "email_001309",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:07.089350",
+  "subject": "RE: Bajas  // Póliza  5 902 50000478  ",
+  "sender_name": "malvarez@asesoresavg.com",
+  "delivery_time": "2025-08-04T19:10:49.852052",
+  "creation_time": "2025-08-05T23:36:59.572070",
+  "modification_time": "2025-08-05T23:37:26.549673",
+  "attachment_count": 15,
+  "eml_file": "emails/email_001309.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 269016,
+      "path": "attachments/email_001309/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 27732,
+      "path": "attachments/email_001309/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 24200,
+      "path": "attachments/email_001309/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 11882,
+      "path": "attachments/email_001309/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 13379,
+      "path": "attachments/email_001309/attachment_4"
+    },
+    {
+      "filename": "attachment_5",
+      "size": 17790,
+      "path": "attachments/email_001309/attachment_5"
+    },
+    {
+      "filename": "attachment_6",
+      "size": 46161,
+      "path": "attachments/email_001309/attachment_6"
+    },
+    {
+      "filename": "attachment_7",
+      "size": 46172,
+      "path": "attachments/email_001309/attachment_7"
+    },
+    {
+      "filename": "attachment_8",
+      "size": 46168,
+      "path": "attachments/email_001309/attachment_8"
+    },
+    {
+      "filename": "attachment_9",
+      "size": 46170,
+      "path": "attachments/email_001309/attachment_9"
+    },
+    {
+      "filename": "attachment_10",
+      "size": 46174,
+      "path": "attachments/email_001309/attachment_10"
+    },
+    {
+      "filename": "attachment_11",
+      "size": 46241,
+      "path": "attachments/email_001309/attachment_11"
+    },
+    {
+      "filename": "attachment_12",
+      "size": 46196,
+      "path": "attachments/email_001309/attachment_12"
+    },
+    {
+      "filename": "attachment_13",
+      "size": 46161,
+      "path": "attachments/email_001309/attachment_13"
+    },
+    {
+      "filename": "attachment_14",
+      "size": 46197,
+      "path": "attachments/email_001309/attachment_14"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 36186
+}

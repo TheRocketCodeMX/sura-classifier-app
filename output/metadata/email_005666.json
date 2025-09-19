@@ -1,0 +1,36 @@
+{
+  "id": "email_005666",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:50.589057",
+  "subject": "RV: MODIFICACION/GRUPO 5066/ SUBGRUPO 02 /JET VAN /AGE 8407 // OT 461-25 M",
+  "sender_name": "Mesa Monterrey",
+  "delivery_time": "2025-08-06T21:10:37.223062",
+  "creation_time": "2025-08-20T19:40:35.417876",
+  "modification_time": "2025-08-20T19:48:08.906098",
+  "attachment_count": 4,
+  "eml_file": "emails/email_005666.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 22561,
+      "path": "attachments/email_005666/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 167841,
+      "path": "attachments/email_005666/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 16627,
+      "path": "attachments/email_005666/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 1806,
+      "path": "attachments/email_005666/attachment_3"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 17568
+}

@@ -1,0 +1,21 @@
+{
+  "id": "email_003260",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:54.021666",
+  "subject": "RV: PC Biologics Poliza de Carga vigencia 2025 2026",
+  "sender_name": "Hernandez Rojas Ruben Omar",
+  "delivery_time": "2025-08-19T23:36:55.953258",
+  "creation_time": "2025-08-20T14:57:26.903126",
+  "modification_time": "2025-08-21T01:41:36.125570",
+  "attachment_count": 1,
+  "eml_file": "emails/email_003260.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 1079072,
+      "path": "attachments/email_003260/attachment_0"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 10452
+}

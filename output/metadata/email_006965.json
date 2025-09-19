@@ -1,0 +1,31 @@
+{
+  "id": "email_006965",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:24.352389",
+  "subject": "RV: MAQUILADORA ALUMEX CDMX || FACILIDAD SEGURO DE RESPONSABILDIAD CIVIL CONTRATISTA || EMISION",
+  "sender_name": "Gandara Godinez Lia",
+  "delivery_time": "2025-08-15T15:20:42.812912",
+  "creation_time": "2025-08-18T17:30:26.242481",
+  "modification_time": "2025-08-18T17:32:46.981340",
+  "attachment_count": 3,
+  "eml_file": "emails/email_006965.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 140594,
+      "path": "attachments/email_006965/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 498888,
+      "path": "attachments/email_006965/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 853685,
+      "path": "attachments/email_006965/attachment_2"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 20928
+}

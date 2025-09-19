@@ -1,0 +1,36 @@
+{
+  "id": "email_005164",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:37.666816",
+  "subject": "RE: COTIZACION OP ECOLOGIA / ACCIDENTES PERSONALES",
+  "sender_name": "Mesa Hermosillo",
+  "delivery_time": "2025-08-04T08:41:24",
+  "creation_time": "2025-08-04T08:41:31.048865",
+  "modification_time": "2025-08-04T08:41:34.649117",
+  "attachment_count": 4,
+  "eml_file": "emails/email_005164.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 116850,
+      "path": "attachments/email_005164/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 27570,
+      "path": "attachments/email_005164/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 3958,
+      "path": "attachments/email_005164/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 853685,
+      "path": "attachments/email_005164/attachment_3"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 46453
+}

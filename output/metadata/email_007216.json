@@ -1,0 +1,36 @@
+{
+  "id": "email_007216",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:29.426609",
+  "subject": "RE: AGENTE: 099281 / INNOVACIÓN // Cotización // M.E. // TERRAFERTIL MEXICO //",
+  "sender_name": "Estrada Huerta Alejandra Berenice",
+  "delivery_time": "2025-08-20T02:05:01.671946",
+  "creation_time": "2025-08-21T14:20:48.395876",
+  "modification_time": "2025-08-21T14:21:12.283681",
+  "attachment_count": 4,
+  "eml_file": "emails/email_007216.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 815211,
+      "path": "attachments/email_007216/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 853685,
+      "path": "attachments/email_007216/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 1144016,
+      "path": "attachments/email_007216/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 315607,
+      "path": "attachments/email_007216/attachment_3"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 77076
+}

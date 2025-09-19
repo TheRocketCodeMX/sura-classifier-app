@@ -1,0 +1,36 @@
+{
+  "id": "email_007667",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:39.276054",
+  "subject": "RV: COTIZAR PARRAS CONE | GMM | SURA",
+  "sender_name": "Mesa Monterrey",
+  "delivery_time": "2025-08-18T22:13:04.448055",
+  "creation_time": "2025-08-20T14:34:22.526949",
+  "modification_time": "2025-08-20T14:34:44.071522",
+  "attachment_count": 4,
+  "eml_file": "emails/email_007667.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 667190,
+      "path": "attachments/email_007667/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 853685,
+      "path": "attachments/email_007667/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 292527,
+      "path": "attachments/email_007667/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 3958,
+      "path": "attachments/email_007667/attachment_3"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 33121
+}

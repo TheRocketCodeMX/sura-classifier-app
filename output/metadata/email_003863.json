@@ -1,0 +1,26 @@
+{
+  "id": "email_003863",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:26:07.052118",
+  "subject": "RV: COTIZACION AP SEGURO TLAXCALA EQUIPO DE BEISBOL",
+  "sender_name": "Animas Guerrero Hector Alfonso",
+  "delivery_time": "2025-08-18T17:08:02.702881",
+  "creation_time": "2025-08-19T13:07:05.655870",
+  "modification_time": "2025-08-19T13:07:24.668420",
+  "attachment_count": 2,
+  "eml_file": "emails/email_003863.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 13738,
+      "path": "attachments/email_003863/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 853685,
+      "path": "attachments/email_003863/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 12516
+}

@@ -1,0 +1,21 @@
+{
+  "id": "email_004373",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:26:18.966548",
+  "subject": "RENOVACION 1-430-100045655 GLM COMPONENTS MEXICO",
+  "sender_name": "Arzate Jimenez Estephanie Julieta",
+  "delivery_time": "2025-08-05T02:17:48.108731",
+  "creation_time": "2025-08-06T14:30:16.850290",
+  "modification_time": "2025-08-06T14:43:11.860672",
+  "attachment_count": 1,
+  "eml_file": "emails/email_004373.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 853685,
+      "path": "attachments/email_004373/attachment_0"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 6019
+}

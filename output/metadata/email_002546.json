@@ -1,0 +1,36 @@
+{
+  "id": "email_002546",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:36.966747",
+  "subject": "RV: Solicitud de cotización Gasto Médico/Colectivo de WJP MACHINERY",
+  "sender_name": "Mesa Monterrey",
+  "delivery_time": "2025-08-14T15:33:41.814946",
+  "creation_time": "2025-08-15T14:07:22.000790",
+  "modification_time": "2025-08-15T14:22:01.231635",
+  "attachment_count": 4,
+  "eml_file": "emails/email_002546.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 823,
+      "path": "attachments/email_002546/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 3958,
+      "path": "attachments/email_002546/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 87040,
+      "path": "attachments/email_002546/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 41052,
+      "path": "attachments/email_002546/attachment_3"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 59668
+}

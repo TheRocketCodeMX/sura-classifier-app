@@ -1,0 +1,36 @@
+{
+  "id": "email_008294",
+  "folder": "Principio del archivo de datos de Outlook/DEPURADOS",
+  "extraction_date": "2025-09-19T12:27:50.435799",
+  "subject": "RV: RENOVACION POLIZA 11-430-200002306 / ROSA LUZ",
+  "sender_name": "Felix Robles Alejandro",
+  "delivery_time": "2025-08-05T23:41:35.127491",
+  "creation_time": "2025-08-06T15:02:09.283172",
+  "modification_time": "2025-08-06T15:02:35.486647",
+  "attachment_count": 4,
+  "eml_file": "emails/email_008294.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 823,
+      "path": "attachments/email_008294/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 694865,
+      "path": "attachments/email_008294/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 853685,
+      "path": "attachments/email_008294/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 1093121,
+      "path": "attachments/email_008294/attachment_3"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 20410
+}

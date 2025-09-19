@@ -1,0 +1,26 @@
+{
+  "id": "email_001134",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:02.753244",
+  "subject": "Fwd: ::: ENDOSO BENEFICIARIO PREFERENTE 2 MÁQUINAS ::: EN PÓLIZAS 3-501-2159 Y 3-403-920 PLANEANDO SOLUCIONES DEL BAJIO: PSB200507639",
+  "sender_name": "Jaquelin Alvarez",
+  "delivery_time": "2025-08-05T21:45:47.152969",
+  "creation_time": "2025-08-06T23:01:26.452298",
+  "modification_time": "2025-08-06T23:01:45.139965",
+  "attachment_count": 2,
+  "eml_file": "emails/email_001134.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 29576,
+      "path": "attachments/email_001134/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 140567,
+      "path": "attachments/email_001134/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 8830
+}

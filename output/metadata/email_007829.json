@@ -1,0 +1,26 @@
+{
+  "id": "email_007829",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:42.307559",
+  "subject": "CORRECCION | FLOTILLA | JORGE IGNACIO CRUZ FLORES |  DE PÓLIZAS 2415621 Y 2415622 | OFICINA 01 | AGENTE 9129",
+  "sender_name": "Martha Dominguez",
+  "delivery_time": "2025-08-18T17:42:41.711715",
+  "creation_time": "2025-08-19T11:50:22.283691",
+  "modification_time": "2025-08-19T11:50:42.466245",
+  "attachment_count": 2,
+  "eml_file": "emails/email_007829.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 284619,
+      "path": "attachments/email_007829/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 284627,
+      "path": "attachments/email_007829/attachment_1"
+    }
+  ],
+  "plain_text_length": 733,
+  "html_content_length": 0
+}

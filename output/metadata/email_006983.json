@@ -1,0 +1,26 @@
+{
+  "id": "email_006983",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:24.606802",
+  "subject": "RE: ENDOSO POLIZA 1-420-500067208 ",
+  "sender_name": "Octavio Tapia",
+  "delivery_time": "2025-08-15T16:05:04.790233",
+  "creation_time": "2025-08-18T13:14:35.907461",
+  "modification_time": "2025-08-18T13:14:53.074588",
+  "attachment_count": 2,
+  "eml_file": "emails/email_006983.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 1399,
+      "path": "attachments/email_006983/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 85761,
+      "path": "attachments/email_006983/attachment_1"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 17909
+}

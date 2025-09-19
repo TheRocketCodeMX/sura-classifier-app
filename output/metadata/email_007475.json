@@ -1,0 +1,36 @@
+{
+  "id": "email_007475",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:34.208006",
+  "subject": "RV: SOLICITUD DE COTIZACION RENOVACION POLIZA 1-501-12533-0 / RC ESTACIONAMIENO  / OPERADORA SUMA PARK, S. DE R.L. DE C.V.",
+  "sender_name": "danos@smqudseguros.mx",
+  "delivery_time": "2025-08-19T16:05:13.765701",
+  "creation_time": "2025-08-20T13:34:03.315078",
+  "modification_time": "2025-08-20T13:34:21.597467",
+  "attachment_count": 4,
+  "eml_file": "emails/email_007475.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 787,
+      "path": "attachments/email_007475/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 1899,
+      "path": "attachments/email_007475/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 91142,
+      "path": "attachments/email_007475/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 525421,
+      "path": "attachments/email_007475/attachment_3"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 8588
+}

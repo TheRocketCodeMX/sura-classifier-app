@@ -1,0 +1,41 @@
+{
+  "id": "email_007677",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:39.466236",
+  "subject": "RV: SOLICITUD DE SEGURO CYBER  // UNION COOP SA DE CV  // AGENTE MARIA GUADALUPE SANCHEZ VELASCO",
+  "sender_name": "Mesa Monterrey",
+  "delivery_time": "2025-08-18T22:05:58.515226",
+  "creation_time": "2025-08-20T13:08:03.204009",
+  "modification_time": "2025-08-20T13:08:25.092742",
+  "attachment_count": 5,
+  "eml_file": "emails/email_007677.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 99973,
+      "path": "attachments/email_007677/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 1600250,
+      "path": "attachments/email_007677/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 853685,
+      "path": "attachments/email_007677/attachment_2"
+    },
+    {
+      "filename": "attachment_3",
+      "size": 55827,
+      "path": "attachments/email_007677/attachment_3"
+    },
+    {
+      "filename": "attachment_4",
+      "size": 3958,
+      "path": "attachments/email_007677/attachment_4"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 14613
+}

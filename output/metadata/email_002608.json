@@ -1,0 +1,21 @@
+{
+  "id": "email_002608",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:38.577973",
+  "subject": "RE: Solicitud de liberación de recibo de julio póliza 19-606-965",
+  "sender_name": "Cruz Aguila Xenia Cecilia",
+  "delivery_time": "2025-08-14T17:06:34.318735",
+  "creation_time": "2025-08-15T15:22:17.646308",
+  "modification_time": "2025-08-15T15:25:25.384199",
+  "attachment_count": 1,
+  "eml_file": "emails/email_002608.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 853685,
+      "path": "attachments/email_002608/attachment_0"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 20321
+}

@@ -1,0 +1,31 @@
+{
+  "id": "email_003204",
+  "folder": "Principio del archivo de datos de Outlook/ASIGNADOS",
+  "extraction_date": "2025-09-19T12:25:52.877047",
+  "subject": "LISTADO DE COBERTURA SURA 15 AGOSTO 2025",
+  "sender_name": "SISEGUROS",
+  "delivery_time": "2025-08-16T00:30:22.951384",
+  "creation_time": "2025-08-19T13:02:19.894303",
+  "modification_time": "2025-08-19T13:02:42.093354",
+  "attachment_count": 3,
+  "eml_file": "emails/email_003204.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 5040,
+      "path": "attachments/email_003204/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 7810,
+      "path": "attachments/email_003204/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 11117,
+      "path": "attachments/email_003204/attachment_2"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 48393
+}

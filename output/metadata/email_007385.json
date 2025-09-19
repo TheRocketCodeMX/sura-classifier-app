@@ -1,0 +1,31 @@
+{
+  "id": "email_007385",
+  "folder": "Principio del archivo de datos de Outlook/PRODUCCION ",
+  "extraction_date": "2025-09-19T12:27:32.565661",
+  "subject": "RV: Cotización de renovación póliza 2-605-20002368 | Comunidad Educativa Semper Maior",
+  "sender_name": "Mesa Puebla",
+  "delivery_time": "2025-08-19T18:45:56.976906",
+  "creation_time": "2025-08-21T13:43:21.250879",
+  "modification_time": "2025-08-21T13:46:11.639068",
+  "attachment_count": 3,
+  "eml_file": "emails/email_007385.eml",
+  "attachments": [
+    {
+      "filename": "attachment_0",
+      "size": 2421,
+      "path": "attachments/email_007385/attachment_0"
+    },
+    {
+      "filename": "attachment_1",
+      "size": 167198,
+      "path": "attachments/email_007385/attachment_1"
+    },
+    {
+      "filename": "attachment_2",
+      "size": 3958,
+      "path": "attachments/email_007385/attachment_2"
+    }
+  ],
+  "plain_text_length": 0,
+  "html_content_length": 24315
+}
