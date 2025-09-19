@@ -40,6 +40,12 @@ class EmailDashboard:
     def load_classification_data(self):
         """Cargar datos de clasificación"""
         try:
+            if not self.classification_file.exists():
+                print(f"Archivo de clasificación no encontrado: {self.classification_file}")
+                self.data = {'emails': []}
+                self.df = pd.DataFrame()
+                return
+
             with open(self.classification_file, 'r', encoding='utf-8') as f:
                 self.data = json.load(f)
 
